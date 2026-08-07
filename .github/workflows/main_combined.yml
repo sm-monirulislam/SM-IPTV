@@ -25,7 +25,7 @@ jobs:
         env:
           ZIP_PASSWORD: ${{ secrets.ZIP_PASSWORD }}
         run: |
-          unzip -P "$ZIP_PASSWORD" combined.zip
+          unzip -P "$ZIP_PASSWORD" Scripts/combined.zip
 
       - name: Install Python Dependencies
         run: |
