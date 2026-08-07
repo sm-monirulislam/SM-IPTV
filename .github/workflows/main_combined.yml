@@ -1,1 +1,37 @@
 
+name: Update Combined IPTV List
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # প্রতি ৬ ঘন্টা পর পর রান হবে (UTC time অনুযায়ী)
+  workflow_dispatch:         # ম্যানুয়ালি Run button থেকেও চালানো যাবে
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  update-iptv:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run combine script
+        run: python combine_iptv.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add Combined_Live_TV.m3u
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update Combined_Live_TV.m3u [skip ci]"
+          git push
