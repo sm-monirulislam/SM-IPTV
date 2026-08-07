@@ -5,6 +5,9 @@ on:
   schedule:
     - cron: "0 */2 * * *"
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -12,6 +15,9 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -19,13 +25,15 @@ jobs:
           python-version: "3.11"
 
       - name: Install unzip
-        run: sudo apt-get update && sudo apt-get install -y unzip
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y unzip
 
       - name: Extract Locked ZIP
         env:
           ZIP_PASSWORD: ${{ secrets.ZIP_PASSWORD }}
         run: |
-          unzip -P "$ZIP_PASSWORD" Scripts/combined.zip
+          unzip -P "$ZIP_PASSWORD" -o combined.zip
 
       - name: Install Python Dependencies
         run: |
@@ -35,17 +43,18 @@ jobs:
         run: |
           python combine_playlist.py
 
-      - name: Commit Changes
+      - name: Commit & Push Changes
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add Combined_Live_TV.m3u
+          git add .
 
           if git diff --cached --quiet; then
-            echo "No changes."
+            echo "No changes to commit."
             exit 0
           fi
 
           git commit -m "Auto Update Combined Playlist"
-          git push
+
+          git push origin HEAD:${{ github.ref_name }}
