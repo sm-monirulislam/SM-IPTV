@@ -16,7 +16,6 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          persist-credentials: true
           fetch-depth: 0
 
       - name: Setup Python
@@ -29,24 +28,24 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y unzip
 
-      - name: Extract Locked ZIP
+      - name: Extract Protected ZIP
         env:
           ZIP_PASSWORD: ${{ secrets.ZIP_PASSWORD }}
         run: |
-          unzip -P "$ZIP_PASSWORD" -o combined.zip
+          unzip -P "$ZIP_PASSWORD" -o Scripts/combined.zip -d Scripts
 
-      - name: Install Python Dependencies
+      - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
 
-      - name: Run Python Script
+      - name: Run Script
         run: |
-          python combine_playlist.py
+          python Scripts/combine_playlist.py
 
-      - name: Commit & Push Changes
+      - name: Commit & Push
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add .
 
@@ -57,4 +56,4 @@ jobs:
 
           git commit -m "Auto Update Combined Playlist"
 
-          git push origin HEAD:${{ github.ref_name }}
+          git push
