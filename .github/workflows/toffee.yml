@@ -25,7 +25,7 @@ jobs:
         run: pip install requests
 
       - name: Run Toffee Script
-        run: python toffee.py
+        run: python Scripts/toffee_playlist.py
 
       - name: Commit and Push
         run: |
