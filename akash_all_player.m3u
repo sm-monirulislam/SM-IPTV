@@ -1,0 +1,133 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="somoy_tv" tvg-name="Somoy tv" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1784629064327.png" group-title="IPTV",Somoy tv
+https://akash.sm-monirul.top/somoy_tv.m3u8
+
+#EXTINF:-1 tvg-id="jamuna_tv" tvg-name="Jamuna TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png" group-title="IPTV",Jamuna TV
+https://akash.sm-monirul.top/jamuna_tv.m3u8
+
+#EXTINF:-1 tvg-id="independent_tv" tvg-name="Independent TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739964387847.png" group-title="IPTV",Independent TV
+https://akash.sm-monirul.top/independent_tv.m3u8
+
+#EXTINF:-1 tvg-id="dbc_news_hd" tvg-name="DBC News HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186306600.png" group-title="IPTV",DBC News HD
+https://akash.sm-monirul.top/dbc_news_hd.m3u8
+
+#EXTINF:-1 tvg-id="btv_shangshad" tvg-name="BTV Shangshad" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1773247382366.png" group-title="IPTV",BTV Shangshad
+https://akash.sm-monirul.top/btv_shangshad.m3u8
+
+#EXTINF:-1 tvg-id="ekattor_hd" tvg-name="Ekattor HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png" group-title="IPTV",Ekattor HD
+https://akash.sm-monirul.top/ekattor_hd.m3u8
+
+#EXTINF:-1 tvg-id="channel_24_hd" tvg-name="Channel 24 HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png" group-title="IPTV",Channel 24 HD
+https://akash.sm-monirul.top/channel_24_hd.m3u8
+
+#EXTINF:-1 tvg-id="btv" tvg-name="BTV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1784629845642.png" group-title="IPTV",BTV
+https://akash.sm-monirul.top/btv.m3u8
+
+#EXTINF:-1 tvg-id="maasranga_tv" tvg-name="Maasranga TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1773680325498.png" group-title="IPTV",Maasranga TV
+https://akash.sm-monirul.top/maasranga_tv.m3u8
+
+#EXTINF:-1 tvg-id="crazy_ex" tvg-name="Crazy Ex" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770348753896.png" group-title="IPTV",Crazy Ex
+https://akash.sm-monirul.top/crazy_ex.m3u8
+
+#EXTINF:-1 tvg-id="sports_range" tvg-name="Sports Range" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380601958.png" group-title="IPTV",Sports Range
+https://akash.sm-monirul.top/sports_range.m3u8
+
+#EXTINF:-1 tvg-id="atn_news" tvg-name="ATN News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png" group-title="IPTV",ATN News
+https://akash.sm-monirul.top/atn_news.m3u8
+
+#EXTINF:-1 tvg-id="channel_9_hd" tvg-name="Channel 9 HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770188008067.png" group-title="IPTV",Channel 9 HD
+https://akash.sm-monirul.top/channel_9_hd.m3u8
+
+#EXTINF:-1 tvg-id="news_24_hd" tvg-name="News 24 HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186895850.png" group-title="IPTV",News 24 HD
+https://akash.sm-monirul.top/news_24_hd.m3u8
+
+#EXTINF:-1 tvg-id="deepto_tv_hd" tvg-name="Deepto TV HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png" group-title="IPTV",Deepto TV HD
+https://akash.sm-monirul.top/deepto_tv_hd.m3u8
+
+#EXTINF:-1 tvg-id="ntv" tvg-name="NTV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560841094.png" group-title="IPTV",NTV
+https://akash.sm-monirul.top/ntv.m3u8
+
+#EXTINF:-1 tvg-id="al_jazeera" tvg-name="Al Jazeera" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735547218986.png" group-title="IPTV",Al Jazeera
+https://akash.sm-monirul.top/al_jazeera.m3u8
+
+#EXTINF:-1 tvg-id="channel_i_hd" tvg-name="Channel I HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png" group-title="IPTV",Channel I HD
+https://akash.sm-monirul.top/channel_i_hd.m3u8
+
+#EXTINF:-1 tvg-id="bangla_vision" tvg-name="Bangla Vision" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="IPTV",Bangla Vision
+https://akash.sm-monirul.top/bangla_vision.m3u8
+
+#EXTINF:-1 tvg-id="sports_legends" tvg-name="Sports Legends" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770377900139.png" group-title="IPTV",Sports Legends
+https://akash.sm-monirul.top/sports_legends.m3u8
+
+#EXTINF:-1 tvg-id="star_news" tvg-name="Star News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png" group-title="IPTV",Star News
+https://akash.sm-monirul.top/star_news.m3u8
+
+#EXTINF:-1 tvg-id="party_universe" tvg-name="Party Universe" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378215384.png" group-title="IPTV",Party Universe
+https://akash.sm-monirul.top/party_universe.m3u8
+
+#EXTINF:-1 tvg-id="thunder_er" tvg-name="Thunder Er" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380791303.png" group-title="IPTV",Thunder Er
+https://akash.sm-monirul.top/thunder_er.m3u8
+
+#EXTINF:-1 tvg-id="fighters" tvg-name="Fighters" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380942670.png" group-title="IPTV",Fighters
+https://akash.sm-monirul.top/fighters.m3u8
+
+#EXTINF:-1 tvg-id="flash_guys_hd" tvg-name="Flash Guys HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378074527.png" group-title="IPTV",Flash Guys HD
+https://akash.sm-monirul.top/flash_guys_hd.m3u8
+
+#EXTINF:-1 tvg-id="nikki" tvg-name="Nikki" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378704923.png" group-title="IPTV",Nikki
+https://akash.sm-monirul.top/nikki.m3u8
+
+#EXTINF:-1 tvg-id="channel_1" tvg-name="Channel 1" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1781163068414.png" group-title="IPTV",Channel 1
+https://akash.sm-monirul.top/channel_1.m3u8
+
+#EXTINF:-1 tvg-id="originals" tvg-name="Originals" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770313122372.png" group-title="IPTV",Originals
+https://akash.sm-monirul.top/originals.m3u8
+
+#EXTINF:-1 tvg-id="joy" tvg-name="Joy" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378874717.png" group-title="IPTV",Joy
+https://akash.sm-monirul.top/joy.m3u8
+
+#EXTINF:-1 tvg-id="delicious" tvg-name="Delicious" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378370876.png" group-title="IPTV",Delicious
+https://akash.sm-monirul.top/delicious.m3u8
+
+#EXTINF:-1 tvg-id="funny_junior_hd" tvg-name="Funny Junior HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770379573329.png" group-title="IPTV",Funny Junior HD
+https://akash.sm-monirul.top/funny_junior_hd.m3u8
+
+#EXTINF:-1 tvg-id="kids_stars" tvg-name="Kids Stars" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381398090.png" group-title="IPTV",Kids Stars
+https://akash.sm-monirul.top/kids_stars.m3u8
+
+#EXTINF:-1 tvg-id="cineedge_hd" tvg-name="Cineedge HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347851305.png" group-title="IPTV",Cineedge HD
+https://akash.sm-monirul.top/cineedge_hd.m3u8
+
+#EXTINF:-1 tvg-id="crimes" tvg-name="Crimes" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380126540.png" group-title="IPTV",Crimes
+https://akash.sm-monirul.top/crimes.m3u8
+
+#EXTINF:-1 tvg-id="screem" tvg-name="Screem" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770312098339.png" group-title="IPTV",Screem
+https://akash.sm-monirul.top/screem.m3u8
+
+#EXTINF:-1 tvg-id="superrix_hd" tvg-name="Superrix HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770348388925.png" group-title="IPTV",Superrix HD
+https://akash.sm-monirul.top/superrix_hd.m3u8
+
+#EXTINF:-1 tvg-id="uniques_hd" tvg-name="Uniques HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347327658.png" group-title="IPTV",Uniques HD
+https://akash.sm-monirul.top/uniques_hd.m3u8
+
+#EXTINF:-1 tvg-id="buddystar_hd" tvg-name="BuddyStar HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770379038530.png" group-title="IPTV",BuddyStar HD
+https://akash.sm-monirul.top/buddystar_hd.m3u8
+
+#EXTINF:-1 tvg-id="lucky_family" tvg-name="Lucky Family" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381248531.png" group-title="IPTV",Lucky Family
+https://akash.sm-monirul.top/lucky_family.m3u8
+
+#EXTINF:-1 tvg-id="smarty" tvg-name="Smarty" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381107924.png" group-title="IPTV",Smarty
+https://akash.sm-monirul.top/smarty.m3u8
+
+#EXTINF:-1 tvg-id="desh_tv" tvg-name="Desh TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1782012550123.png" group-title="IPTV",Desh TV
+https://akash.sm-monirul.top/desh_tv.m3u8
+
+#EXTINF:-1 tvg-id="intelligence" tvg-name="Intelligence" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380460488.png" group-title="IPTV",Intelligence
+https://akash.sm-monirul.top/intelligence.m3u8
+
+#EXTINF:-1 tvg-id="true_stories" tvg-name="True Stories" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380306806.png" group-title="IPTV",True Stories
+https://akash.sm-monirul.top/true_stories.m3u8
+
+#EXTINF:-1 tvg-id="luxell_hd" tvg-name="Luxell HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378560772.png" group-title="IPTV",Luxell HD
+https://akash.sm-monirul.top/luxell_hd.m3u8
