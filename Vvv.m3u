@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="143" tvg-name="ZEE BANGLA" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1756017182009.png" group-title="Entertainment",ZEE BANGLA
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bingeakashgo.live.ott.irdeto.com/licenseServer/widevine/v1/bingeakashgo/license?contentId=8f95c9cd-6940
+#KODIPROP:inputstream.adaptive.stream_headers=Cookie=Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcxNC9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY1NzA5NjV9fX1dfQ; Edge-Signature=6VBVDEJ-rUojN~xMHlCFDRQzwdtTslWf43ByRT8Gmc4; Edge-Key-Pair-Id=DEFAULT
+https://owrcovcrpy.gpcdn.net/bpk-tv/1714/output/index.mpd
