@@ -1,6 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="153" tvg-name="Ten Cricket" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1745304841482.png" group-title="Sports",Ten Cricket
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-cookie=Edge-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyNy9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY1NzI1Mjd9fX1dfQ; Edge-Signature=F5VJj4wytZW8aKv0Y-IhaSYsgf7kSQ~VhENeXmF4IU0; Edge-Key-Pair-Id=DEFAULT
-#KODIPROP:inputstream.adaptive.license_key=https://bingeakashgo.live.ott.irdeto.com/licenseServer/widevine/v1/bingeakashgo/license?contentId=801c26dd-8035
-https://owrcovcrpy.gpcdn.net/bpk-tv/1727/output/index.mpd
