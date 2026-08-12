@@ -75,6 +75,9 @@ http://fastshare1.com:8080//live/25711345/late8airline/319505.ts
 #EXTINF:-1 tvg-id="247000" tvg-name="Independent TV " tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087037971.png" group-title="SM All TV",Independent TV
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/423.ts
 
+#EXTINF:-1 tvg-id="channel_9" tvg-name="Channel 9" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_0f3afa480f77dd7d97d49b449a05f3fa_playmist_channel_9_400x400.jpg",Channel 9
+https://tvsen6.aynaott.com/kajlsd57jnkdf/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/ec/BHI_Channel_logo.png" group-title="SM All TV",Bhi Channel
 http://15.235.185.236/hls/bhi.m3u8
 
