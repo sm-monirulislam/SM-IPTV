@@ -1,195 +1,195 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="atn_bangla" tvg-name="ATN BANGLA" tvg-logo="https://logo.sm-monirul.top/assets/images/atn_bangla.png" group-title="Bangla",ATN BANGLA
-https://bdix.sm-monirul.top/ATN.BANGLA.HD/index.m3u8?token=1e4f14ba3458225b33e34606a9854134d4542c1c-8bfcc25d070d7fb02a7973a3e79136b4-1782493866-1782483066
+https://ultra.sm-monirul.top/ATN.BANGLA.HD/index.m3u8?token=4de2124caf77872f954ffed836a13a8753de1ee6-8fdb27dccd5656217de803bcb3cb8c34-1782494983-1782484183
 #EXTINF:-1 tvg-id="atn_news" tvg-name="ATN NEWS" tvg-logo="https://logo.sm-monirul.top/assets/images/atn_news.png" group-title="Bangla",ATN NEWS
-https://bdix.sm-monirul.top/ATN.NEWS.HD/index.m3u8?token=d73a7d3520570855c847026de8bdc72aad4b347d-4b27a6c0068f9a5548858b696d27ff63-1782493866-1782483066
+https://ultra.sm-monirul.top/ATN.NEWS.HD/index.m3u8?token=eecdec3fad4f9dbb6a2064e6eae6e1b063587542-5c461e570b1cf392a8dda5c7afe63721-1782494983-1782484183
 #EXTINF:-1 tvg-id="btvhd" tvg-name="BTV.HD" tvg-logo="https://logo.sm-monirul.top/assets/images/btv.png" group-title="Bangla",BTV.HD
-https://bdix.sm-monirul.top/BTV.HD/index.m3u8?token=0dc06a541474971e5cdae4563a2401ceabd56cbf-bc2345e6d1f06e09ca9160c0c8131e17-1782493866-1782483066
+https://ultra.sm-monirul.top/BTV.HD/index.m3u8?token=3360001daaa84dba43027a67f58fa907b6f121fd-fdc0d90282180def72ff6175630eba81-1782494983-1782484183
 #EXTINF:-1 tvg-id="channel_24" tvg-name="CHANNEL 24" tvg-logo="https://logo.sm-monirul.top/assets/images/channel_24.png" group-title="Bangla",CHANNEL 24
-https://bdix.sm-monirul.top/CHANNEL.24.HD/index.m3u8?token=5e38e0e1c0b1646736fac766b10e7054ed4a5720-1e9050ae22c6a8e35acaa4708ca30e98-1782493866-1782483066
+https://ultra.sm-monirul.top/CHANNEL.24.HD/index.m3u8?token=40c8d51c415434933b22ee3425c5e1c1d33ada57-63e0d7260baaf850efbc25c25f5baf5d-1782494983-1782484183
 #EXTINF:-1 tvg-id="channel_i" tvg-name="CHANNEL I" tvg-logo="https://logo.sm-monirul.top/assets/images/channel_i.png" group-title="Bangla",CHANNEL I
-https://bdix.sm-monirul.top/CHANNEL.I.HD/index.m3u8?token=433b72effe13068ed8feabe674b4156bebfe9807-b3ab9974b670f9b7ceb81d26a532513d-1782493866-1782483066
+https://ultra.sm-monirul.top/CHANNEL.I.HD/index.m3u8?token=ad27f1c2eee1d05e023a21e2fa7de14b2a14b5c5-5890f7651307d06531af4ce1d6ff4957-1782494983-1782484183
 #EXTINF:-1 tvg-id="colors_bangla_cinema" tvg-name="COLORS BANGLA CINEMA" tvg-logo="https://logo.sm-monirul.top/assets/images/colors_bangla_cinema.png" group-title="Bangla",COLORS BANGLA CINEMA
-https://bdix.sm-monirul.top/COLORS.BANGLA.CINEMA/index.m3u8?token=76af289070785536256e56c9a994a741f7cc7618-50b63714d0f1a3ec5d3fb48b18e70885-1782493867-1782483067
+https://ultra.sm-monirul.top/COLORS.BANGLA.CINEMA/index.m3u8?token=0abc8ae5799a23a583c4f17bd4cbc9ae776fa36e-824d69350e504431e5186fcb2bcdca09-1782494983-1782484183
 #EXTINF:-1 tvg-id="colors_bangla_hd" tvg-name="COLORS BANGLA HD" tvg-logo="https://logo.sm-monirul.top/assets/images/colors.png" group-title="Bangla",COLORS BANGLA HD
-https://bdix.sm-monirul.top/COLORS.BANGLA.HD/index.m3u8?token=3c842f83e5a394b6023c950025648b0203b520e5-c901eb7633fd6b113cde8c902a0d3cc8-1782493867-1782483067
+https://ultra.sm-monirul.top/COLORS.BANGLA.HD/index.m3u8?token=771ef02be22b39f4abab1697c05e4802bba9837e-3f7f9030372f23c1c3791befa9f3536c-1782494983-1782484183
 #EXTINF:-1 tvg-id="dbc_news" tvg-name="DBC NEWS" tvg-logo="https://logo.sm-monirul.top/assets/images/dbc.png" group-title="Bangla",DBC NEWS
-https://bdix.sm-monirul.top/DBC.NEWS.HD/index.m3u8?token=3b8a358caa628b66c5efa42f7430840e7195cebd-4b72f117d3cadf423094f4363056eb25-1782493867-1782483067
+https://ultra.sm-monirul.top/DBC.NEWS.HD/index.m3u8?token=d892b5e3b5a9e5b0e24dfeea5b06456a8f84ce65-770af7e1dbbd9b4d804c3f58d0407091-1782494983-1782484183
 #EXTINF:-1 tvg-id="ekattor_tv" tvg-name="Ekattor Tv" tvg-logo="https://logo.sm-monirul.top/assets/images/ekattor_tv.png" group-title="Bangla",Ekattor Tv
-https://bdix.sm-monirul.top/EKATTOR.TV.HD/index.m3u8?token=9ab5fd22953f06021f6a84eee36b0b05c2fa6947-c0f2a124bfd010f656409ff8d3810864-1782493867-1782483067
+https://ultra.sm-monirul.top/EKATTOR.TV.HD/index.m3u8?token=03b9b7f58a2d54803d3f2bd481774a329d862d84-46c9f1c994a40ba02424d54b582ce410-1782494983-1782484183
 #EXTINF:-1 tvg-id="global_tv" tvg-name="Global Tv" tvg-logo="https://logo.sm-monirul.top/assets/images/global_tv.png" group-title="Bangla",Global Tv
-https://bdix.sm-monirul.top/Global.TV.HD/index.m3u8?token=178f12c89a3095d9bd593129d589349ceb25abb2-9b629430d898ecffdba8158a75a48fdf-1782493867-1782483067
+https://ultra.sm-monirul.top/Global.TV.HD/index.m3u8?token=cf6044fb0be2c03ed971606295910090e0455915-eefda68d86bdba08074e691f04de9e14-1782494983-1782484183
 #EXTINF:-1 tvg-id="gtv" tvg-name="GTV" tvg-logo="https://logo.sm-monirul.top/assets/images/gtv.png" group-title="Bangla",GTV
-https://bdix.sm-monirul.top/GAZI.TV.HD/index.m3u8?token=53c0d0c440118dc957414a3d19929ab465508fa8-a9baae7f2e807695fbb0caeef09f3ff3-1782493867-1782483067
+https://ultra.sm-monirul.top/GAZI.TV.HD/index.m3u8?token=88ab00bde7ddbbd4c2b69c3dab6f20226ee8f725-71c6f18d3105cdf66583c2b5f602ac72-1782494983-1782484183
 #EXTINF:-1 tvg-id="independent_tv" tvg-name="INDEPENDENT TV" tvg-logo="https://logo.sm-monirul.top/assets/images/independent_tv.png" group-title="Bangla",INDEPENDENT TV
-https://bdix.sm-monirul.top/INDEPENDENT.TV/index.m3u8?token=d3fb36af9242777d08bb18948ab9c33529e1a2b5-b98979d0c721d5aff8c12c1c6ce7bacf-1782493867-1782483067
+https://ultra.sm-monirul.top/INDEPENDENT.TV/index.m3u8?token=8dd99aeca801f9f410e5d4599377782e14065fea-003a0e4b69e26b94dd88e41fa7d65d6b-1782494983-1782484183
 #EXTINF:-1 tvg-id="jalsha_movies_hd" tvg-name="JALSHA MOVIES HD" tvg-logo="https://logo.sm-monirul.top/assets/images/jalsha_movies.png" group-title="Bangla",JALSHA MOVIES HD
-https://bdix.sm-monirul.top/JALSHA.MOVIES.HD/index.m3u8?token=1bad3d8b838fcbc1cd8a41bb3ccd21ed5e4b154f-4b440b37596c7993a86f1a7b9f891934-1782493867-1782483067
+https://ultra.sm-monirul.top/JALSHA.MOVIES.HD/index.m3u8?token=1f676dbd2f19c574b0e3b46ff1bb659d47011b68-b5c65906f31e4a341fa03e845771e8eb-1782494983-1782484183
 #EXTINF:-1 tvg-id="jamuna_tv" tvg-name="JAMUNA TV" tvg-logo="https://logo.sm-monirul.top/assets/images/jamuna_tv.png" group-title="Bangla",JAMUNA TV
-https://bdix.sm-monirul.top/JAMUNA.TV/index.m3u8?token=d4bfe4cfa7b4c5d18bf1e96cb113141a32c07c22-8f6401a4540006f2133cc6378fdefa5d-1782493867-1782483067
+https://ultra.sm-monirul.top/JAMUNA.TV/index.m3u8?token=4f9880288fcddd1ad0a3692af345644b2780436a-4d0628c58dd72dc208cb7588885a609e-1782494983-1782484183
 #EXTINF:-1 tvg-id="maasranga_hd" tvg-name="MAASRANGA HD" tvg-logo="https://logo.sm-monirul.top/assets/images/maasranga_hd.png" group-title="Bangla",MAASRANGA HD
-https://bdix.sm-monirul.top/MASRANGA.TV.HD/index.m3u8?token=762b10a9eb600bd2b8cdfe1dc569b1b1eda568dc-e301e850d7f360eedc8588a255c2a107-1782493867-1782483067
+https://ultra.sm-monirul.top/MASRANGA.TV.HD/index.m3u8?token=c4649a5fd263ec795ef71cbbab255103c643e587-c745f49b17afbfdd64caecacd780b629-1782494984-1782484184
 #EXTINF:-1 tvg-id="nagorik" tvg-name="NAGORIK" tvg-logo="https://logo.sm-monirul.top/assets/images/nagorik.png" group-title="Bangla",NAGORIK
-https://bdix.sm-monirul.top/NAGORIK.TV.HD/index.m3u8?token=a225311bb390b792a5a9a67ec2e9aeee9003950c-9f02586ec26de5f903529b8a60aaeb24-1782493867-1782483067
+https://ultra.sm-monirul.top/NAGORIK.TV.HD/index.m3u8?token=d274096a8ac559cfd190c4358b0a84aab05b512e-dc6403078f5b957f219736a25fa47bc6-1782494984-1782484184
 #EXTINF:-1 tvg-id="news24hd" tvg-name="NEWS.24.HD" tvg-logo="https://logo.sm-monirul.top/assets/images/news24.png" group-title="Bangla",NEWS.24.HD
-https://bdix.sm-monirul.top/NEWS.24.HD/index.m3u8?token=a271d304170bcd9da6e4cf1b2f90b7ee34f5a478-d3a35816a941cc5a59cbb262da8b94be-1782493867-1782483067
+https://ultra.sm-monirul.top/NEWS.24.HD/index.m3u8?token=4423d93f241ab79986b35fd6e0e03bce347dc159-0fc11ed8eb573a2d846f287e4cc3437c-1782494984-1782484184
 #EXTINF:-1 tvg-id="sangeet_bangla" tvg-name="Sangeet Bangla" tvg-logo="https://logo.sm-monirul.top/assets/images/sangeet_bangla.png" group-title="Bangla",Sangeet Bangla
-https://bdix.sm-monirul.top/Sangeet.Bangla/index.m3u8?token=16e524d0486fafb458e8f36de5545102f9708799-b1417cfc275292d25997e67495f8340f-1782493867-1782483067
+https://ultra.sm-monirul.top/Sangeet.Bangla/index.m3u8?token=9eb4246289248e813563aa6fe98744bfc388f0cd-ab5a7ca8e46fdbd52b055f82633026ef-1782494984-1782484184
 #EXTINF:-1 tvg-id="somoy_tv" tvg-name="SOMOY TV" tvg-logo="https://logo.sm-monirul.top/assets/images/somoy_tv.png" group-title="Bangla",SOMOY TV
-https://bdix.sm-monirul.top/SOMOY.TV.HD/index.m3u8?token=6f4d137e7f107bfce4af2990de7ea6710474de50-adb5b6defa48ddb1c5178059d1fc645f-1782493867-1782483067
+https://ultra.sm-monirul.top/SOMOY.TV.HD/index.m3u8?token=8d357b13fc91da0c2534c043b68fe7d4841e3aef-bed7a8c6c85f34e79c26de884f301ae7-1782494984-1782484184
 #EXTINF:-1 tvg-id="sony_aat" tvg-name="SONY AAT" tvg-logo="https://logo.sm-monirul.top/assets/images/sony_aath.png" group-title="Bangla",SONY AAT
-https://bdix.sm-monirul.top/SONY.AAT/index.m3u8?token=aa5c41d3668cd8714a466374deb2e138d6fd92a9-f45d942063bccf57edd1a1992d5f2a88-1782493867-1782483067
+https://ultra.sm-monirul.top/SONY.AAT/index.m3u8?token=adc47e9beaa3c1c13314aa33b27b01a3760c1739-94ed096925dc1ad3f36bc5a5f9fd4e6b-1782494984-1782484184
 #EXTINF:-1 tvg-id="star_jalsha_hd" tvg-name="STAR JALSHA HD" tvg-logo="https://logo.sm-monirul.top/assets/images/star_bharat.png" group-title="Bangla",STAR JALSHA HD
-https://bdix.sm-monirul.top/STAR.JALSHA.HD/index.m3u8?token=981b6d1a697a66ad72744e4dd47ef01dd72ceea1-7c652c42cb8b3774a2ab30527ee03017-1782493868-1782483068
+https://ultra.sm-monirul.top/STAR.JALSHA.HD/index.m3u8?token=42709ee586ba9e0d692373cc18e930f26385de6d-06d25b0d7aa2af88ebbba0f91c09f3e5-1782494984-1782484184
 #EXTINF:-1 tvg-id="sun_bangla_hd" tvg-name="SUN BANGLA HD" tvg-logo="https://logo.sm-monirul.top/assets/images/sun_bangla.png" group-title="Bangla",SUN BANGLA HD
-https://bdix.sm-monirul.top/SUN.BANGLA.HD/index.m3u8?token=2fc93cc548699d33732a72a93303a2ffedea5106-76c1de90afb62f5c51a874e804e09e8a-1782493868-1782483068
-#EXTINF:-1 tvg-id="zee_bangla_cinema" tvg-name="ZEE BANGLA CINEMA" tvg-logo="https://logo.sm-monirul.top/assets/images/zee_bangla_cinema.png" group-title="Bangla",ZEE BANGLA CINEMAhttps://bdix.sm-monirul.top/ZEE.BANGLA.CINEMA/index.m3u8?token=32b90ffad20caf8814314be8a609f40d0c6a57c5-aae3cf43c0dd3eb1f401b579623a0f86-1782493868-1782483068
+https://ultra.sm-monirul.top/SUN.BANGLA.HD/index.m3u8?token=c8ed7dda74556a1a30dede3510c911d9681e21f5-3a915cf6438d2ae1dcd1435bd496f922-1782494985-1782484185
+#EXTINF:-1 tvg-id="zee_bangla_cinema" tvg-name="ZEE BANGLA CINEMA" tvg-logo="https://logo.sm-monirul.top/assets/images/zee_bangla_cinema.png" group-title="Bangla",ZEE BANGLA CINEMAhttps://ultra.sm-monirul.top/ZEE.BANGLA.CINEMA/index.m3u8?token=570566d877ad4ec809fdbfaa794e97d679648d3e-1e2c8fbd372242c1e61eff065275969d-1782494985-1782484185
 #EXTINF:-1 tvg-id="zee_bangla_hd" tvg-name="ZEE BANGLA HD" tvg-logo="https://logo.sm-monirul.top/assets/images/zee_bangla_hd.png" group-title="Bangla",ZEE BANGLA HD
-https://bdix.sm-monirul.top/ZEE.BANGLA.HD/index.m3u8?token=1d43f36c2af370fd66acf9e1fc1b95683990da5e-3d3515323b2d8c7e4a810fe3ae6466aa-1782493868-1782483068
+https://ultra.sm-monirul.top/ZEE.BANGLA.HD/index.m3u8?token=7338cc0749b39d9b2dd72c2aed61b8e6ccb7221c-d3eef9d89a90f22e806d9d78893123f6-1782494985-1782484185
 #EXTINF:-1 tvg-id="and_xplore" tvg-name="AND XPLORE" tvg-logo="https://logo.sm-monirul.top/assets/images/and_xplore.png" group-title="English",AND XPLORE
-https://bdix.sm-monirul.top/XPLOR.HD/index.m3u8?token=6a3053bd68cd68c379eeb63b96074b281799e804-654a6cbc1f0a47d9b508cd0805cb2554-1782493866-1782483066
+https://ultra.sm-monirul.top/XPLOR.HD/index.m3u8?token=bb4a6911067bdd109486dc154279ab9bc7ad77b2-922c13017cbcccbbb6a7a8e4f544736c-1782494983-1782484183
 #EXTINF:-1 tvg-id="animal_planet_hd" tvg-name="ANIMAL PLANET HD" tvg-logo="https://logo.sm-monirul.top/assets/images/animal_planet_hd.png" group-title="English",ANIMAL PLANET HD
-https://bdix.sm-monirul.top/ANIMAL.PLANET.HD/index.m3u8?token=4faf476ef3d99c41485bcfdb423114e785a2ac34-f1d53277ea9246f27d589e65c802011a-1782493866-1782483066
+https://ultra.sm-monirul.top/ANIMAL.PLANET.HD/index.m3u8?token=464d8ca3619c1c4ccf35fa120dd5f2ca5258bc84-97d3473fcba1f983db37be6386e7b608-1782494983-1782484183
 #EXTINF:-1 tvg-id="axn_hd" tvg-name="AXN HD" tvg-logo="https://logo.sm-monirul.top/assets/images/axn_hd.png" group-title="English",AXN HD
-https://bdix.sm-monirul.top/AXN.HD/index.m3u8?token=fe81934e17adbf58b6deb69bd3ad72edb9dd365b-324e9c2826f65e8955aa3c402032637b-1782493866-1782483066
+https://ultra.sm-monirul.top/AXN.HD/index.m3u8?token=51b09f80b5e099fa41b80f8a2c678c5922142ea9-e397d0ec6a91937eed48547df8bc42c2-1782494983-1782484183
 #EXTINF:-1 tvg-id="bbc_earth_hd" tvg-name="BBC EARTH HD" tvg-logo="https://logo.sm-monirul.top/assets/images/bbc_earth_hd.png" group-title="English",BBC EARTH HD
-https://bdix.sm-monirul.top/BBC.Earth.HD/index.m3u8?token=ecec33e6e462a600c8962e50412fede2c1dd6b97-d89c4bb85cba56d752ca0f99a00b6906-1782493866-1782483066
+https://ultra.sm-monirul.top/BBC.Earth.HD/index.m3u8?token=1cb13bfa2a503e57310e138c260fef2dc0116f7a-e42586a182dd21ebb70786a369639f32-1782494983-1782484183
 #EXTINF:-1 tvg-id="bbc_news" tvg-name="BBC NEWS" tvg-logo="https://logo.sm-monirul.top/assets/images/bbc_news.png" group-title="English",BBC NEWS
-https://bdix.sm-monirul.top/BBC.NEWS/index.m3u8?token=71b9e1d337a0748a063033ae6ba66d39e306bbca-9767245019f51cc5f96f6df5379b1c65-1782493866-1782483066
+https://ultra.sm-monirul.top/BBC.NEWS/index.m3u8?token=94b7dda3355152886bc663d9da17e138519a2ff0-ecb5210686982e1bec4bfc9738798fd4-1782494983-1782484183
 #EXTINF:-1 tvg-id="discovery_hd" tvg-name="DISCOVERY HD" tvg-logo="https://logo.sm-monirul.top/assets/images/discovery_hd.png" group-title="English",DISCOVERY HD
-https://bdix.sm-monirul.top/DISCOVERY.HD/index.m3u8?token=2c89c56b816a8bd8d9c7bb8ded5c2d5751fb206b-172668d0469f052b8dc007639d80fecf-1782493867-1782483067
+https://ultra.sm-monirul.top/DISCOVERY.HD/index.m3u8?token=afec639d6a803f0e9b541af9607790a9f4ff46bd-6ac21d0044691ab66e059e9f7c8d6df3-1782494983-1782484183
 #EXTINF:-1 tvg-id="fashion" tvg-name="FASHION" tvg-logo="https://logo.sm-monirul.top/assets/images/fashion.png" group-title="English",FASHION
-https://bdix.sm-monirul.top/FASHIONTV.HD/index.m3u8?token=96e78bcc3e802f6e77557becb5041689b3be2645-8ee8634f55d0a42ad8ab795aace923ff-1782493867-1782483067
+https://ultra.sm-monirul.top/FASHIONTV.HD/index.m3u8?token=2040391d553b3bd7e3379af6ecb9a6b95c69a22a-2f9f238aea8df5562756aad7295d05a2-1782494983-1782484183
 #EXTINF:-1 tvg-id="history_tv_hd" tvg-name="HISTORY TV HD" tvg-logo="https://logo.sm-monirul.top/assets/images/history_tv_hd.png" group-title="English",HISTORY TV HD
-https://bdix.sm-monirul.top/HISTORY.TV.18.HD/index.m3u8?token=f36ca9e54eb9f6db6126e2d9a07000cbd64a9885-53a0925eeb8b8f25a971e93ec73097e3-1782493867-1782483067
+https://ultra.sm-monirul.top/HISTORY.TV.18.HD/index.m3u8?token=8312fe0d7fd56a1a336cb7ad3f98a78d0af22a83-e404f753e717b5823bd323ca979866f2-1782494983-1782484183
 #EXTINF:-1 tvg-id="lotus_tv" tvg-name="LOTUS TV" tvg-logo="https://logo.sm-monirul.top/assets/images/lotus_tv.png" group-title="English",LOTUS TV
-https://bdix.sm-monirul.top/Lotus.TV.HD/index.m3u8?token=4883a2291f7175026e3d0e674768498da791a565-aadfa8309453bc35cc973cff7978c65b-1782493867-1782483067
+https://ultra.sm-monirul.top/Lotus.TV.HD/index.m3u8?token=bd909b95fece2b453b46d9c3568e9e87b4743df1-0a0af7f2771274822ac0d1caf79562ad-1782494983-1782484183
 #EXTINF:-1 tvg-id="love_nature" tvg-name="LOVE NATURE" tvg-logo="https://logo.sm-monirul.top/assets/images/love_nature.png" group-title="English",LOVE NATURE
-https://bdix.sm-monirul.top/LOVE.NATURE.HD/index.m3u8?token=af93404b105c780c559e003d7c0569fca4fc5d96-1027364cec5a66ff67c142a60b511ae2-1782493867-1782483067
+https://ultra.sm-monirul.top/LOVE.NATURE.HD/index.m3u8?token=012bc33c34f217fac628221cad9c6ad0efee1867-715596544e18428ef8c2e4dd647d7049-1782494983-1782484183
 #EXTINF:-1 tvg-id="mn_plus" tvg-name="MN PLUS" tvg-logo="https://logo.sm-monirul.top/assets/images/mn_plus.png" group-title="English",MN PLUS
-https://bdix.sm-monirul.top/MN.PLUS.HD/index.m3u8?token=81eca90109b8a25c4a9108aab12d954fee2b2f4f-5e5f01941cd679fa3a5f12f6d96bef77-1782493867-1782483067
+https://ultra.sm-monirul.top/MN.PLUS.HD/index.m3u8?token=b898c52bec33384ec42d09574e52c212ef1520b1-7213734e078fd4f445fdcd9ccb7ea16c-1782494984-1782484184
 #EXTINF:-1 tvg-id="mnx_hd" tvg-name="MNX HD" tvg-logo="https://logo.sm-monirul.top/assets/images/mnx_hd.png" group-title="English",MNX HD
-https://bdix.sm-monirul.top/MNX.HD/index.m3u8?token=d73291657b126fa57dcdf3f6ec124b63a6b889cb-820fd17678f9a1234b47c613465aa871-1782493867-1782483067
+https://ultra.sm-monirul.top/MNX.HD/index.m3u8?token=1199194fef3e6b75a28e3dd808e14b5a053c2e86-e0b1164690f7e8ee92a79eb651e3ca4f-1782494984-1782484184
 #EXTINF:-1 tvg-id="movies_now_hd" tvg-name="MOVIES NOW HD" tvg-logo="https://logo.sm-monirul.top/assets/images/movies_now_hd.png" group-title="English",MOVIES NOW HD
-https://bdix.sm-monirul.top/MOVIES.NOW.HD/index.m3u8?token=829a9a9e471201aba7109b2a3438131c16f3ad2e-fe9b09d5fb8b59bc07b4467cb4719835-1782493867-1782483067
+https://ultra.sm-monirul.top/MOVIES.NOW.HD/index.m3u8?token=d328e412021b9414987010ffb8fecee8e004079f-90c63e24a09692595c5ca35572b379bc-1782494984-1782484184
 #EXTINF:-1 tvg-id="natgeo_hd" tvg-name="NATGEO HD" tvg-logo="https://logo.sm-monirul.top/assets/images/natgeo_hd.png" group-title="English",NATGEO HD
-https://bdix.sm-monirul.top/NATGEO.HD/index.m3u8?token=b201ef8efca77cadef2efa2b7386a55ff2953051-cebbae787b1d22b0cc429f8c18c171dc-1782493867-1782483067
+https://ultra.sm-monirul.top/NATGEO.HD/index.m3u8?token=0328f7483877c86df50bf6194ff4cba0b287b831-f8c986618fcb208ae146c9e64976c280-1782494984-1782484184
 #EXTINF:-1 tvg-id="natgeo_wild_hd" tvg-name="NATGEO WILD HD" tvg-logo="https://logo.sm-monirul.top/assets/images/natgeo_wild_hd.png" group-title="English",NATGEO WILD HD
-https://bdix.sm-monirul.top/NATGEO.WILD.HD/index.m3u8?token=91205e0714695678d07ec636de2543e7016d09f1-2da6a01834b49464e23bf875fe514acd-1782493867-1782483067
+https://ultra.sm-monirul.top/NATGEO.WILD.HD/index.m3u8?token=efe2013645bebf9ddf6fb0b73401d554d5b97ba3-d429719be04f2bf383f0be6822078c44-1782494984-1782484184
 #EXTINF:-1 tvg-id="romedy_now" tvg-name="ROMEDY NOW" tvg-logo="https://logo.sm-monirul.top/assets/images/romedy_now.png" group-title="English",ROMEDY NOW
-https://bdix.sm-monirul.top/ROMEDY.NOW/index.m3u8?token=d9c29cf70434fd68bdd64506fc2f6fb92a78a008-0e8878b1ee3b026a481038f84e427e88-1782493867-1782483067
+https://ultra.sm-monirul.top/ROMEDY.NOW/index.m3u8?token=93aa3f30e7cd6d2d415aa89db7f83530bb33bffc-f7104df15636164fdbd88e3e0b7960ca-1782494984-1782484184
 #EXTINF:-1 tvg-id="sony_bbc_earth_hd" tvg-name="SONY BBC EARTH HD" tvg-logo="https://logo.sm-monirul.top/assets/images/sony_bbc_earth_hd.png" group-title="English",SONY BBC EARTH HD
-https://bdix.sm-monirul.top/SONY.BBC.EARTH.HD/index.m3u8?token=ccb24af07838041d08b986e34be923207e043fbc-8bd3744264dedaf620dd0327e04b451c-1782493867-1782483067
+https://ultra.sm-monirul.top/SONY.BBC.EARTH.HD/index.m3u8?token=2a8b67805abf8dbf7ad21d9838e9ec25bd134e8f-238c41f89aeb62905d52e4f44d08d87f-1782494984-1782484184
 #EXTINF:-1 tvg-id="sony_pix_hd" tvg-name="SONY PIX HD" tvg-logo="https://logo.sm-monirul.top/assets/images/sony_aath.png" group-title="English",SONY PIX HD
-https://bdix.sm-monirul.top/SONY.PIX.HD/index.m3u8?token=a5cf924b9c8c9fe2a561beb0d17e118c64a6a09a-59de63a140028cd99d689d76c294616d-1782493867-1782483067
+https://ultra.sm-monirul.top/SONY.PIX.HD/index.m3u8?token=e13226fe63f4cd3d8b17e7db216df60eed3d6267-df560e969ae9409480342ae760d139b7-1782494984-1782484184
 #EXTINF:-1 tvg-id="star_movies_hd" tvg-name="STAR MOVIES HD" tvg-logo="https://logo.sm-monirul.top/assets/images/star_bharat.png" group-title="English",STAR MOVIES HD
-https://bdix.sm-monirul.top/STAR.MOVIES.HD/index.m3u8?token=1554af209f738e120914d13da042f4a3b6a2a52f-3840d7589f1eed8b598baf7893715ccd-1782493868-1782483068
+https://ultra.sm-monirul.top/STAR.MOVIES.HD/index.m3u8?token=d2741022cb8a825605b25b237d1772e97154eb35-febfa5deea7ccf118164aa239b373ffb-1782494984-1782484184
 #EXTINF:-1 tvg-id="star_movies_select_hd" tvg-name="STAR MOVIES SELECT HD" tvg-logo="https://logo.sm-monirul.top/assets/images/star_bharat.png" group-title="English",STAR MOVIES SELECT HD
-https://bdix.sm-monirul.top/STAR.MOVIES.SEL.HD/index.m3u8?token=dc203c42750972c89d6a8f553f934efa61160665-96611f69416cc23e0cd09ae575fe1ed7-1782493868-1782483068
+https://ultra.sm-monirul.top/STAR.MOVIES.SEL.HD/index.m3u8?token=15e35ff1fd38723cc3d1ffbb69d907f9edf99680-29b093332c230f5a81108835bb735a86-1782494985-1782484185
 #EXTINF:-1 tvg-id="travel_xp" tvg-name="TRAVEL XP" tvg-logo="https://logo.sm-monirul.top/assets/images/travel_xp.png" group-title="English",TRAVEL XP
-https://bdix.sm-monirul.top/TRAVELXP.HD/index.m3u8?token=e1a56a1fc6ec27db5dd2d339695d612083d5507a-c2c28eceb29fcb8176c7c760eae68b97-1782493868-1782483068
+https://ultra.sm-monirul.top/TRAVELXP.HD/index.m3u8?token=9f9185098db151bceea02da3f6c43e0e0f5ff6e8-d48422b4b7de52bdd61d85ec3db1fd6f-1782494985-1782484185
 #EXTINF:-1 tvg-id="zee_cafe_hd" tvg-name="ZEE CAFE HD" tvg-logo="https://logo.sm-monirul.top/assets/images/zee_cafe_hd.png" group-title="English",ZEE CAFE HD
-https://bdix.sm-monirul.top/ZEE.CAFE.HD/index.m3u8?token=b4a82c4b76b205a71eac2c546dcf71b3327dd447-9e19fabd72fae3b028064e23c5438260-1782493868-1782483068
+https://ultra.sm-monirul.top/ZEE.CAFE.HD/index.m3u8?token=2880aa7c1ebd094b9e78289042b70a99b7399c8e-a5a39e66759e214a653255bab10264ff-1782494985-1782484185
 #EXTINF:-1 tvg-id="9xm_music" tvg-name="9XM MUSIC" tvg-logo="https://logo.sm-monirul.top/assets/images/9xm_music.png" group-title="Hindi",9XM MUSIC
-https://bdix.sm-monirul.top/9XM.MUSIC/index.m3u8?token=592307075d7e737b82f10e8649019d89b47ddbea-8e421b2fb5f4e814ba9d7f6af774b7da-1782493866-1782483066
+https://ultra.sm-monirul.top/9XM.MUSIC/index.m3u8?token=e0363651083069ec15f98837f53b50189d3956df-0b9912e9bdde5ac27be4cbb4fb63171f-1782494983-1782484183
 #EXTINF:-1 tvg-id="and_picturs_hd" tvg-name="AND PICTURS HD" tvg-logo="https://logo.sm-monirul.top/assets/images/and_pictures_hd.png" group-title="Hindi",AND PICTURS HD
-https://bdix.sm-monirul.top/ANT.PICTURS.HD/index.m3u8?token=291dbe3d16e52e1141cba2cd86c519a2fc6743a1-3758fc2092250e886be1868c53e165c6-1782493866-1782483066
+https://ultra.sm-monirul.top/ANT.PICTURS.HD/index.m3u8?token=008311cd4af04c00cb65f0036043cf8bc16de48d-9ccc4ab5da6c81be1ea0e9fd3f1ea1d4-1782494983-1782484183
 #EXTINF:-1 tvg-id="colors_cineplex_hd" tvg-name="COLORS CINEPLEX HD" tvg-logo="https://logo.sm-monirul.top/assets/images/colors_cineplex_hd.png" group-title="Hindi",COLORS CINEPLEX HD
-https://bdix.sm-monirul.top/COLORS.CINEPLEX.HD/index.m3u8?token=d9541abb7d590c1f567099ef9570a13a00ef19d9-8fb5d2f0964e83f009007ce8e4cc2621-1782493867-1782483067
+https://ultra.sm-monirul.top/COLORS.CINEPLEX.HD/index.m3u8?token=e734100cf99a5fdf8346fab3f601a68228f448c3-281a40fb064f9906385955f5ef57788f-1782494983-1782484183
 #EXTINF:-1 tvg-id="colors_hd" tvg-name="COLORS HD" tvg-logo="https://logo.sm-monirul.top/assets/images/colors_hd.png" group-title="Hindi",COLORS HD
-https://bdix.sm-monirul.top/COLORS.HD/index.m3u8?token=6a7ff4433d6030bc3e8090b1bd552fdf17232a5e-8a3d9251acbb9604cc635aefbbae2e27-1782493867-1782483067
+https://ultra.sm-monirul.top/COLORS.HD/index.m3u8?token=cefe3d4f2d883ec5f720ee5a166d32733aa27178-d189f7c2a858ff4c37390389612ecd0b-1782494983-1782484183
 #EXTINF:-1 tvg-id="geo_news_hd" tvg-name="GEO NEWS HD" tvg-logo="https://logo.sm-monirul.top/assets/images/geo_news_hd.png" group-title="Hindi",GEO NEWS HD
-https://bdix.sm-monirul.top/GEO.NEWS.HD/index.m3u8?token=e156bd7db467061920866531e7fb578834cdd648-1b396f3074ab7f35881f71700dd9c42f-1782493867-1782483067
+https://ultra.sm-monirul.top/GEO.NEWS.HD/index.m3u8?token=03665c1d748db2f124091c5152209a74daf39c49-313892d5b97517e8e1b5088543a5d427-1782494983-1782484183
 #EXTINF:-1 tvg-id="hum_tv" tvg-name="HUM TV" tvg-logo="https://logo.sm-monirul.top/assets/images/hum_tv.png" group-title="Hindi",HUM TV
-https://bdix.sm-monirul.top/HUM.MASALA.TV/index.m3u8?token=fb0bb649e9b312cb46e6d4268764d20aed2b355c-7d0f25ff90855d9c82a5ff0b20357dc3-1782493867-1782483067
+https://ultra.sm-monirul.top/HUM.MASALA.TV/index.m3u8?token=106f2eecc01aa0243631a81015b84eb956bff56a-941a5533c9404a21aa514429be5028c5-1782494983-1782484183
 #EXTINF:-1 tvg-id="max_1" tvg-name="MAX 1" tvg-logo="https://logo.sm-monirul.top/assets/images/max_1.png" group-title="Hindi",MAX 1
-https://bdix.sm-monirul.top/AND.PRIVE.HD/index.m3u8?token=a0079afd5f254c299af2aafc3d2909b672e999be-85b2d5ebe30c6d52f3295c62274626c7-1782493867-1782483067
+https://ultra.sm-monirul.top/AND.PRIVE.HD/index.m3u8?token=3a5453dc1bb137eab6d78510ab8672aa9b5f536f-394967d04d70d0b9ff5e0c41f4184168-1782494984-1782484184
 #EXTINF:-1 tvg-id="max_2" tvg-name="MAX 2" tvg-logo="https://logo.sm-monirul.top/assets/images/max_2.png" group-title="Hindi",MAX 2
-https://bdix.sm-monirul.top/AND.FLIX.HD/index.m3u8?token=f00702734c42a5c0a8cd2ff423acf8526e5699f0-c87f7ee9173954af2045109072e3b098-1782493867-1782483067
+https://ultra.sm-monirul.top/AND.FLIX.HD/index.m3u8?token=7ab630d5a4ef79e80d137791b73bebbdefbf6ffb-70ce83424cca70c29378858b211e640d-1782494984-1782484184
 #EXTINF:-1 tvg-id="mtv_india" tvg-name="MTV India" tvg-logo="https://logo.sm-monirul.top/assets/images/mtv_india.png" group-title="Hindi",MTV India
-https://bdix.sm-monirul.top/MTV.INDIA/index.m3u8?token=f254e8adbe97d784a7aea2b461648c28db7e27a2-fa6687b66a01aef34bff0b84d3e2210d-1782493867-1782483067
+https://ultra.sm-monirul.top/MTV.INDIA/index.m3u8?token=e0746e1c9368072a78d2c16629790264e1914d1a-2220010691870ae6cbcb0564e853f8fe-1782494984-1782484184
 #EXTINF:-1 tvg-id="music_india" tvg-name="Music India" tvg-logo="https://logo.sm-monirul.top/assets/images/music_india.png" group-title="Hindi",Music India
-https://bdix.sm-monirul.top/Music.India/index.m3u8?token=a336326ae2dd8c6c3fe097f051375523a4dbc8c2-0b1e684698c7cbe04a81f817e4651ada-1782493867-1782483067
+https://ultra.sm-monirul.top/Music.India/index.m3u8?token=1f3e492dd6bb5af63735162dd6e21ea2ef29469a-3142ef0ed107660e0a2ca053e0ff0dc7-1782494984-1782484184
 #EXTINF:-1 tvg-id="sony_ent_hd" tvg-name="SONY ENT HD" tvg-logo="https://logo.sm-monirul.top/assets/images/sony_aath.png" group-title="Hindi",SONY ENT HD
-https://bdix.sm-monirul.top/SONY.ENT.HD/index.m3u8?token=fb2c6801a5e606a2b2b4721c9b69095426204d95-21b385094683bfb87abe72a01ea8fb60-1782493867-1782483067
+https://ultra.sm-monirul.top/SONY.ENT.HD/index.m3u8?token=29c2ed4a6ccccb5cab961bec8f0cccb88e9a3d58-44500ed33ef1b5941efbd49356301e93-1782494984-1782484184
 #EXTINF:-1 tvg-id="sony_max_hd" tvg-name="SONY MAX HD" tvg-logo="https://logo.sm-monirul.top/assets/images/sony_aath.png" group-title="Hindi",SONY MAX HD
-https://bdix.sm-monirul.top/SONY.MAX.HD/index.m3u8?token=9561d808ced5378b503bbeee4066b7a95c86a27c-190589e9e185586415b6f8289ee7fe54-1782493867-1782483067
+https://ultra.sm-monirul.top/SONY.MAX.HD/index.m3u8?token=0a62417e33fd8550a58d7e8b10cf7763f13fd698-d5588836f8bc892a092b1c568ce031ad-1782494984-1782484184
 #EXTINF:-1 tvg-id="star_bharat_hd" tvg-name="STAR BHARAT HD" tvg-logo="https://logo.sm-monirul.top/assets/images/star_bharat.png" group-title="Hindi",STAR BHARAT HD
-https://bdix.sm-monirul.top/STAR.BHARAT.HD/index.m3u8?token=fde29da60e209332899c63e4a03151ebba90599d-80c1fbc2b3e8a88097f254449ae33da3-1782493868-1782483068
+https://ultra.sm-monirul.top/STAR.BHARAT.HD/index.m3u8?token=dfd6699167e108e7fcf677e796dfacfd5a0f9d4b-0caec7f4a45bffb4f6deab57502a0320-1782494984-1782484184
 #EXTINF:-1 tvg-id="star_gold_2_hd" tvg-name="STAR GOLD 2 HD" tvg-logo="https://logo.sm-monirul.top/assets/images/star_bharat.png" group-title="Hindi",STAR GOLD 2 HD
-https://bdix.sm-monirul.top/STAR.GOLD2.HD/index.m3u8?token=b5765966a3f637f87b56b85e0ebf21cd77500d7e-99d347b17aff46add6750be2ea408fd0-1782493868-1782483068
+https://ultra.sm-monirul.top/STAR.GOLD2.HD/index.m3u8?token=d58dde93b3e466a7186e0b507ad6f741ab880bf4-cdfdb426941d953985010d83aacaa7fb-1782494984-1782484184
 #EXTINF:-1 tvg-id="star_gold_hd" tvg-name="STAR GOLD HD" tvg-logo="https://logo.sm-monirul.top/assets/images/star_bharat.png" group-title="Hindi",STAR GOLD HD
-https://bdix.sm-monirul.top/STAR.GOLD.HD/index.m3u8?token=09dcd620fc528cdb3a672d4e3eb5a496130e6a65-9848460756956eea31a087ae3e302dc8-1782493868-1782483068
+https://ultra.sm-monirul.top/STAR.GOLD.HD/index.m3u8?token=fd907a580f22d98f0b45df5ff53ff3c77eb155cd-90bc66d9cbee6f6f3cb0d35620df6e02-1782494984-1782484184
 #EXTINF:-1 tvg-id="star_gold_select_hd" tvg-name="STAR GOLD SELECT HD" tvg-logo="https://logo.sm-monirul.top/assets/images/star_bharat.png" group-title="Hindi",STAR GOLD SELECT HD
-https://bdix.sm-monirul.top/STAR.GOLD.SEL.HD/index.m3u8?token=427eb8e347facaea1bb4df5215b13716944f26c7-1a41b087132f0e1b3fa1248ed2a6aac6-1782493868-1782483068
+https://ultra.sm-monirul.top/STAR.GOLD.SEL.HD/index.m3u8?token=6e1111fa909766f008a7236142fef8bdad05d7a9-99982476816969e7e67c4d7c80dd2439-1782494984-1782484184
 #EXTINF:-1 tvg-id="star_plus_hd" tvg-name="STAR PLUS HD" tvg-logo="https://logo.sm-monirul.top/assets/images/star_bharat.png" group-title="Hindi",STAR PLUS HD
-https://bdix.sm-monirul.top/STAR.PLUS.HD/index.m3u8?token=3366b6c9473577af272f0a2e5a734be34a4f275e-4217077607b46a397ad31c51cf80f3fc-1782493868-1782483068
+https://ultra.sm-monirul.top/STAR.PLUS.HD/index.m3u8?token=fd05206506a73f67eac129e6fbd3a53c257a9b4c-41d3eb74b344c402f8a7eea2ff5522cd-1782494985-1782484185
 #EXTINF:-1 tvg-id="zee_cinema_hd" tvg-name="ZEE CINEMA HD" tvg-logo="https://logo.sm-monirul.top/assets/images/zee_cinema_hd.png" group-title="Hindi",ZEE CINEMA HD
-https://bdix.sm-monirul.top/ZEE.CINEMA.HD/index.m3u8?token=4ba570e3152d7538ce68ea55818a170db006a2c4-82ff5b90f3917c105ae9fb34e18f499d-1782493868-1782483068
+https://ultra.sm-monirul.top/ZEE.CINEMA.HD/index.m3u8?token=7683254c48d64d2d4ffe19fad7a66d719eb5f355-c6f82f6d7fc584335791a23c8f15b2a3-1782494985-1782484185
 #EXTINF:-1 tvg-id="zee_tv_hd" tvg-name="ZEE TV HD" tvg-logo="https://logo.sm-monirul.top/assets/images/zee_24_ghanta.png" group-title="Hindi",ZEE TV HD
-https://bdix.sm-monirul.top/ZEE.TV.HD/index.m3u8?token=6eb659b317ece0e17c1960f9c5ed3c99ec966013-2bd5c9552195e03e0d18a5d643cd69c5-1782493868-1782483068
+https://ultra.sm-monirul.top/ZEE.TV.HD/index.m3u8?token=25dac7d78f772a3010016fd8a0df5c659b06e1bd-619cc749c45e471a091c29ef870a6c8b-1782494985-1782484185
 #EXTINF:-1 tvg-id="zing" tvg-name="ZING" tvg-logo="https://logo.sm-monirul.top/assets/images/zing.png" group-title="Hindi",ZING
-https://bdix.sm-monirul.top/ZING.MUSIC/index.m3u8?token=831bcf6c1a7bbfd93189acbd120b4f4c2976315c-26a623eaf6c13413467ed97fe793b2c7-1782493868-1782483068
+https://ultra.sm-monirul.top/ZING.MUSIC/index.m3u8?token=fa80ab7ab42b4d60b74632ac133d8d7c36fc3af1-adfbd56c534f7538292eb81cb071e755-1782494985-1782484185
 #EXTINF:-1 tvg-id="zoom" tvg-name="ZOOM" tvg-logo="https://logo.sm-monirul.top/assets/images/zoom.png" group-title="Hindi",ZOOM
-https://bdix.sm-monirul.top/ZOOM.MUSIC/index.m3u8?token=a3de75071617ae723d1a8a58a6e358a381bd1228-ca8cf5e1115b1c270b3a705e73da1497-1782493868-1782483068
+https://ultra.sm-monirul.top/ZOOM.MUSIC/index.m3u8?token=064863a288c0aa4388b54a5eb87bbc25e785bcff-37e487bc81a93b0fae7b28c59165bddb-1782494985-1782484185
 #EXTINF:-1 tvg-id="bal_bharat" tvg-name="BAL BHARAT" tvg-logo="https://logo.sm-monirul.top/assets/images/bal_bharat.png" group-title="Kids",BAL BHARAT
-https://bdix.sm-monirul.top/ETV.BAL.BHARAT/index.m3u8?token=0f2c91ba858d9940318409ed834a8360d371c0d6-a9f5947cab772df4dd64de4fe5e7ffb5-1782493866-1782483066
+https://ultra.sm-monirul.top/ETV.BAL.BHARAT/index.m3u8?token=ae34c5a52aab196d17799c08b70ab24040d95666-ca4f09a75ae146b9329e1be35e61a560-1782494983-1782484183
 #EXTINF:-1 tvg-id="cartoon_network" tvg-name="CARTOON NETWORK" tvg-logo="https://logo.sm-monirul.top/assets/images/cartoon_network.png" group-title="Kids",CARTOON NETWORK
-https://bdix.sm-monirul.top/CARTON.NETWORK.HD/index.m3u8?token=6d06bc21f084e0dad656e557704b69beb87f5065-8cd09e6cd20112cb921ac3033c8f37fe-1782493866-1782483066
+https://ultra.sm-monirul.top/CARTON.NETWORK.HD/index.m3u8?token=2de76bdecd6657d8fe60d7a612670d95a311778b-2e9e198a913390a38c2adabc9dc22a65-1782494983-1782484183
 #EXTINF:-1 tvg-id="disney_juniar" tvg-name="DISNEY JUNIAR" tvg-logo="https://logo.sm-monirul.top/assets/images/disney_juniar.png" group-title="Kids",DISNEY JUNIAR
-https://bdix.sm-monirul.top/DISNEY.JUNIAR/index.m3u8?token=497fa0c9b519b00652bde604efbdc2a81327d003-7ab21c3427b213fa38ccadce90d4101d-1782493867-1782483067
+https://ultra.sm-monirul.top/DISNEY.JUNIAR/index.m3u8?token=5a63d26ba21909ee775719e13e9754962bc44ea9-c96eeb417490ecd47e31efae16242f03-1782494983-1782484183
 #EXTINF:-1 tvg-id="duranta_tv" tvg-name="DURANTA TV" tvg-logo="https://logo.sm-monirul.top/assets/images/duranta_tv.png" group-title="Kids",DURANTA TV
-https://bdix.sm-monirul.top/DURANTA.TV.HD/index.m3u8?token=493084be706e3052c6157f83c091d16067d7ca81-0357c77ff285e3ec692c0b00a9411a51-1782493867-1782483067
+https://ultra.sm-monirul.top/DURANTA.TV.HD/index.m3u8?token=8922f564b036aef36d29533df0f8b831be6a0565-7b2fa3c26f20dafac8ca49768dd50568-1782494983-1782484183
 #EXTINF:-1 tvg-id="hungama" tvg-name="HUNGAMA" tvg-logo="https://logo.sm-monirul.top/assets/images/hungama.png" group-title="Kids",HUNGAMA
-https://bdix.sm-monirul.top/HUNGAMA/index.m3u8?token=af532cf4f3ad80be67b76103b02b18bd096a93bd-ba94944092a054164da33d36889a0c43-1782493867-1782483067
+https://ultra.sm-monirul.top/HUNGAMA/index.m3u8?token=756a2f308dde8392b1151d060db1d82077c51d18-f3824a2980172b9838ed801e70204f4c-1782494983-1782484183
 #EXTINF:-1 tvg-id="nick" tvg-name="NICK" tvg-logo="https://logo.sm-monirul.top/assets/images/nick.png" group-title="Kids",NICK
-https://bdix.sm-monirul.top/NICK/index.m3u8?token=87aedad01b420ca745cf768573a845d67ea9a721-1032e950b2c40479fc35adcb7ed86795-1782493867-1782483067
+https://ultra.sm-monirul.top/NICK/index.m3u8?token=92a7486d079f5c492464c925867cd91eb2391709-77e9aa9b3293cd75865db06ce25d9ad0-1782494984-1782484184
 #EXTINF:-1 tvg-id="nick_jr" tvg-name="NICK JR" tvg-logo="https://logo.sm-monirul.top/assets/images/nick_jr.png" group-title="Kids",NICK JR
-https://bdix.sm-monirul.top/NICK.JR/index.m3u8?token=dbcc5756daaf081da597e131478e40d2a0954611-86f1bfc181348887fa976b8157027062-1782493867-1782483067
+https://ultra.sm-monirul.top/NICK.JR/index.m3u8?token=b684e235b586319a507d9ac62519bc2c3ffd90a4-55829e40a2c0c8d2a3e5fac78073de6f-1782494984-1782484184
 #EXTINF:-1 tvg-id="pogo" tvg-name="POGO" tvg-logo="https://logo.sm-monirul.top/assets/images/pogo.png" group-title="Kids",POGO
-https://bdix.sm-monirul.top/POGO/index.m3u8?token=ef8073bf6cfe41dc19cdfdb9f0f3af2d03f41faa-d20528b34986ddb55d8cb4d4f8562657-1782493867-1782483067
+https://ultra.sm-monirul.top/POGO/index.m3u8?token=737cafc00d63c973b797aae36059743b6a4c552b-b421bf13ef5a2b0b438b118ac1397e36-1782494984-1782484184
 #EXTINF:-1 tvg-id="sonic" tvg-name="SONIC" tvg-logo="https://logo.sm-monirul.top/assets/images/sonic.png" group-title="Kids",SONIC
-https://bdix.sm-monirul.top/SONIC/index.m3u8?token=5285399e65bb1ad425954539fcd086e0ba74daf7-3fc86b2c62709e716f98ef15a46cd78a-1782493867-1782483067
+https://ultra.sm-monirul.top/SONIC/index.m3u8?token=78f88b9f468ef4d6545b8aa6912dd4acebff343a-a4434d3e0ee063fc48c69269cd2a7dfe-1782494984-1782484184
 #EXTINF:-1 tvg-id="sony_yay" tvg-name="SONY YAY" tvg-logo="https://logo.sm-monirul.top/assets/images/sony_yay.png" group-title="Kids",SONY YAY
-https://bdix.sm-monirul.top/SONY.YAY/index.m3u8?token=fceae7416cebb21e32eb20d36cd5bb32089bde77-15ed2722db22a2c10d962b87a87f7d7b-1782493867-1782483067
+https://ultra.sm-monirul.top/SONY.YAY/index.m3u8?token=12f65251772d77ad39be6cb2bd7ad632f0c7bee4-69b6f4241d8bdcc24f031e9022e0e9e9-1782494984-1782484184
 #EXTINF:-1 tvg-id="super_hungama" tvg-name="SUPER HUNGAMA" tvg-logo="https://logo.sm-monirul.top/assets/images/super_hungama.png" group-title="Kids",SUPER HUNGAMA
-https://bdix.sm-monirul.top/SUPER.HUNGAMA/index.m3u8?token=0cdcef0e3c593887453e3aed8500d0e7e39af621-61f85b0e275f3d3297bc45e53aaeff15-1782493868-1782483068
+https://ultra.sm-monirul.top/SUPER.HUNGAMA/index.m3u8?token=13cb6b2c5b2378b83114d2c5c76cdb10687e1cda-fc52051d9c47742125e6bef0f4dd60eb-1782494985-1782484185
 #EXTINF:-1 tvg-id="madani_tv_hd" tvg-name="MADANI TV HD" tvg-logo="https://logo.sm-monirul.top/assets/images/madani_tv_hd.png" group-title="Islamic",MADANI TV HD
-https://bdix.sm-monirul.top/MADANI.TV.HD/index.m3u8?token=08c973d689479412da2699e8bcc484a31ddec53b-adadf2e8163d575b559a3a9d70b71b66-1782493867-1782483067
+https://ultra.sm-monirul.top/MADANI.TV.HD/index.m3u8?token=9867e6026ff0d74e56cf8a7d4c63d8e9529aa0de-55e49b36d4fcb3d7b277c1dc26e6067d-1782494984-1782484184
 #EXTINF:-1 tvg-id="peace_tv_bangla" tvg-name="PEACE TV BANGLA" tvg-logo="https://logo.sm-monirul.top/assets/images/peace_tv_bangla.png" group-title="Islamic",PEACE TV BANGLA
-https://bdix.sm-monirul.top/PEACE.TV.BANGLA.HD/index.m3u8?token=1530e5952744e0d9f60bff2f96265a11f3936beb-9bff2daa9883975d2553ffa15aadae0b-1782493867-1782483067
+https://ultra.sm-monirul.top/PEACE.TV.BANGLA.HD/index.m3u8?token=51d0f438495fb86fad11bb5631f399a05db4d414-1062014a9f6121016fc65a09d007e965-1782494984-1782484184
 #EXTINF:-1 tvg-id="a_sports_hd" tvg-name="A SPORTS HD" tvg-logo="https://logo.sm-monirul.top/assets/images/a_sports_hd.png" group-title="Sports",A SPORTS HD
-https://bdix.sm-monirul.top/A.SPORTS.HD/index.m3u8?token=3c41ad52fdc9561aec1d60da8ffeb7ec10abf0eb-8529fd7ea5d76adbd0b6f06dbe279313-1782493866-1782483066
+https://ultra.sm-monirul.top/A.SPORTS.HD/index.m3u8?token=34103ec974580b7983b5e86be75b088fe111689e-2f5c4071be65666d95344108c6b1c2e5-1782494983-1782484183
 #EXTINF:-1 tvg-id="eurosports_hd" tvg-name="EUROSPORTS HD" tvg-logo="https://logo.sm-monirul.top/assets/images/eurosports_hd.png" group-title="Sports",EUROSPORTS HD
-https://bdix.sm-monirul.top/EUROSPORTS.HD/index.m3u8?token=d66073771440842927425fa634c95a9aa44c5295-b825fdff979f38ea1e31e5394e346cd4-1782493867-1782483067
+https://ultra.sm-monirul.top/EUROSPORTS.HD/index.m3u8?token=5a54f27b462047572fd76f2ecf17cffe2dfc61c8-ca32b99f2207cd9fd65a80483f71aef2-1782494983-1782484183
 #EXTINF:-1 tvg-id="fast_sports_hd" tvg-name="FAST SPORTS HD" tvg-logo="https://logo.sm-monirul.top/assets/images/fast_sports_hd.png" group-title="Sports",FAST SPORTS HD
-https://bdix.sm-monirul.top/FAST.SPORTS.HD/index.m3u8?token=d14a213e86f1d6c3197f857f5edac1cbdbc0f37e-93f9fe820d493be5d7d217565d518f34-1782493867-1782483067
+https://ultra.sm-monirul.top/FAST.SPORTS.HD/index.m3u8?token=db8610b6a06020f01578ddd9119bb298c5bca70d-03f20abb3ebc5b171cf671811122e5fe-1782494983-1782484183
 #EXTINF:-1 tvg-id="golf_sports" tvg-name="GOLF SPORTS" tvg-logo="https://logo.sm-monirul.top/assets/images/golf_sports.png" group-title="Sports",GOLF SPORTS
-https://bdix.sm-monirul.top/GOLF.SPORTS/index.m3u8?token=6669f39dd83d9a25499d3a483be7ca4b91082b2a-8644273cd7a1d699cc4b4eeb419f2b8f-1782493867-1782483067
+https://ultra.sm-monirul.top/GOLF.SPORTS/index.m3u8?token=f19e5956ef7087213d82717883b7db39247c2fab-c5c5c2a98ae9e29f887c47cbe1ce3cab-1782494983-1782484183
 #EXTINF:-1 tvg-id="ptv_sports_hd" tvg-name="PTV SPORTS HD" tvg-logo="https://logo.sm-monirul.top/assets/images/ptv_sports.png" group-title="Sports",PTV SPORTS HD
-https://bdix.sm-monirul.top/PTV-SPORTS-HD/index.m3u8?token=bb478b1f3328cb81a46f41db2cdaccc32eb0a9c6-9758f46a7b5a56b438811f2219ed308d-1782493867-1782483067
+https://ultra.sm-monirul.top/PTV-SPORTS-HD/index.m3u8?token=a204bf43685c0679a26f5bfe90df98ef2840d165-6a5b3bb9693c372936f477c8b91136ec-1782494984-1782484184
 #EXTINF:-1 tvg-id="sony_sports_1_hd" tvg-name="SONY SPORTS 1 HD" tvg-logo="https://logo.sm-monirul.top/assets/images/sony_aath.png" group-title="Sports",SONY SPORTS 1 HD
-https://bdix.sm-monirul.top/SONY.SPORTS.1HD/index.m3u8?token=08d1e9a69777e4a811879da5996a819e8c5d7235-1a4ff7bb0d73d27e242f6660387b498d-1782493867-1782483067
+https://ultra.sm-monirul.top/SONY.SPORTS.1HD/index.m3u8?token=149af3c94fc1d0e085fd75bbf9a8e966b7dfd0a8-a22d507314eb1c3235a64915babad9db-1782494984-1782484184
 #EXTINF:-1 tvg-id="sony_sports_2_hd" tvg-name="SONY SPORTS 2 HD" tvg-logo="https://logo.sm-monirul.top/assets/images/sony_aath.png" group-title="Sports",SONY SPORTS 2 HD
-https://bdix.sm-monirul.top/SONY.SPORTS2.HD/index.m3u8?token=bc23a973bf1850ca6e5294a904c365508f678a16-d79f37bdb04e3662233ae64f8798b4ff-1782493867-1782483067
+https://ultra.sm-monirul.top/SONY.SPORTS2.HD/index.m3u8?token=4cc2257cdfbe82f1d6ef1c6872424c6bf358dd55-0f89f96508a553b185ef49a6527088c2-1782494984-1782484184
 #EXTINF:-1 tvg-id="sony_sports_3" tvg-name="SONY SPORTS 3" tvg-logo="https://logo.sm-monirul.top/assets/images/sony_aath.png" group-title="Sports",SONY SPORTS 3
-https://bdix.sm-monirul.top/SONY.SPORTS.3/index.m3u8?token=a59525da10ff7cdcf21e050f599fa46245504efb-a59995e6c23d1cab49cb56c8f3950d81-1782493867-1782483067
+https://ultra.sm-monirul.top/SONY.SPORTS.3/index.m3u8?token=bb514afcfaa490f08d78f1e5cf56c66704a47c2b-3bdc4bbce6cc1a0011491e2ba5fabf16-1782494984-1782484184
 #EXTINF:-1 tvg-id="sony_sports_4" tvg-name="SONY SPORTS 4" tvg-logo="https://logo.sm-monirul.top/assets/images/sony_aath.png" group-title="Sports",SONY SPORTS 4
-https://bdix.sm-monirul.top/SONY.SPORTS.4/index.m3u8?token=5e81a3382654e523f9ce948b368aaf66de7889f7-529abd275df66616b22bc8fff93a77ef-1782493867-1782483067
+https://ultra.sm-monirul.top/SONY.SPORTS.4/index.m3u8?token=c1df3b8414274382da636475de167ae7ec46e44d-2fa9318389c81f68ef3e566f1c95a457-1782494984-1782484184
 #EXTINF:-1 tvg-id="sony_sports_5_hd" tvg-name="SONY SPORTS 5 HD" tvg-logo="https://logo.sm-monirul.top/assets/images/sony_aath.png" group-title="Sports",SONY SPORTS 5 HD
-https://bdix.sm-monirul.top/SONY-SPORTS.5HD/index.m3u8?token=3261f8bd3809d2f6ed1d3627c42a520b759c961f-fda6adcfbc24c61e927958f4a179f7c3-1782493867-1782483067
+https://ultra.sm-monirul.top/SONY-SPORTS.5HD/index.m3u8?token=b5c1bf19c016266d3b851b5a9c1be628cd726af2-a64d669f9692fd39d8e1c3227daed9b7-1782494984-1782484184
 #EXTINF:-1 tvg-id="star_select_1_hd" tvg-name="STAR SELECT 1 HD" tvg-logo="https://logo.sm-monirul.top/assets/images/star_bharat.png" group-title="Sports",STAR SELECT 1 HD
-https://bdix.sm-monirul.top/STAR.SPORTS-SEL1.HD/index.m3u8?token=dba758e843794845b93f21166a0e320641bbf32d-10d53e31c15dd896e4961ed318fa62fd-1782493868-1782483068
+https://ultra.sm-monirul.top/STAR.SPORTS-SEL1.HD/index.m3u8?token=167c91205c386dbe99204aaf40e89f722e151840-cae8dc20fc2128061dbc6df8c9aa9ef9-1782494985-1782484185
 #EXTINF:-1 tvg-id="star_sports_1_hd" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://logo.sm-monirul.top/assets/images/star_bharat.png" group-title="Sports",STAR SPORTS 1 HD
-https://bdix.sm-monirul.top/STAR.SPORTS1.HD/index.m3u8?token=c124ff3aedf657b491379729173d6f26a77e7709-2b83de2df7385e3e57a3cdd60c0c575b-1782493868-1782483068
+https://ultra.sm-monirul.top/STAR.SPORTS1.HD/index.m3u8?token=893ddca46338b6acf6ea60e8cf9068c1a42d628f-c23e49c632188fdd65f82ff442373908-1782494985-1782484185
 #EXTINF:-1 tvg-id="star_sports_2_hd" tvg-name="STAR SPORTS 2 HD" tvg-logo="https://logo.sm-monirul.top/assets/images/star_bharat.png" group-title="Sports",STAR SPORTS 2 HD
-https://bdix.sm-monirul.top/STAR.SPORTS2.HD/index.m3u8?token=7365c0f4efaf9c037987c6a8070f56210abe7adf-a1b8ab55c08dc451400b92e6a397e426-1782493868-1782483068
+https://ultra.sm-monirul.top/STAR.SPORTS2.HD/index.m3u8?token=54e1b01094437971096c6a05fd3144c67884a6ae-2ecc347b14607e4dc051d9e6a08a710a-1782494985-1782484185
 #EXTINF:-1 tvg-id="star_sports_3" tvg-name="STAR SPORTS 3" tvg-logo="https://logo.sm-monirul.top/assets/images/star_sports_3.png" group-title="Sports",STAR SPORTS 3
-https://bdix.sm-monirul.top/STAR-SPORTS.3/index.m3u8?token=459c1c4e8a3064c1ca4c8e4a7937a6536f57eabf-1e879007851b91d91e5ce4e196cdfcfd-1782493868-1782483068
+https://ultra.sm-monirul.top/STAR-SPORTS.3/index.m3u8?token=a923e4b6e0d17b2e53eff37de2ec9687c35fc2d5-ec0c290d2310bb6812f7ab7b270ba7e5-1782494985-1782484185
 #EXTINF:-1 tvg-id="star_sports_select_2_hd" tvg-name="STAR SPORTS SELECT 2 HD" tvg-logo="https://logo.sm-monirul.top/assets/images/star_bharat.png" group-title="Sports",STAR SPORTS SELECT 2 HD
-https://bdix.sm-monirul.top/STAR.SPORTS.SEL.2.HD/index.m3u8?token=d1a61d7dad1655111db93142f0e32d2cc68432ab-86ec888e1a7334afa5dd11af71d96ab9-1782493868-1782483068
+https://ultra.sm-monirul.top/STAR.SPORTS.SEL.2.HD/index.m3u8?token=1a6f880508f3033b841ce2455ef77556f7d67f8b-79d072aa109ca03c78fd5d705c1c59d0-1782494985-1782484185
 #EXTINF:-1 tvg-id="t_sports" tvg-name="T SPORTS" tvg-logo="https://logo.sm-monirul.top/assets/images/t_sports.png" group-title="Sports",T SPORTS
-https://bdix.sm-monirul.top/T-SPORTS-HD/index.m3u8?token=57f77f5c98e75cffb5f5b97d3727ba87ac1f17ce-e9e33d034bd6cc968b66e65256ad6b21-1782493868-1782483068
+https://ultra.sm-monirul.top/T-SPORTS-HD/index.m3u8?token=0b55f866ed7afed345f09bc3876c4cdfe96f1897-39717d7bf7314b8cf0c0f157dfeb08ac-1782494985-1782484185
 
 [Program finished]
