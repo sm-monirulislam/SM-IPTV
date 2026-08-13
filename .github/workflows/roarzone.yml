@@ -1,0 +1,36 @@
+name: Update RoarZone Playlist
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */2 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install Requests
+        run: pip install requests
+
+      - name: Update Playlist
+        run: python Roarzone.py
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add RoarZone.m3u
+          git diff --cached --quiet || git commit -m "Update RoarZone playlist"
+          git push
