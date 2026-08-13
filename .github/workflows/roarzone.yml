@@ -25,7 +25,7 @@ jobs:
         run: pip install requests
 
       - name: Update Playlist
-        run: python Roarzone.py
+        run: python Scripts/roarzone.py
 
       - name: Commit and Push
         run: |
