@@ -1,0 +1,89 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Sony liv",Sony HD
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+https://plugsony.cstds.workers.dev/sligni/sony.php/set-hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Sony liv",Sony SAB HD
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+https://plugsony.cstds.workers.dev/sligni/sony.php/sab-hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="Sony liv",Sony Marathi HD
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+https://plugsony.cstds.workers.dev/sligni/sony.php/marathi.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="Sony liv",Sony aath
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+https://plugsony.cstds.workers.dev/sligni/sony.php/marathi.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Sony liv",Sony Pal
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+https://plugsony.cstds.workers.dev/sligni/sony.php/pal.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Sony liv",Sony Max HD
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+https://plugsony.cstds.workers.dev/sligni/sony.php/max-hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="Sony liv",Sony Max
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+https://plugsony.cstds.workers.dev/sligni/sony.php/max.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Sony liv",Sony Wah
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+https://plugsony.cstds.workers.dev/sligni/sony.php/wah.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Sony liv",Sony MAX2
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+https://plugsony.cstds.workers.dev/sligni/sony.php/max2.m3u8
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-93-j5fjv614-v3/imageContent-93-j5fjv614-m3.png" group-title="Sony liv",Sony PIX HD
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+https://plugsony.cstds.workers.dev/sligni/sony.php/pix-hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Sony liv",Sony Yay Hindi
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+https://plugsony.cstds.workers.dev/sligni/sony.php/yay.m3u8
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png" group-title="Sony liv",Sony Ten 1 HD
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+https://plugsony.cstds.workers.dev/sligni/sony.php/ten1-hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Sony_Ten_1.png" group-title="Sony liv",Sony Ten 1
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+https://plugsony.cstds.workers.dev/sligni/sony.php/ten1.m3u8
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png" group-title="Sony liv",Sony Ten 2 HD
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+https://plugsony.cstds.workers.dev/sligni/sony.php/ten2-hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Sony_Ten_2.png" group-title="Sony liv",Sony Ten 2
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+https://plugsony.cstds.workers.dev/sligni/sony.php/ten2.m3u8
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11787-j9kynnm0-v3/imageContent-11787-j9kynnm0-m3.png" group-title="Sony liv",Sony Ten 3 HD
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+https://plugsony.cstds.workers.dev/sligni/sony.php/ten3-hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Sony_Ten_3.png" group-title="Sony liv",Sony Ten 3
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+https://plugsony.cstds.workers.dev/sligni/sony.php/ten3.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Sony_Ten_4.png" group-title="Sony liv",Sony Ten 4 HD
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+https://plugsony.cstds.workers.dev/sligni/sony.php/ten4-hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Sony_Ten_4.png" group-title="Sony liv",Sony Ten 4
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+https://plugsony.cstds.workers.dev/sligni/sony.php/ten4.m3u8
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v3/imageContent-108-j5fl5wwg-m3.png" group-title="Sony liv",Sony Ten 5 HD
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+https://plugsony.cstds.workers.dev/sligni/sony.php/ten5-hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v3/imageContent-108-j5fl5wwg-m3.png" group-title="Sony liv",Sony Ten 5
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+https://plugsony.cstds.workers.dev/sligni/sony.php/ten5.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Sony liv",Sony BBC Earth HD
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+https://plugsony.cstds.workers.dev/sligni/sony.php/bbc-earth.m3u8
