@@ -33,7 +33,7 @@ jobs:
         env:
           HOTSTAR_API_URL: ${{ secrets.HOTSTAR_API_URL }}
         run: |
-          python scripts/jio_hotstar.py
+          python Scripts/jio_hotstar.py
 
       - name: Commit and Push
         run: |
