@@ -1,394 +1,324 @@
 #EXTM3U
-#=================================
-# Developed by: Monirul Islam
-# Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 01:39:54 AM 13-08-2026 (BD Time)
-# All channel : 65
-#=================================
-
-#EXTINF:-1 tvg-id="STAR-SPORTS-1-SELECT-HD" tvg-name="STAR SPORTS 1 SELECT HD" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7226/597226-h.jpg" group-title="Sports",STAR SPORTS 1 SELECT HD
+#EXTINF:-1 tvg-name="STAR SPORTS 1 SELECT HD" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7226/597226-h.jpg" group-title="Sports",STAR SPORTS 1 SELECT HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f64a24b3950468497390155c4880000:68f788aced6c4ecb89108f22fe9ee087
-https://shoebinfo.qzz.io/test/hot.php/STAR-SPORTS-1-SELECT-HD.mpd
-
-#EXTINF:-1 tvg-id="STAR-SPORTS-2-HD" tvg-name="STAR SPORTS 2 HD" tvg-logo="https://i.ibb.co/x8739M8d/SS2HD.jpg" group-title="Sports",STAR SPORTS 2 HD
+https://premiumplugx.me/hotstar/stream.php/STAR-SPORTS-1-SELECT-HD.mpd
+#EXTINF:-1 tvg-name="STAR SPORTS 2 HD" tvg-logo="https://i.ibb.co/x8739M8d/SS2HD.jpg" group-title="Sports",STAR SPORTS 2 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9dacc80134404c34ba184022c28d0000:982183fb4d9449c995859b7cff512092
-https://shoebinfo.qzz.io/test/hot.php/STAR-SPORTS-2-HD.mpd
-
-#EXTINF:-1 tvg-id="STAR-SPORTS-1-HD" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://i.ibb.co/pmVQWFZ/SS1HD.jpg" group-title="Sports",STAR SPORTS 1 HD
+https://premiumplugx.me/hotstar/stream.php/STAR-SPORTS-2-HD.mpd
+#EXTINF:-1 tvg-name="STAR SPORTS 1 HD" tvg-logo="https://i.ibb.co/pmVQWFZ/SS1HD.jpg" group-title="Sports",STAR SPORTS 1 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b7cdde012ce04e90a08b90622e020000:13603245acab444faef6cab5198de55f
-https://shoebinfo.qzz.io/test/hot.php/STAR-SPORTS-1-HD.mpd
-
-#EXTINF:-1 tvg-id="STAR-SPORTS-1-HINDI-HD" tvg-name="STAR SPORTS 1 Hindi HD" tvg-logo="https://img.media.jio.com/tvpimages/5/6/301982_1749665314605_l_medium.jpg" group-title="Sports",STAR SPORTS 1 Hindi HD
+https://premiumplugx.me/hotstar/stream.php/STAR-SPORTS-1-HD.mpd
+#EXTINF:-1 tvg-name="STAR SPORTS 1 Hindi HD" tvg-logo="https://img.media.jio.com/tvpimages/5/6/301982_1749665314605_l_medium.jpg" group-title="Sports",STAR SPORTS 1 Hindi HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=81872faa1d6b45fa9045cdeb2e310000:9b88168e61274587a471962c46b94675
-https://shoebinfo.qzz.io/test/hot.php/STAR-SPORTS-1-Hindi-HD.mpd
-
-#EXTINF:-1 tvg-id="STAR-SPORTS-2-SELECT-HD" tvg-name="STAR SPORTS 2 SELECT HD" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7227/597227-h.jpg" group-title="Sports",STAR SPORTS 2 SELECT HD
+https://premiumplugx.me/hotstar/stream.php/STAR-SPORTS-1-Hindi-HD.mpd
+#EXTINF:-1 tvg-name="STAR SPORTS 2 SELECT HD" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7227/597227-h.jpg" group-title="Sports",STAR SPORTS 2 SELECT HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2effd2e98f95492cb7418857bf610000:f0e42f1c91fb4b59bf6684cb4478d82e
-https://shoebinfo.qzz.io/test/hot.php/STAR-SPORTS-2-SELECT-HD.mpd
-
-#EXTINF:-1 tvg-id="STAR-SPORTS-KHEL-DIGITAL" tvg-name="Star Sports Khel Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/270/1782998020270-h.jpg" group-title="Sports",Star Sports Khel Digital
+https://premiumplugx.me/hotstar/stream.php/STAR-SPORTS-2-SELECT-HD.mpd
+#EXTINF:-1 tvg-name="Star Sports Khel Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/270/1782998020270-h.jpg" group-title="Sports",Star Sports Khel Digital
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c57bd6cb156c47c1bf86a6c4171d0000:e75d26242c9944aeb91e055d0f29ee4b
-https://shoebinfo.qzz.io/test/hot.php/Star-Sports-Khel-Digital.mpd
-
-#EXTINF:-1 tvg-id="STAR-SPORTS-1-DIGITAL" tvg-name="Star Sports 1 Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7482/1782284567482-h.jpg" group-title="Sports",Star Sports 1 Digital
+https://premiumplugx.me/hotstar/stream.php/Star-Sports-Khel-Digital.mpd
+#EXTINF:-1 tvg-name="Star Sports 1 Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7482/1782284567482-h.jpg" group-title="Sports",Star Sports 1 Digital
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85897bf6e594d698b7c82646c8e0000:d2dda31234ae40538843e871cd4dcc2a
-https://shoebinfo.qzz.io/test/hot.php/Star-Sports-1-Digital.mpd
-
-#EXTINF:-1 tvg-id="STAR-SPORTS-2-DIGITAL" tvg-name="Star Sports 2 Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7957/1783000567957-h.jpg" group-title="Sports",Star Sports 2 Digital
+https://premiumplugx.me/hotstar/stream.php/Star-Sports-1-Digital.mpd
+#EXTINF:-1 tvg-name="Star Sports 2 Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7957/1783000567957-h.jpg" group-title="Sports",Star Sports 2 Digital
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=14d0c8ee09944c32bafea44a987d0000:74d35f4034b14854bd3ca83dd3aa2fb1
-https://shoebinfo.qzz.io/test/hot.php/Star-Sports-2-Digital.mpd
-
-#EXTINF:-1 tvg-id="STAR-SPORTS-2-HINDI-DIGITAL" tvg-name="Star Sports 2 Hindi Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6371/1783000736371-h.jpg" group-title="Sports",Star Sports 2 Hindi Digital
+https://premiumplugx.me/hotstar/stream.php/Star-Sports-2-Digital.mpd
+#EXTINF:-1 tvg-name="Star Sports 2 Hindi Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6371/1783000736371-h.jpg" group-title="Sports",Star Sports 2 Hindi Digital
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=effcadcbcc634296a6cf65e231f10000:569c794c69ea496e9ad1887f557ea4dc
-https://shoebinfo.qzz.io/test/hot.php/Star-Sports-2-Hindi-Digital.mpd
-
-#EXTINF:-1 tvg-id="STAR-SPORTS-2-TELUGU-DIGITAL" tvg-name="Star Sports 2 Telugu Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2716/1783000912716-h.jpg" group-title="Sports",Star Sports 2 Telugu Digital
+https://premiumplugx.me/hotstar/stream.php/Star-Sports-2-Hindi-Digital.mpd
+#EXTINF:-1 tvg-name="Star Sports 2 Telugu Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2716/1783000912716-h.jpg" group-title="Sports",Star Sports 2 Telugu Digital
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4de245d511444b37a263c1d86ce70000:b326780ffb3d4dcf8d30fbc0f3008a22
-https://shoebinfo.qzz.io/test/hot.php/Star-Sports-2-Telugu-Digital.mpd
-
-#EXTINF:-1 tvg-id="STAR-SPORTS-1-HINDI-DIGITAL" tvg-name="Star Sports 1 Hindi Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8867/1782284658867-h.jpg" group-title="Sports",Star Sports 1 Hindi Digital
+https://premiumplugx.me/hotstar/stream.php/Star-Sports-2-Telugu-Digital.mpd
+#EXTINF:-1 tvg-name="Star Sports 1 Hindi Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8867/1782284658867-h.jpg" group-title="Sports",Star Sports 1 Hindi Digital
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b9f1cb8a1361457bbd8097f8c2590000:1960274b7ba344cb899eba2e80916774
-https://shoebinfo.qzz.io/test/hot.php/Star-Sports-1-Hindi-Digital.mpd
-
-#EXTINF:-1 tvg-id="STAR-SPORTS-1-TELUGU-DIGITAL" tvg-name="Star Sports 1 Telugu Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6361/1782284846361-h.jpg" group-title="Sports",Star Sports 1 Telugu Digital
+https://premiumplugx.me/hotstar/stream.php/Star-Sports-1-Hindi-Digital.mpd
+#EXTINF:-1 tvg-name="Star Sports 1 Telugu Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6361/1782284846361-h.jpg" group-title="Sports",Star Sports 1 Telugu Digital
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4634b32328f242e3be51c3e06cde0000:42e90ab215bf4a438b55851b5e0f50dc
-https://shoebinfo.qzz.io/test/hot.php/Star-Sports-1-Telugu-Digital.mpd
-
-#EXTINF:-1 tvg-id="STAR-SPORTS-1-TAMIL-DIGITAL" tvg-name="Star Sports 1 Tamil Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6839/1782284756839-h.jpg" group-title="Sports",Star Sports 1 Tamil Digital
+https://premiumplugx.me/hotstar/stream.php/Star-Sports-1-Telugu-Digital.mpd
+#EXTINF:-1 tvg-name="Star Sports 1 Tamil Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6839/1782284756839-h.jpg" group-title="Sports",Star Sports 1 Tamil Digital
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=01cc63d414394296bb3e6cfaffee0000:c1fba587fc8b4218ade5ace1e62e5aaf
-https://shoebinfo.qzz.io/test/hot.php/Star-Sports-1-Tamil-Digital.mpd
-
-#EXTINF:-1 tvg-id="STAR-SPORTS-1-KANNADA-DIGITAL" tvg-name="Star Sports 1 Kannada Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8138/1782284928138-h.jpg" group-title="Sports",Star Sports 1 Kannada Digital
+https://premiumplugx.me/hotstar/stream.php/Star-Sports-1-Tamil-Digital.mpd
+#EXTINF:-1 tvg-name="Star Sports 1 Kannada Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8138/1782284928138-h.jpg" group-title="Sports",Star Sports 1 Kannada Digital
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eb2f9710abf44bb1bcf51400ccc00000:5f29f372823346e78934431f2a924065
-https://shoebinfo.qzz.io/test/hot.php/Star-Sports-1-Kannada-Digital.mpd
-
-#EXTINF:-1 tvg-id="STAR-SPORTS-2-TAMIL-DIGITAL" tvg-name="Star Sports 2 Tamil Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6676/1783000836676-h.jpg" group-title="Sports",Star Sports 2 Tamil Digital
+https://premiumplugx.me/hotstar/stream.php/Star-Sports-1-Kannada-Digital.mpd
+#EXTINF:-1 tvg-name="Star Sports 2 Tamil Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6676/1783000836676-h.jpg" group-title="Sports",Star Sports 2 Tamil Digital
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8cecd7ec1ee04eecb49ddbdc8c420000:499ea72b59f14337a0acb057cd9dffc0
-https://shoebinfo.qzz.io/test/hot.php/Star-Sports-2-Tamil-Digital.mpd
-
-#EXTINF:-1 tvg-id="STAR-SPORTS-2-KANNADA-DIGITAL" tvg-name="Star Sports 2 Kannada Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4797/1783000974797-h.jpg" group-title="Sports",Star Sports 2 Kannada Digital
+https://premiumplugx.me/hotstar/stream.php/Star-Sports-2-Tamil-Digital.mpd
+#EXTINF:-1 tvg-name="Star Sports 2 Kannada Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4797/1783000974797-h.jpg" group-title="Sports",Star Sports 2 Kannada Digital
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae315fa52d544372a525f8b947a50000:8224183f754244c09664e825535aea4e
-https://shoebinfo.qzz.io/test/hot.php/Star-Sports-2-Kannada-Digital.mpd
-
-#EXTINF:-1 tvg-id="STAR-SPORTS-3-DIGITAL" tvg-name="Star Sports 3 Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2523/1783001062523-h.jpg" group-title="Sports",Star Sports 3 Digital
+https://premiumplugx.me/hotstar/stream.php/Star-Sports-2-Kannada-Digital.mpd
+#EXTINF:-1 tvg-name="Star Sports 3 Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2523/1783001062523-h.jpg" group-title="Sports",Star Sports 3 Digital
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f718ac1c70414b7ead6ebffa05fa0000:7b3a3cb3eda946de88aa44bbaaa179bb
-https://shoebinfo.qzz.io/test/hot.php/Star-Sports-3-Digital.mpd
-
-#EXTINF:-1 tvg-id="STAR-SPORTS-SELECT-1-DIGITAL" tvg-name="Star Sports Select 1 Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1176/1783001141176-h.jpg" group-title="Sports",Star Sports Select 1 Digital
+https://premiumplugx.me/hotstar/stream.php/Star-Sports-3-Digital.mpd
+#EXTINF:-1 tvg-name="Star Sports Select 1 Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1176/1783001141176-h.jpg" group-title="Sports",Star Sports Select 1 Digital
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae3b1efc6eee47fa90e0360b16ad0000:3c8be3ec7a4e4ab6994725420d95f971
-https://shoebinfo.qzz.io/test/hot.php/Star-Sports-Select-1-Digital.mpd
-
-#EXTINF:-1 tvg-id="STAR-SPORTS-SELECT-2-DIGITAL" tvg-name="Star Sports Select 2 Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7266/1783001217266-h.jpg" group-title="Sports",Star Sports Select 2 Digital
+https://premiumplugx.me/hotstar/stream.php/Star-Sports-Select-1-Digital.mpd
+#EXTINF:-1 tvg-name="Star Sports Select 2 Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7266/1783001217266-h.jpg" group-title="Sports",Star Sports Select 2 Digital
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9bced3f4d794419e99012ad6c1090000:c4c7f22fc71445c28ea15cb3fdb1b3be
-https://shoebinfo.qzz.io/test/hot.php/Star-Sports-Select-2-Digital.mpd
-
-#EXTINF:-1 tvg-id="ESPN-1-AFRICA-LIVE" tvg-name="ESPN 1 AFRICA LIVE" tvg-logo="https://cdn.sanity.io/images/1pn9obcz/production/467001ec48f124382a8e5662dddb0a7b07e72913-1920x1080.jpg" group-title="Sports",ESPN 1 AFRICA LIVE
+https://premiumplugx.me/hotstar/stream.php/Star-Sports-Select-2-Digital.mpd
+#EXTINF:-1 tvg-name="ESPN 1 AFRICA LIVE" tvg-logo="https://cdn.sanity.io/images/1pn9obcz/production/467001ec48f124382a8e5662dddb0a7b07e72913-1920x1080.jpg" group-title="Sports",ESPN 1 AFRICA LIVE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f91a31529aae44db8edd6458436d0000:88e3db66781f46ba81e6b33798e9c957
-https://shoebinfo.qzz.io/test/hot.php/ESPN-1-AFRICA-LIVE.mpd
-
-#EXTINF:-1 tvg-id="STAR-SUVARNА" tvg-name="Star Suvarna" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7429/567429-h.jpg" group-title="Entertainment",Star Suvarna
+https://premiumplugx.me/hotstar/stream.php/ESPN-1-AFRICA-LIVE.mpd
+#EXTINF:-1 tvg-name="Star Suvarna" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7429/567429-h.jpg" group-title="Entertainment",Star Suvarna
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=786fe347f558460398b9e42e1db50000:d630fb6469c3457e9d7c4bb863e1fef1
-https://shoebinfo.qzz.io/test/hot.php/Star-Suvarna.mpd
-
-#EXTINF:-1 tvg-id="STAR-PRAVAH" tvg-name="Star Pravah" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/5868/595868-h.jpg" group-title="Entertainment",Star Pravah
+https://premiumplugx.me/hotstar/stream.php/Star-Suvarna.mpd
+#EXTINF:-1 tvg-name="Star Pravah" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/5868/595868-h.jpg" group-title="Entertainment",Star Pravah
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9d300f38d30d4829b2e525a037560000:706572c4aac0420f90a778e22116b320
-https://shoebinfo.qzz.io/test/hot.php/Star-Pravah.mpd
-
-#EXTINF:-1 tvg-id="ASIANET-PLUS" tvg-name="Asianet Plus" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7424/567424-h.jpg" group-title="Entertainment",Asianet Plus
+https://premiumplugx.me/hotstar/stream.php/Star-Pravah.mpd
+#EXTINF:-1 tvg-name="Asianet Plus" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7424/567424-h.jpg" group-title="Entertainment",Asianet Plus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5f1a41f1f8c04e209dfcdfff2fdc0000:e0a5f3aa6afe414b902d6b729dd9b11b
-https://shoebinfo.qzz.io/test/hot.php/Asianet-Plus.mpd
-
-#EXTINF:-1 tvg-id="STAR-JALSHA" tvg-name="Star Jalsha" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7419/567419-h.jpg" group-title="Entertainment",Star Jalsha
+https://premiumplugx.me/hotstar/stream.php/Asianet-Plus.mpd
+#EXTINF:-1 tvg-name="Star Jalsha" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7419/567419-h.jpg" group-title="Entertainment",Star Jalsha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=94b8e23444db4af3b81dc2840c930000:d7c43050ca6d4e1ab3a296c91a4bb38e
-https://shoebinfo.qzz.io/test/hot.php/Star-Jalsha.mpd
-
-#EXTINF:-1 tvg-id="ASIANET" tvg-name="Asianet" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7420/567420-h.jpg" group-title="Entertainment",Asianet
+https://premiumplugx.me/hotstar/stream.php/Star-Jalsha.mpd
+#EXTINF:-1 tvg-name="Asianet" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7420/567420-h.jpg" group-title="Entertainment",Asianet
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1dd2d0a48be14cc3a9666d861dd60000:24e889ab81444af0bceb8f8b9a530b18
-https://shoebinfo.qzz.io/test/hot.php/Asianet.mpd
-
-#EXTINF:-1 tvg-id="STARPLUS" tvg-name="StarPlus" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7415/567415-h.jpg" group-title="Entertainment",StarPlus
+https://premiumplugx.me/hotstar/stream.php/Asianet.mpd
+#EXTINF:-1 tvg-name="StarPlus" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7415/567415-h.jpg" group-title="Entertainment",StarPlus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=17a6e6ef02f74d9bbce4640371d40000:7a89315d2ec84875901dce2d3044556c
-https://shoebinfo.qzz.io/test/hot.php/StarPlus.mpd
-
-#EXTINF:-1 tvg-id="STAR-VIJAY" tvg-name="Star Vijay" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7409/567409-h.jpg" group-title="Entertainment",Star Vijay
+https://premiumplugx.me/hotstar/stream.php/StarPlus.mpd
+#EXTINF:-1 tvg-name="Star Vijay" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7409/567409-h.jpg" group-title="Entertainment",Star Vijay
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=652811d06b3545a3a1f20c1b03700000:d3db194166ee44b3b5c9c719aa9cdd63
-https://shoebinfo.qzz.io/test/hot.php/Star-Vijay.mpd
-
-#EXTINF:-1 tvg-id="STAR-UTSAV" tvg-name="Star Utsav" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7407/567407-h.jpg" group-title="Entertainment",Star Utsav
+https://premiumplugx.me/hotstar/stream.php/Star-Vijay.mpd
+#EXTINF:-1 tvg-name="Star Utsav" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7407/567407-h.jpg" group-title="Entertainment",Star Utsav
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=88f55cce9ba94df6b009f2433ef90000:6f33ae9e6fa24f95b82e538563b1cbaf
-https://shoebinfo.qzz.io/test/hot.php/Star-Utsav.mpd
-
-#EXTINF:-1 tvg-id="STAR-MAA" tvg-name="Star Maa" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7418/567418-h.jpg" group-title="Entertainment",Star Maa
+https://premiumplugx.me/hotstar/stream.php/Star-Utsav.mpd
+#EXTINF:-1 tvg-name="Star Maa" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7418/567418-h.jpg" group-title="Entertainment",Star Maa
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b13dd22b45644e798457508fcdf70000:2c965c36ef5242f68a878952f993a591
-https://shoebinfo.qzz.io/test/hot.php/Star-Maa.mpd
-
-#EXTINF:-1 tvg-id="STAR-BHARAT" tvg-name="Star Bharat" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7406/567406-h.jpg" group-title="Entertainment",Star Bharat
+https://premiumplugx.me/hotstar/stream.php/Star-Maa.mpd
+#EXTINF:-1 tvg-name="Star Bharat" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7406/567406-h.jpg" group-title="Entertainment",Star Bharat
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4271050207424ba8b3e65c602d7e0000:8fdd910f634b40fdb5bfde551e08fd6c
-https://shoebinfo.qzz.io/test/hot.php/Star-Bharat.mpd
-
-#EXTINF:-1 tvg-id="STAR-SUVARNА-PLUS" tvg-name="Star Suvarna Plus" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7399/567399-h.jpg" group-title="Entertainment",Star Suvarna Plus
+https://premiumplugx.me/hotstar/stream.php/Star-Bharat.mpd
+#EXTINF:-1 tvg-name="Star Suvarna Plus" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7399/567399-h.jpg" group-title="Entertainment",Star Suvarna Plus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ffcedf61e9544d1da7db98277a290000:cea7c92c93f04c6daaf31e2fda5e6809
-https://shoebinfo.qzz.io/test/hot.php/Star-Suvarna-Plus.mpd
-
-#EXTINF:-1 tvg-id="STAR-PLUS-HD" tvg-name="Star Plus HD" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/658/920658-h.jpg" group-title="Entertainment",Star Plus HD
-https://shoebinfo.qzz.io/test/hot.php/Star-Plus-HD.mpd
-
-#EXTINF:-1 tvg-id="ASIANET-DIGITAL" tvg-name="Asianet Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7408/1782289617408-h.jpg" group-title="Entertainment",Asianet Digital
+https://premiumplugx.me/hotstar/stream.php/Star-Suvarna-Plus.mpd
+#EXTINF:-1 tvg-name="Star Plus HD" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/658/920658-h.jpg" group-title="Entertainment",Star Plus HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://premiumplugx.me/hotstar/stream.php/Star-Plus-HD.mpd
+#EXTINF:-1 tvg-name="Asianet Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7408/1782289617408-h.jpg" group-title="Entertainment",Asianet Digital
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31a5c9e538e0462b9424921dd21d0000:117c7548f5574b638411c138fd3e2ed6
-https://shoebinfo.qzz.io/test/hot.php/Asianet-Digital.mpd
-
-#EXTINF:-1 tvg-id="STAR-PLUS-DIGITAL" tvg-name="Star Plus Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2384/1782291852384-h.jpg" group-title="Entertainment",Star Plus Digital
+https://premiumplugx.me/hotstar/stream.php/Asianet-Digital.mpd
+#EXTINF:-1 tvg-name="Star Plus Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2384/1782291852384-h.jpg" group-title="Entertainment",Star Plus Digital
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f7bbef9f7f4cada833072e21ed0000:d67f3522fb5a4b1d96daba62990a214e
-https://shoebinfo.qzz.io/test/hot.php/Star-Plus-Digital.mpd
-
-#EXTINF:-1 tvg-id="STAR-JALSHA-DIGITAL" tvg-name="Star Jalsha Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4452/1782290464452-h.jpg" group-title="Entertainment",Star Jalsha Digital
+#KODIPROP:inputstream.adaptive.license_key=f7bbfeaf9f7f4cada833072e21ed0000:d67f3522fb5a4b1d96daba62990a214e
+https://premiumplugx.me/hotstar/stream.php/Star-Plus-Digital.mpd
+#EXTINF:-1 tvg-name="Star Jalsha Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4452/1782290464452-h.jpg" group-title="Entertainment",Star Jalsha Digital
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2042ab988f5e4d95b03f9a01933c0000:3873b7044900428cb019fee9d14fd14a
-https://shoebinfo.qzz.io/test/hot.php/Star-Jalsha-Digital.mpd
-
-#EXTINF:-1 tvg-id="STAR-MAA-DIGITAL" tvg-name="Star Maa Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1759/1782290731759-h.jpg" group-title="Entertainment",Star Maa Digital
+https://premiumplugx.me/hotstar/stream.php/Star-Jalsha-Digital.mpd
+#EXTINF:-1 tvg-name="Star Maa Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1759/1782290731759-h.jpg" group-title="Entertainment",Star Maa Digital
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3a6865c2eb484c57806a76e2719b0000:97c95a3bbfd344d9a16d96bad4f42ad7
-https://shoebinfo.qzz.io/test/hot.php/Star-Maa-Digital.mpd
-
-#EXTINF:-1 tvg-id="STAR-PRAVAH-DIGITAL" tvg-name="Star Pravah Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/5780/1782291675780-h.jpg" group-title="Entertainment",Star Pravah Digital
+https://premiumplugx.me/hotstar/stream.php/Star-Maa-Digital.mpd
+#EXTINF:-1 tvg-name="Star Pravah Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/5780/1782291675780-h.jpg" group-title="Entertainment",Star Pravah Digital
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f7efc99766e643e687b1a228ae000000:6d45b6ab1b2840be943c8a99e8a0a0e5
-https://shoebinfo.qzz.io/test/hot.php/Star-Pravah-Digital.mpd
-
-#EXTINF:-1 tvg-id="COLORS-BANGLA-DIGITAL" tvg-name="Colors Bangla Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8049/1782291598049-h.jpg" group-title="Entertainment",Colors Bangla Digital
+https://premiumplugx.me/hotstar/stream.php/Star-Pravah-Digital.mpd
+#EXTINF:-1 tvg-name="Colors Bangla Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8049/1782291598049-h.jpg" group-title="Entertainment",Colors Bangla Digital
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4221bf5c8de94ff792982ee906a20000:d53a4b3ab73f454c8b7a4e7b7454fd97
-https://shoebinfo.qzz.io/test/hot.php/Colors-Bangla-Digital.mpd
-
-#EXTINF:-1 tvg-id="STAR-VIJAY-DIGITAL" tvg-name="Star Vijay Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/698/1782289770698-h.jpg" group-title="Entertainment",Star Vijay Digital
+https://premiumplugx.me/hotstar/stream.php/Colors-Bangla-Digital.mpd
+#EXTINF:-1 tvg-name="Star Vijay Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/698/1782289770698-h.jpg" group-title="Entertainment",Star Vijay Digital
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d16a12b7fe0423d87e00c231d710000:f6aeb5898e5c4d8bab629a9de8befa12
-https://shoebinfo.qzz.io/test/hot.php/Star-Vijay-Digital.mpd
-
-#EXTINF:-1 tvg-id="STAR-SUVARNА-DIGITAL" tvg-name="Star Suvarna Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6396/1782290646396-h.jpg" group-title="Entertainment",Star Suvarna Digital
+https://premiumplugx.me/hotstar/stream.php/Star-Vijay-Digital.mpd
+#EXTINF:-1 tvg-name="Star Suvarna Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6396/1782290646396-h.jpg" group-title="Entertainment",Star Suvarna Digital
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d33b34f86a214120a3850f04a11e0000:36245c3005ce4f94a6d927d435508019
-https://shoebinfo.qzz.io/test/hot.php/Star-Suvarna-Digital.mpd
-
-#EXTINF:-1 tvg-id="COLORS-DIGITAL" tvg-name="Colors Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/108/1782291760108-h.jpg" group-title="Entertainment",Colors Digital
+https://premiumplugx.me/hotstar/stream.php/Star-Suvarna-Digital.mpd
+#EXTINF:-1 tvg-name="Colors Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/108/1782291760108-h.jpg" group-title="Entertainment",Colors Digital
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f762f7bf6bf04c999f861cc3dafe0000:25ec2364467f40b09fc1e9a7c1e72058
-https://shoebinfo.qzz.io/test/hot.php/Colors-Digital.mpd
-
-#EXTINF:-1 tvg-id="COLORS-KANNADA-DIGITAL" tvg-name="Colors Kannada Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3440/1782291243440-h.jpg" group-title="Entertainment",Colors Kannada Digital
+https://premiumplugx.me/hotstar/stream.php/Colors-Digital.mpd
+#EXTINF:-1 tvg-name="Colors Kannada Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3440/1782291243440-h.jpg" group-title="Entertainment",Colors Kannada Digital
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2427721df70c4992b6e2cf7d2abf0000:fb1d4dc6142344278550d82972ae003b
-https://shoebinfo.qzz.io/test/hot.php/Colors-Kannada-Digital.mpd
-
-#EXTINF:-1 tvg-id="VIJAY-SUPER-DIGITAL" tvg-name="Vijay Super Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1929/1782285031929-h.jpg" group-title="Entertainment",Vijay Super Digital
+https://premiumplugx.me/hotstar/stream.php/Colors-Kannada-Digital.mpd
+#EXTINF:-1 tvg-name="Vijay Super Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1929/1782285031929-h.jpg" group-title="Entertainment",Vijay Super Digital
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=08e4a1c2f55d4ed4878110a640920000:23dc3107bf284a0dbd93b1dc9f142459
-https://shoebinfo.qzz.io/test/hot.php/Vijay-Super-Digital.mpd
-
-#EXTINF:-1 tvg-id="ASIANET-PLUS-DIGITAL" tvg-name="Asianet Plus Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/9207/1782286239207-h.jpg" group-title="Entertainment",Asianet Plus Digital
+https://premiumplugx.me/hotstar/stream.php/Vijay-Super-Digital.mpd
+#EXTINF:-1 tvg-name="Asianet Plus Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/9207/1782286239207-h.jpg" group-title="Entertainment",Asianet Plus Digital
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bfe3e4a7670e416d85261d002c3a0000:25955bb289a94ef5978ffa689eea066d
-https://shoebinfo.qzz.io/test/hot.php/Asianet-Plus-Digital.mpd
-
-#EXTINF:-1 tvg-id="COLORS-SUPER-DIGITAL" tvg-name="Colors Super Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6181/1782290986181-h.jpg" group-title="Entertainment",Colors Super Digital
+https://premiumplugx.me/hotstar/stream.php/Asianet-Plus-Digital.mpd
+#EXTINF:-1 tvg-name="Colors Super Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6181/1782290986181-h.jpg" group-title="Entertainment",Colors Super Digital
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b3eb9d890c5c46f4b35595337c070000:c57a0ca2eeda41eeb83a0246d116c1d6
-https://shoebinfo.qzz.io/test/hot.php/Colors-Super-Digital.mpd
-
-#EXTINF:-1 tvg-id="STAR-UTSAV-DIGITAL" tvg-name="Star Utsav Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/9181/1782291429181-h.jpg" group-title="Entertainment",Star Utsav Digital
+https://premiumplugx.me/hotstar/stream.php/Colors-Super-Digital.mpd
+#EXTINF:-1 tvg-name="Star Utsav Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/9181/1782291429181-h.jpg" group-title="Entertainment",Star Utsav Digital
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3560074f30e4257ba6dfb196ecb0000:e044fed2851f4c268b59de3ef815d404
-https://shoebinfo.qzz.io/test/hot.php/Star-Utsav-Digital.mpd
-
-#EXTINF:-1 tvg-id="COLORS-MARATHI-DIGITAL" tvg-name="Colors Marathi Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/5106/1782291335106-h.jpg" group-title="Entertainment",Colors Marathi Digital
+https://premiumplugx.me/hotstar/stream.php/Star-Utsav-Digital.mpd
+#EXTINF:-1 tvg-name="Colors Marathi Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/5106/1782291335106-h.jpg" group-title="Entertainment",Colors Marathi Digital
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7baa28b028744858b64a7077e3f00000:8fcb860f70bc41b98e11cb7aee4f221b
-https://shoebinfo.qzz.io/test/hot.php/Colors-Marathi-Digital.mpd
-
-#EXTINF:-1 tvg-id="COLORS-RISHTEY-DIGITAL" tvg-name="Colors Rishtey Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/9097/1782290579097-h.jpg" group-title="Entertainment",Colors Rishtey Digital
+https://premiumplugx.me/hotstar/stream.php/Colors-Marathi-Digital.mpd
+#EXTINF:-1 tvg-name="Colors Rishtey Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/9097/1782290579097-h.jpg" group-title="Entertainment",Colors Rishtey Digital
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=99ccf903f1334204923c58cb8f190000:d91830218d044a218f46938c421ec49b
-https://shoebinfo.qzz.io/test/hot.php/Colors-Rishtey-Digital.mpd
-
-#EXTINF:-1 tvg-id="STAR-BHARAT-DIGITAL" tvg-name="Star Bharat Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8704/1782288318704-h.jpg" group-title="Entertainment",Star Bharat Digital
+https://premiumplugx.me/hotstar/stream.php/Colors-Rishtey-Digital.mpd
+#EXTINF:-1 tvg-name="Star Bharat Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8704/1782288318704-h.jpg" group-title="Entertainment",Star Bharat Digital
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b271001a8d2448aab89c0f5fc84f0000:a76a5ecde8764d8b9e40ce84888de269
-https://shoebinfo.qzz.io/test/hot.php/Star-Bharat-Digital.mpd
-
-#EXTINF:-1 tvg-id="STAR-KIRAN-DIGITAL" tvg-name="Star Kiran Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7412/1782282697412-h.jpg" group-title="Entertainment",Star Kiran Digital
+https://premiumplugx.me/hotstar/stream.php/Star-Bharat-Digital.mpd
+#EXTINF:-1 tvg-name="Star Kiran Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7412/1782282697412-h.jpg" group-title="Entertainment",Star Kiran Digital
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b81f831b7b2f4173aa16f7ec64340000:17b89f2c4e754dac87b91981a6cd7ad2
-https://shoebinfo.qzz.io/test/hot.php/Star-Kiran-Digital.mpd
-
-#EXTINF:-1 tvg-id="STAR-MAA-MOVIES" tvg-name="Star Maa Movies" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7421/567421-h.jpg" group-title="Movies",Star Maa Movies
+https://premiumplugx.me/hotstar/stream.php/Star-Kiran-Digital.mpd
+#EXTINF:-1 tvg-name="Star Maa Movies" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7421/567421-h.jpg" group-title="Movies",Star Maa Movies
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=18b7ece05d094614a3839978b9330000:267ba7674fbd4076bbf797eaa1dd16d0
-https://shoebinfo.qzz.io/test/hot.php/Star-Maa-Movies.mpd
-
-#EXTINF:-1 tvg-id="STAR-GOLD" tvg-name="Star Gold" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7403/567403-h.jpg" group-title="Movies",Star Gold
+https://premiumplugx.me/hotstar/stream.php/Star-Maa-Movies.mpd
+#EXTINF:-1 tvg-name="Star Gold" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7403/567403-h.jpg" group-title="Movies",Star Gold
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3c8fd55071348e9992be759ceab0000:b894ad9ee2ad483fb2a5b71db0434bfc
-https://shoebinfo.qzz.io/test/hot.php/Star-Gold.mpd
-
-#EXTINF:-1 tvg-id="JALSHA-MOVIES" tvg-name="Jalsha Movies" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7404/567404-h.jpg" group-title="Movies",Jalsha Movies
+https://premiumplugx.me/hotstar/stream.php/Star-Gold.mpd
+#EXTINF:-1 tvg-name="Jalsha Movies" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7404/567404-h.jpg" group-title="Movies",Jalsha Movies
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a515368ea6bc4d76a1aebc22f4660000:e46451b6cdae433ab6e719f39dcc449e
-https://shoebinfo.qzz.io/test/hot.php/Jalsha-Movies.mpd
-
-#EXTINF:-1 tvg-id="ASIANET-MOVIES" tvg-name="Asianet Movies" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7400/567400-h.jpg" group-title="Movies",Asianet Movies
+https://premiumplugx.me/hotstar/stream.php/Jalsha-Movies.mpd
+#EXTINF:-1 tvg-name="Asianet Movies" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7400/567400-h.jpg" group-title="Movies",Asianet Movies
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=53e552bf422a4feeb017e38ba43e0000:9cf91549836b4ce98e9d8137591dd38e
-https://shoebinfo.qzz.io/test/hot.php/Asianet-Movies.mpd
-
-#EXTINF:-1 tvg-id="MAA-GOLD" tvg-name="Maa Gold" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7408/567408-h.jpg" group-title="Movies",Maa Gold
+https://premiumplugx.me/hotstar/stream.php/Asianet-Movies.mpd
+#EXTINF:-1 tvg-name="Maa Gold" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7408/567408-h.jpg" group-title="Movies",Maa Gold
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ab4cba34a7084eddbd6edf6a16460000:fd1cb8f19b2e42838d4ace714427ec76
-https://shoebinfo.qzz.io/test/hot.php/Maa-Gold.mpd
-
-#EXTINF:-1 tvg-id="ASIANET-MOVIES-DIGITAL" tvg-name="Asianet Movies Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7227/1782288617227-h.jpg" group-title="Movies",Asianet Movies Digital
+https://premiumplugx.me/hotstar/stream.php/Maa-Gold.mpd
+#EXTINF:-1 tvg-name="Asianet Movies Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7227/1782288617227-h.jpg" group-title="Movies",Asianet Movies Digital
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6622e3b665db40be8b755150ff6e0000:4f4ab9edf51d4d39acff73b6dacb0b47
-https://shoebinfo.qzz.io/test/hot.php/Asianet-Movies-Digital.mpd
-
-#EXTINF:-1 tvg-id="COLORS-BANGLA-CINEMA-DIGITAL" tvg-name="Colors Bangla Cinema Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4599/1782289524599-h.jpg" group-title="Movies",Colors Bangla Cinema Digital
+https://premiumplugx.me/hotstar/stream.php/Asianet-Movies-Digital.mpd
+#EXTINF:-1 tvg-name="Colors Bangla Cinema Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4599/1782289524599-h.jpg" group-title="Movies",Colors Bangla Cinema Digital
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=01c12a7218654c38b7b38eaeb40e0000:41eca141f03640a3b8fede56336cffcf
-https://shoebinfo.qzz.io/test/hot.php/Colors-Bangla-Cinema-Digital.mpd
-
-#EXTINF:-1 tvg-id="JALSHA-MOVIES-DIGITAL" tvg-name="Jalsha Movies Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1445/1782291521445-h.jpg" group-title="Movies",Jalsha Movies Digital
+https://premiumplugx.me/hotstar/stream.php/Colors-Bangla-Cinema-Digital.mpd
+#EXTINF:-1 tvg-name="Jalsha Movies Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1445/1782291521445-h.jpg" group-title="Movies",Jalsha Movies Digital
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6e8ac9c358014b88ab8bae9c5fc70000:7c8ae76486624b8eaa7e24b852e08abc
-https://shoebinfo.qzz.io/test/hot.php/Jalsha-Movies-Digital.mpd
-
-#EXTINF:-1 tvg-id="MAA-MOVIES-DIGITAL" tvg-name="Maa Movies Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2722/1782288522722-h.jpg" group-title="Movies",Maa Movies Digital
+https://premiumplugx.me/hotstar/stream.php/Jalsha-Movies-Digital.mpd
+#EXTINF:-1 tvg-name="Maa Movies Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2722/1782288522722-h.jpg" group-title="Movies",Maa Movies Digital
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c559e8b9079a458eadd5e9c7dbb40000:b6f184b3e9734b328773686363bfc465
-https://shoebinfo.qzz.io/test/hot.php/Maa-Movies-Digital.mpd
-
-#EXTINF:-1 tvg-id="STAR-GOLD-DIGITAL" tvg-name="Star Gold Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6567/1784547656567-h.jpg" group-title="Movies",Star Gold Digital
+https://premiumplugx.me/hotstar/stream.php/Maa-Movies-Digital.mpd
+#EXTINF:-1 tvg-name="Star Gold Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6567/1784547656567-h.jpg" group-title="Movies",Star Gold Digital
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b582b2495204a1396cd8a714a2a0000:43992282cef64e1ca7ac3f8f6e633324
-https://shoebinfo.qzz.io/test/hot.php/Star-Gold-Digital.mpd
-
-#EXTINF:-1 tvg-id="COLORS-CINEPLEX-DIGITAL" tvg-name="Colors Cineplex Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3042/1782291173042-h.jpg" group-title="Movies",Colors Cineplex Digital
+https://premiumplugx.me/hotstar/stream.php/Star-Gold-Digital.mpd
+#EXTINF:-1 tvg-name="Colors Cineplex Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3042/1782291173042-h.jpg" group-title="Movies",Colors Cineplex Digital
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=215ced4a1eb7400488d290d09ebe0000:71b4165c9e294b06b88c1e0f4e953cc2
-https://shoebinfo.qzz.io/test/hot.php/Colors-Cineplex-Digital.mpd
-
-#EXTINF:-1 tvg-id="COLORS-KANNADA-CINEMA-DIGITAL" tvg-name="Colors Kannada Cinema Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3489/1782291093489-h.jpg" group-title="Movies",Colors Kannada Cinema Digital
+https://premiumplugx.me/hotstar/stream.php/Colors-Cineplex-Digital.mpd
+#EXTINF:-1 tvg-name="Colors Kannada Cinema Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3489/1782291093489-h.jpg" group-title="Movies",Colors Kannada Cinema Digital
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f61b43f2b3a34a5daafacc05b7a30000:7105b6b6de914502a54667970e2dc9c0
-https://shoebinfo.qzz.io/test/hot.php/Colors-Kannada-Cinema-Digital.mpd
-
-#EXTINF:-1 tvg-id="NICK-PLUS-DIGITAL" tvg-name="Nick Plus Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/470/1783938260470-h.jpg" group-title="Kids",Nick Plus Digital
+https://premiumplugx.me/hotstar/stream.php/Colors-Kannada-Cinema-Digital.mpd
+#EXTINF:-1 tvg-name="Nick Plus Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/470/1783938260470-h.jpg" group-title="Kids",Nick Plus Digital
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8446d54c24f549ba9c9323836a060000:db25bb59ba41470e82e4728f46781954
-https://shoebinfo.qzz.io/test/hot.php/Nick-Plus-Digital.mpd
-
-#EXTINF:-1 tvg-id="NICK-DIGITAL" tvg-name="Nick Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6807/1784039246807-h.jpg" group-title="Kids",Nick Digital
+https://premiumplugx.me/hotstar/stream.php/Nick-Plus-Digital.mpd
+#EXTINF:-1 tvg-name="Nick Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6807/1784039246807-h.jpg" group-title="Kids",Nick Digital
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b0a76fc24ad548c5b92fb4eebfe90000:f7c8dc574a6e4937ab2c15e8ae2acedb
-https://shoebinfo.qzz.io/test/hot.php/Nick-Digital.mpd
-
-#EXTINF:-1 tvg-id="SONIC-DIGITAL" tvg-name="Sonic Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6294/1782290926294-h.jpg" group-title="Kids",Sonic Digital
+https://premiumplugx.me/hotstar/stream.php/Nick-Digital.mpd
+#EXTINF:-1 tvg-name="Sonic Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6294/1782290926294-h.jpg" group-title="Kids",Sonic Digital
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d939611fa2e489bb4a7b58d10c10000:1fba40d5aa564f079c8c7e378ccb3019
-https://shoebinfo.qzz.io/test/hot.php/Sonic-Digital.mpd
+https://premiumplugx.me/hotstar/stream.php/Sonic-Digital.mpd
