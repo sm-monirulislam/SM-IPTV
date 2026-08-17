@@ -1,6 +1,6 @@
 #EXTM3U
 # Toffee Live Channels
-# Last Updated: 2026-08-17 04:37:49
+# Last Updated: 2026-08-17 06:46:43
 
 #EXTINF:-1 tvg-name="TOFFEE Movies VIP" tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_724353001725875591.png" group-title="LIVE",TOFFEE Movies VIP
 #KODIPROP:inputstream.adaptive.stream_headers=Host=bldcmprod-cdn.toffeelive.com&cookie=&user-agent=okhttp/5.1.0&client-api-header=null&accept-encoding=gzip
