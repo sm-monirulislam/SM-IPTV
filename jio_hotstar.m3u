@@ -1,10 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="star-sports-1-select-hd" tvg-name="STAR SPORTS 1 SELECT HD" group-title="Sports",STAR SPORTS 1 SELECT HD
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f64a24b3950468497390155c4880000:68f788aced6c4ecb89108f22fe9ee087
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Fpremiumplugx.me%2F
-#KODIPROP:mimetype=application/dash+xml
 https://hotstarplugx.cstds.workers.dev/jio/STAR-SPORTS-1-SELECT-HD.mpd
