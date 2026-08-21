@@ -1,5 +1,15 @@
 
 #EXTM3U
+
+#=================================
+# Developed by: Monirul Islam
+# Telegram: https://t.me/monirul_Islam_SM
+# Channel: https://t.me/sm_iptv_bd
+# Last Updated: 2026-08-21 20:38:56 (BD Time)
+# Channels Count: 1000+
+# Usage: Personal / Educational
+#=================================
+
 #EXTINF:-1 tvg-id="ColorsCineplexBollywood" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexBollywood.png" group-title="Movies",Colors Cineplex Bollywood
 https://jio-tv.sm-monirul-islam-rs.workers.dev/live.m3u8?id=1763
 #EXTINF:-1 tvg-id="Nick_Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Kids",Nick Hindi
