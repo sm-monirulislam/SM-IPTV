@@ -1,0 +1,127 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="somoy_tv" tvg-name="Somoy tv" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1784629064327.png" group-title="News",Somoy tv
+https://akash-backup.sm-monirul-islam-rs.workers.dev/somoy_tv.m3u8
+
+#EXTINF:-1 tvg-id="jamuna_tv" tvg-name="Jamuna TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png" group-title="News",Jamuna TV
+https://akash-backup.sm-monirul-islam-rs.workers.dev/jamuna_tv.m3u8
+
+#EXTINF:-1 tvg-id="independent_tv" tvg-name="Independent TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739964387847.png" group-title="News",Independent TV
+https://akash-backup.sm-monirul-islam-rs.workers.dev/independent_tv.m3u8
+
+#EXTINF:-1 tvg-id="dbc_news_hd" tvg-name="DBC News HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186306600.png" group-title="News",DBC News HD
+https://akash-backup.sm-monirul-islam-rs.workers.dev/dbc_news_hd.m3u8
+
+#EXTINF:-1 tvg-id="btv_shangshad" tvg-name="BTV Shangshad" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1773247382366.png" group-title="News",BTV Shangshad
+https://akash-backup.sm-monirul-islam-rs.workers.dev/btv_shangshad.m3u8
+
+#EXTINF:-1 tvg-id="ekattor_hd" tvg-name="Ekattor HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png" group-title="News",Ekattor HD
+https://akash-backup.sm-monirul-islam-rs.workers.dev/ekattor_hd.m3u8
+
+#EXTINF:-1 tvg-id="channel_24_hd" tvg-name="Channel 24 HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png" group-title="News",Channel 24 HD
+https://akash-backup.sm-monirul-islam-rs.workers.dev/channel_24_hd.m3u8
+
+#EXTINF:-1 tvg-id="btv" tvg-name="BTV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1784629845642.png" group-title="Entertainment",BTV
+https://akash-backup.sm-monirul-islam-rs.workers.dev/btv.m3u8
+
+#EXTINF:-1 tvg-id="maasranga_tv" tvg-name="Maasranga TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1773680325498.png" group-title="Entertainment",Maasranga TV
+https://akash-backup.sm-monirul-islam-rs.workers.dev/maasranga_tv.m3u8
+
+#EXTINF:-1 tvg-id="crazy_ex" tvg-name="Crazy Ex" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770348753896.png" group-title="Sports",Crazy Ex
+https://akash-backup.sm-monirul-islam-rs.workers.dev/crazy_ex.m3u8
+
+#EXTINF:-1 tvg-id="sports_range" tvg-name="Sports Range" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380601958.png" group-title="Sports",Sports Range
+https://akash-backup.sm-monirul-islam-rs.workers.dev/sports_range.m3u8
+
+#EXTINF:-1 tvg-id="channel_9_hd" tvg-name="Channel 9 HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770188008067.png" group-title="Entertainment",Channel 9 HD
+https://akash-backup.sm-monirul-islam-rs.workers.dev/channel_9_hd.m3u8
+
+#EXTINF:-1 tvg-id="deepto_tv_hd" tvg-name="Deepto TV HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png" group-title="Entertainment",Deepto TV HD
+https://akash-backup.sm-monirul-islam-rs.workers.dev/deepto_tv_hd.m3u8
+
+#EXTINF:-1 tvg-id="ntv" tvg-name="NTV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560841094.png" group-title="Entertainment",NTV
+https://akash-backup.sm-monirul-islam-rs.workers.dev/ntv.m3u8
+
+#EXTINF:-1 tvg-id="al_jazeera" tvg-name="Al Jazeera" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735547218986.png" group-title="News",Al Jazeera
+https://akash-backup.sm-monirul-islam-rs.workers.dev/al_jazeera.m3u8
+
+#EXTINF:-1 tvg-id="channel_i_hd" tvg-name="Channel I HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png" group-title="Entertainment",Channel I HD
+https://akash-backup.sm-monirul-islam-rs.workers.dev/channel_i_hd.m3u8
+
+#EXTINF:-1 tvg-id="bangla_vision" tvg-name="Bangla Vision" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="Entertainment",Bangla Vision
+https://akash-backup.sm-monirul-islam-rs.workers.dev/bangla_vision.m3u8
+
+#EXTINF:-1 tvg-id="sports_legends" tvg-name="Sports Legends" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770377900139.png" group-title="Sports",Sports Legends
+https://akash-backup.sm-monirul-islam-rs.workers.dev/sports_legends.m3u8
+
+#EXTINF:-1 tvg-id="party_universe" tvg-name="Party Universe" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378215384.png" group-title="Music",Party Universe
+https://akash-backup.sm-monirul-islam-rs.workers.dev/party_universe.m3u8
+
+#EXTINF:-1 tvg-id="thunder_er" tvg-name="Thunder Er" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380791303.png" group-title="Sports",Thunder Er
+https://akash-backup.sm-monirul-islam-rs.workers.dev/thunder_er.m3u8
+
+#EXTINF:-1 tvg-id="fighters" tvg-name="Fighters" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380942670.png" group-title="Sports",Fighters
+https://akash-backup.sm-monirul-islam-rs.workers.dev/fighters.m3u8
+
+#EXTINF:-1 tvg-id="flash_guys_hd" tvg-name="Flash Guys HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378074527.png" group-title="Sports",Flash Guys HD
+https://akash-backup.sm-monirul-islam-rs.workers.dev/flash_guys_hd.m3u8
+
+#EXTINF:-1 tvg-id="srk_tv" tvg-name="SRK TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png" group-title="Entertainment",SRK TV
+https://akash-backup.sm-monirul-islam-rs.workers.dev/srk_tv.m3u8
+
+#EXTINF:-1 tvg-id="nikki" tvg-name="Nikki" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378704923.png" group-title="Kids",Nikki
+https://akash-backup.sm-monirul-islam-rs.workers.dev/nikki.m3u8
+
+#EXTINF:-1 tvg-id="channel_1" tvg-name="Channel 1" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1781163068414.png" group-title="News",Channel 1
+https://akash-backup.sm-monirul-islam-rs.workers.dev/channel_1.m3u8
+
+#EXTINF:-1 tvg-id="originals" tvg-name="Originals" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770313122372.png" group-title="Movies",Originals
+https://akash-backup.sm-monirul-islam-rs.workers.dev/originals.m3u8
+
+#EXTINF:-1 tvg-id="joy" tvg-name="Joy" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378874717.png" group-title="Kids",Joy
+https://akash-backup.sm-monirul-islam-rs.workers.dev/joy.m3u8
+
+#EXTINF:-1 tvg-id="delicious" tvg-name="Delicious" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378370876.png" group-title="Infotainment",Delicious
+https://akash-backup.sm-monirul-islam-rs.workers.dev/delicious.m3u8
+
+#EXTINF:-1 tvg-id="funny_junior_hd" tvg-name="Funny Junior HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770379573329.png" group-title="Kids",Funny Junior HD
+https://akash-backup.sm-monirul-islam-rs.workers.dev/funny_junior_hd.m3u8
+
+#EXTINF:-1 tvg-id="kids_stars" tvg-name="Kids Stars" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381398090.png" group-title="Kids",Kids Stars
+https://akash-backup.sm-monirul-islam-rs.workers.dev/kids_stars.m3u8
+
+#EXTINF:-1 tvg-id="cineedge_hd" tvg-name="Cineedge HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347851305.png" group-title="Movies",Cineedge HD
+https://akash-backup.sm-monirul-islam-rs.workers.dev/cineedge_hd.m3u8
+
+#EXTINF:-1 tvg-id="crimes" tvg-name="Crimes" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380126540.png" group-title="Movies",Crimes
+https://akash-backup.sm-monirul-islam-rs.workers.dev/crimes.m3u8
+
+#EXTINF:-1 tvg-id="screem" tvg-name="Screem" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770312098339.png" group-title="Movies",Screem
+https://akash-backup.sm-monirul-islam-rs.workers.dev/screem.m3u8
+
+#EXTINF:-1 tvg-id="superrix_hd" tvg-name="Superrix HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770348388925.png" group-title="Movies",Superrix HD
+https://akash-backup.sm-monirul-islam-rs.workers.dev/superrix_hd.m3u8
+
+#EXTINF:-1 tvg-id="uniques_hd" tvg-name="Uniques HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347327658.png" group-title="Movies",Uniques HD
+https://akash-backup.sm-monirul-islam-rs.workers.dev/uniques_hd.m3u8
+
+#EXTINF:-1 tvg-id="buddystar_hd" tvg-name="BuddyStar HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770379038530.png" group-title="Kids",BuddyStar HD
+https://akash-backup.sm-monirul-islam-rs.workers.dev/buddystar_hd.m3u8
+
+#EXTINF:-1 tvg-id="lucky_family" tvg-name="Lucky Family" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381248531.png" group-title="Kids",Lucky Family
+https://akash-backup.sm-monirul-islam-rs.workers.dev/lucky_family.m3u8
+
+#EXTINF:-1 tvg-id="smarty" tvg-name="Smarty" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381107924.png" group-title="Kids",Smarty
+https://akash-backup.sm-monirul-islam-rs.workers.dev/smarty.m3u8
+
+#EXTINF:-1 tvg-id="intelligence" tvg-name="Intelligence" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380460488.png" group-title="Movies",Intelligence
+https://akash-backup.sm-monirul-islam-rs.workers.dev/intelligence.m3u8
+
+#EXTINF:-1 tvg-id="true_stories" tvg-name="True Stories" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380306806.png" group-title="Movies",True Stories
+https://akash-backup.sm-monirul-islam-rs.workers.dev/true_stories.m3u8
+
+#EXTINF:-1 tvg-id="luxell_hd" tvg-name="Luxell HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378560772.png" group-title="Infotainment",Luxell HD
+https://akash-backup.sm-monirul-islam-rs.workers.dev/luxell_hd.m3u8
+
+#EXTINF:-1 tvg-id="program_promo" tvg-name="Program Promo" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1783925099346.png" group-title="Infotainment",Program Promo
+https://akash-backup.sm-monirul-islam-rs.workers.dev/program_promo.m3u8
