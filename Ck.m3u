@@ -1,4 +1,0 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-id="545" tvg-name="Channel 545" group-title="Live TV",Channel 545
-https://jio12.joinus-apiworker.workers.dev/live.m3u8?id=545
