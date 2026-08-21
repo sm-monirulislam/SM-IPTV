@@ -7,3 +7,507 @@
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f64a24b3950468497390155c4880000:68f788aced6c4ecb89108f22fe9ee087
 https://hotstarplugx.cstds.workers.dev/jio/STAR-SPORTS-1-SELECT-HD.mpd
+
+#EXTINF:-1 tvg-id="star-sports-2-hd" tvg-name="STAR SPORTS 2 HD" group-title="Sports",STAR SPORTS 2 HD
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9dacc80134404c34ba184022c28d0000:982183fb4d9449c995859b7cff512092
+https://hotstarplugx.cstds.workers.dev/jio/STAR-SPORTS-2-HD.mpd
+
+#EXTINF:-1 tvg-id="star-sports-1-hd" tvg-name="STAR SPORTS 1 HD" group-title="Sports",STAR SPORTS 1 HD
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b7cdde012ce04e90a08b90622e020000:13603245acab444faef6cab5198de55f
+https://hotstarplugx.cstds.workers.dev/jio/STAR-SPORTS-1-HD.mpd
+
+#EXTINF:-1 tvg-id="star-sports-1-hindi-hd" tvg-name="STAR SPORTS 1 Hindi HD" group-title="Sports",STAR SPORTS 1 Hindi HD
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=81872faa1d6b45fa9045cdeb2e310000:9b88168e61274587a471962c46b94675
+https://hotstarplugx.cstds.workers.dev/jio/STAR-SPORTS-1-Hindi-HD.mpd
+
+#EXTINF:-1 tvg-id="star-sports-2-select-hd" tvg-name="STAR SPORTS 2 SELECT HD" group-title="Sports",STAR SPORTS 2 SELECT HD
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2effd2e98f95492cb7418857bf610000:f0e42f1c91fb4b59bf6684cb4478d82e
+https://hotstarplugx.cstds.workers.dev/jio/STAR-SPORTS-2-SELECT-HD.mpd
+
+#EXTINF:-1 tvg-id="star-sports-khel-digital" tvg-name="Star Sports Khel Digital" group-title="Sports",Star Sports Khel Digital
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c57bd6cb156c47c1bf86a6c4171d0000:e75d26242c9944aeb91e055d0f29ee4b
+https://hotstarplugx.cstds.workers.dev/jio/Star-Sports-Khel-Digital.mpd
+
+#EXTINF:-1 tvg-id="star-sports-1-digital" tvg-name="Star Sports 1 Digital" group-title="Sports",Star Sports 1 Digital
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e85897bf6e594d698b7c82646c8e0000:d2dda31234ae40538843e871cd4dcc2a
+https://hotstarplugx.cstds.workers.dev/jio/Star-Sports-1-Digital.mpd
+
+#EXTINF:-1 tvg-id="star-sports-2-digital" tvg-name="Star Sports 2 Digital" group-title="Sports",Star Sports 2 Digital
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=14d0c8ee09944c32bafea44a987d0000:74d35f4034b14854bd3ca83dd3aa2fb1
+https://hotstarplugx.cstds.workers.dev/jio/Star-Sports-2-Digital.mpd
+
+#EXTINF:-1 tvg-id="star-sports-2-hindi-digital" tvg-name="Star Sports 2 Hindi Digital" group-title="Sports",Star Sports 2 Hindi Digital
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=effcadcbcc634296a6cf65e231f10000:569c794c69ea496e9ad1887f557ea4dc
+https://hotstarplugx.cstds.workers.dev/jio/Star-Sports-2-Hindi-Digital.mpd
+
+#EXTINF:-1 tvg-id="star-sports-2-telugu-digital" tvg-name="Star Sports 2 Telugu Digital" group-title="Sports",Star Sports 2 Telugu Digital
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4de245d511444b37a263c1d86ce70000:b326780ffb3d4dcf8d30fbc0f3008a22
+https://hotstarplugx.cstds.workers.dev/jio/Star-Sports-2-Telugu-Digital.mpd
+
+#EXTINF:-1 tvg-id="star-sports-1-hindi-digital" tvg-name="Star Sports 1 Hindi Digital" group-title="Sports",Star Sports 1 Hindi Digital
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b9f1cb8a1361457bbd8097f8c2590000:1960274b7ba344cb899eba2e80916774
+https://hotstarplugx.cstds.workers.dev/jio/Star-Sports-1-Hindi-Digital.mpd
+
+#EXTINF:-1 tvg-id="star-sports-1-telugu-digital" tvg-name="Star Sports 1 Telugu Digital" group-title="Sports",Star Sports 1 Telugu Digital
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4634b32328f242e3be51c3e06cde0000:42e90ab215bf4a438b55851b5e0f50dc
+https://hotstarplugx.cstds.workers.dev/jio/Star-Sports-1-Telugu-Digital.mpd
+
+#EXTINF:-1 tvg-id="star-sports-1-tamil-digital" tvg-name="Star Sports 1 Tamil Digital" group-title="Sports",Star Sports 1 Tamil Digital
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=01cc63d414394296bb3e6cfaffee0000:c1fba587fc8b4218ade5ace1e62e5aaf
+https://hotstarplugx.cstds.workers.dev/jio/Star-Sports-1-Tamil-Digital.mpd
+
+#EXTINF:-1 tvg-id="star-sports-1-kannada-digital" tvg-name="Star Sports 1 Kannada Digital" group-title="Sports",Star Sports 1 Kannada Digital
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb2f9710abf44bb1bcf51400ccc00000:5f29f372823346e78934431f2a924065
+https://hotstarplugx.cstds.workers.dev/jio/Star-Sports-1-Kannada-Digital.mpd
+
+#EXTINF:-1 tvg-id="star-sports-2-tamil-digital" tvg-name="Star Sports 2 Tamil Digital" group-title="Sports",Star Sports 2 Tamil Digital
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8cecd7ec1ee04eecb49ddbdc8c420000:499ea72b59f14337a0acb057cd9dffc0
+https://hotstarplugx.cstds.workers.dev/jio/Star-Sports-2-Tamil-Digital.mpd
+
+#EXTINF:-1 tvg-id="star-sports-2-kannada-digital" tvg-name="Star Sports 2 Kannada Digital" group-title="Sports",Star Sports 2 Kannada Digital
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae315fa52d544372a525f8b947a50000:8224183f754244c09664e825535aea4e
+https://hotstarplugx.cstds.workers.dev/jio/Star-Sports-2-Kannada-Digital.mpd
+
+#EXTINF:-1 tvg-id="star-sports-3-digital" tvg-name="Star Sports 3 Digital" group-title="Sports",Star Sports 3 Digital
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f718ac1c70414b7ead6ebffa05fa0000:7b3a3cb3eda946de88aa44bbaaa179bb
+https://hotstarplugx.cstds.workers.dev/jio/Star-Sports-3-Digital.mpd
+
+#EXTINF:-1 tvg-id="star-sports-select-1-digital" tvg-name="Star Sports Select 1 Digital" group-title="Sports",Star Sports Select 1 Digital
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae3b1efc6eee47fa90e0360b16ad0000:3c8be3ec7a4e4ab6994725420d95f971
+https://hotstarplugx.cstds.workers.dev/jio/Star-Sports-Select-1-Digital.mpd
+
+#EXTINF:-1 tvg-id="star-sports-select-2-digital" tvg-name="Star Sports Select 2 Digital" group-title="Sports",Star Sports Select 2 Digital
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9bced3f4d794419e99012ad6c1090000:c4c7f22fc71445c28ea15cb3fdb1b3be
+https://hotstarplugx.cstds.workers.dev/jio/Star-Sports-Select-2-Digital.mpd
+
+#EXTINF:-1 tvg-id="espn-1-africa-live" tvg-name="ESPN 1 AFRICA LIVE" group-title="Sports",ESPN 1 AFRICA LIVE
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f91a31529aae44db8edd6458436d0000:88e3db66781f46ba81e6b33798e9c957
+https://hotstarplugx.cstds.workers.dev/jio/ESPN-1-AFRICA-LIVE.mpd
+
+#EXTINF:-1 tvg-id="star-suvarna" tvg-name="Star Suvarna" group-title="Entertainment",Star Suvarna
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=786fe347f558460398b9e42e1db50000:d630fb6469c3457e9d7c4bb863e1fef1
+https://hotstarplugx.cstds.workers.dev/jio/Star-Suvarna.mpd
+
+#EXTINF:-1 tvg-id="star-pravah" tvg-name="Star Pravah" group-title="Entertainment",Star Pravah
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d300f38d30d4829b2e525a037560000:706572c4aac0420f90a778e22116b320
+https://hotstarplugx.cstds.workers.dev/jio/Star-Pravah.mpd
+
+#EXTINF:-1 tvg-id="asianet-plus" tvg-name="Asianet Plus" group-title="Entertainment",Asianet Plus
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5f1a41f1f8c04e209dfcdfff2fdc0000:e0a5f3aa6afe414b902d6b729dd9b11b
+https://hotstarplugx.cstds.workers.dev/jio/Asianet-Plus.mpd
+
+#EXTINF:-1 tvg-id="star-jalsha" tvg-name="Star Jalsha" group-title="Entertainment",Star Jalsha
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=94b8e23444db4af3b81dc2840c930000:d7c43050ca6d4e1ab3a296c91a4bb38e
+https://hotstarplugx.cstds.workers.dev/jio/Star-Jalsha.mpd
+
+#EXTINF:-1 tvg-id="asianet" tvg-name="Asianet" group-title="Entertainment",Asianet
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1dd2d0a48be14cc3a9666d861dd60000:24e889ab81444af0bceb8f8b9a530b18
+https://hotstarplugx.cstds.workers.dev/jio/Asianet.mpd
+
+#EXTINF:-1 tvg-id="starplus" tvg-name="StarPlus" group-title="Entertainment",StarPlus
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=17a6e6ef02f74d9bbce4640371d40000:7a89315d2ec84875901dce2d3044556c
+https://hotstarplugx.cstds.workers.dev/jio/StarPlus.mpd
+
+#EXTINF:-1 tvg-id="star-vijay" tvg-name="Star Vijay" group-title="Entertainment",Star Vijay
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=652811d06b3545a3a1f20c1b03700000:d3db194166ee44b3b5c9c719aa9cdd63
+https://hotstarplugx.cstds.workers.dev/jio/Star-Vijay.mpd
+
+#EXTINF:-1 tvg-id="star-utsav" tvg-name="Star Utsav" group-title="Entertainment",Star Utsav
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=88f55cce9ba94df6b009f2433ef90000:6f33ae9e6fa24f95b82e538563b1cbaf
+https://hotstarplugx.cstds.workers.dev/jio/Star-Utsav.mpd
+
+#EXTINF:-1 tvg-id="star-maa" tvg-name="Star Maa" group-title="Entertainment",Star Maa
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b13dd22b45644e798457508fcdf70000:2c965c36ef5242f68a878952f993a591
+https://hotstarplugx.cstds.workers.dev/jio/Star-Maa.mpd
+
+#EXTINF:-1 tvg-id="star-bharat" tvg-name="Star Bharat" group-title="Entertainment",Star Bharat
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4271050207424ba8b3e65c602d7e0000:8fdd910f634b40fdb5bfde551e08fd6c
+https://hotstarplugx.cstds.workers.dev/jio/Star-Bharat.mpd
+
+#EXTINF:-1 tvg-id="star-suvarna-plus" tvg-name="Star Suvarna Plus" group-title="Entertainment",Star Suvarna Plus
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ffcedf61e9544d1da7db98277a290000:cea7c92c93f04c6daaf31e2fda5e6809
+https://hotstarplugx.cstds.workers.dev/jio/Star-Suvarna-Plus.mpd
+
+#EXTINF:-1 tvg-id="asianet-digital" tvg-name="Asianet Digital" group-title="Entertainment",Asianet Digital
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31a5c9e538e0462b9424921dd21d0000:117c7548f5574b638411c138fd3e2ed6
+https://hotstarplugx.cstds.workers.dev/jio/Asianet-Digital.mpd
+
+#EXTINF:-1 tvg-id="star-plus-digital" tvg-name="Star Plus Digital" group-title="Entertainment",Star Plus Digital
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f7bbfeaf9f7f4cada833072e21ed0000:d67f3522fb5a4b1d96daba62990a214e
+https://hotstarplugx.cstds.workers.dev/jio/Star-Plus-Digital.mpd
+
+#EXTINF:-1 tvg-id="star-jalsha-digital" tvg-name="Star Jalsha Digital" group-title="Entertainment",Star Jalsha Digital
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2042ab988f5e4d95b03f9a01933c0000:3873b7044900428cb019fee9d14fd14a
+https://hotstarplugx.cstds.workers.dev/jio/Star-Jalsha-Digital.mpd
+
+#EXTINF:-1 tvg-id="star-maa-digital" tvg-name="Star Maa Digital" group-title="Entertainment",Star Maa Digital
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a6865c2eb484c57806a76e2719b0000:97c95a3bbfd344d9a16d96bad4f42ad7
+https://hotstarplugx.cstds.workers.dev/jio/Star-Maa-Digital.mpd
+
+#EXTINF:-1 tvg-id="star-pravah-digital" tvg-name="Star Pravah Digital" group-title="Entertainment",Star Pravah Digital
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f7efc99766e643e687b1a228ae000000:6d45b6ab1b2840be943c8a99e8a0a0e5
+https://hotstarplugx.cstds.workers.dev/jio/Star-Pravah-Digital.mpd
+
+#EXTINF:-1 tvg-id="colors-bangla-digital" tvg-name="Colors Bangla Digital" group-title="Entertainment",Colors Bangla Digital
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4221bf5c8de94ff792982ee906a20000:d53a4b3ab73f454c8b7a4e7b7454fd97
+https://hotstarplugx.cstds.workers.dev/jio/Colors-Bangla-Digital.mpd
+
+#EXTINF:-1 tvg-id="star-vijay-digital" tvg-name="Star Vijay Digital" group-title="Entertainment",Star Vijay Digital
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d16a12b7fe0423d87e00c231d710000:f6aeb5898e5c4d8bab629a9de8befa12
+https://hotstarplugx.cstds.workers.dev/jio/Star-Vijay-Digital.mpd
+
+#EXTINF:-1 tvg-id="star-suvarna-digital" tvg-name="Star Suvarna Digital" group-title="Entertainment",Star Suvarna Digital
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d33b34f86a214120a3850f04a11e0000:36245c3005ce4f94a6d927d435508019
+https://hotstarplugx.cstds.workers.dev/jio/Star-Suvarna-Digital.mpd
+
+#EXTINF:-1 tvg-id="colors-digital" tvg-name="Colors Digital" group-title="Entertainment",Colors Digital
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f762f7bf6bf04c999f861cc3dafe0000:25ec2364467f40b09fc1e9a7c1e72058
+https://hotstarplugx.cstds.workers.dev/jio/Colors-Digital.mpd
+
+#EXTINF:-1 tvg-id="colors-kannada-digital" tvg-name="Colors Kannada Digital" group-title="Entertainment",Colors Kannada Digital
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2427721df70c4992b6e2cf7d2abf0000:fb1d4dc6142344278550d82972ae003b
+https://hotstarplugx.cstds.workers.dev/jio/Colors-Kannada-Digital.mpd
+
+#EXTINF:-1 tvg-id="vijay-super-digital" tvg-name="Vijay Super Digital" group-title="Entertainment",Vijay Super Digital
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=08e4a1c2f55d4ed4878110a640920000:23dc3107bf284a0dbd93b1dc9f142459
+https://hotstarplugx.cstds.workers.dev/jio/Vijay-Super-Digital.mpd
+
+#EXTINF:-1 tvg-id="asianet-plus-digital" tvg-name="Asianet Plus Digital" group-title="Entertainment",Asianet Plus Digital
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bfe3e4a7670e416d85261d002c3a0000:25955bb289a94ef5978ffa689eea066d
+https://hotstarplugx.cstds.workers.dev/jio/Asianet-Plus-Digital.mpd
+
+#EXTINF:-1 tvg-id="colors-super-digital" tvg-name="Colors Super Digital" group-title="Entertainment",Colors Super Digital
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b3eb9d890c5c46f4b35595337c070000:c57a0ca2eeda41eeb83a0246d116c1d6
+https://hotstarplugx.cstds.workers.dev/jio/Colors-Super-Digital.mpd
+
+#EXTINF:-1 tvg-id="star-utsav-digital" tvg-name="Star Utsav Digital" group-title="Entertainment",Star Utsav Digital
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3560074f30e4257ba6dfb196ecb0000:e044fed2851f4c268b59de3ef815d404
+https://hotstarplugx.cstds.workers.dev/jio/Star-Utsav-Digital.mpd
+
+#EXTINF:-1 tvg-id="colors-marathi-digital" tvg-name="Colors Marathi Digital" group-title="Entertainment",Colors Marathi Digital
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7baa28b028744858b64a7077e3f00000:8fcb860f70bc41b98e11cb7aee4f221b
+https://hotstarplugx.cstds.workers.dev/jio/Colors-Marathi-Digital.mpd
+
+#EXTINF:-1 tvg-id="colors-rishtey-digital" tvg-name="Colors Rishtey Digital" group-title="Entertainment",Colors Rishtey Digital
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=99ccf903f1334204923c58cb8f190000:d91830218d044a218f46938c421ec49b
+https://hotstarplugx.cstds.workers.dev/jio/Colors-Rishtey-Digital.mpd
+
+#EXTINF:-1 tvg-id="star-bharat-digital" tvg-name="Star Bharat Digital" group-title="Entertainment",Star Bharat Digital
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b271001a8d2448aab89c0f5fc84f0000:a76a5ecde8764d8b9e40ce84888de269
+https://hotstarplugx.cstds.workers.dev/jio/Star-Bharat-Digital.mpd
+
+#EXTINF:-1 tvg-id="star-kiran-digital" tvg-name="Star Kiran Digital" group-title="Entertainment",Star Kiran Digital
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b81f831b7b2f4173aa16f7ec64340000:17b89f2c4e754dac87b91981a6cd7ad2
+https://hotstarplugx.cstds.workers.dev/jio/Star-Kiran-Digital.mpd
+
+#EXTINF:-1 tvg-id="star-maa-movies" tvg-name="Star Maa Movies" group-title="Movies",Star Maa Movies
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=18b7ece05d094614a3839978b9330000:267ba7674fbd4076bbf797eaa1dd16d0
+https://hotstarplugx.cstds.workers.dev/jio/Star-Maa-Movies.mpd
+
+#EXTINF:-1 tvg-id="star-gold" tvg-name="Star Gold" group-title="Movies",Star Gold
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3c8fd55071348e9992be759ceab0000:b894ad9ee2ad483fb2a5b71db0434bfc
+https://hotstarplugx.cstds.workers.dev/jio/Star-Gold.mpd
+
+#EXTINF:-1 tvg-id="jalsha-movies" tvg-name="Jalsha Movies" group-title="Movies",Jalsha Movies
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a515368ea6bc4d76a1aebc22f4660000:e46451b6cdae433ab6e719f39dcc449e
+https://hotstarplugx.cstds.workers.dev/jio/Jalsha-Movies.mpd
+
+#EXTINF:-1 tvg-id="asianet-movies" tvg-name="Asianet Movies" group-title="Movies",Asianet Movies
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=53e552bf422a4feeb017e38ba43e0000:9cf91549836b4ce98e9d8137591dd38e
+https://hotstarplugx.cstds.workers.dev/jio/Asianet-Movies.mpd
+
+#EXTINF:-1 tvg-id="maa-gold" tvg-name="Maa Gold" group-title="Movies",Maa Gold
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab4cba34a7084eddbd6edf6a16460000:fd1cb8f19b2e42838d4ace714427ec76
+https://hotstarplugx.cstds.workers.dev/jio/Maa-Gold.mpd
+
+#EXTINF:-1 tvg-id="asianet-movies-digital" tvg-name="Asianet Movies Digital" group-title="Movies",Asianet Movies Digital
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6622e3b665db40be8b755150ff6e0000:4f4ab9edf51d4d39acff73b6dacb0b47
+https://hotstarplugx.cstds.workers.dev/jio/Asianet-Movies-Digital.mpd
+
+#EXTINF:-1 tvg-id="colors-bangla-cinema-digital" tvg-name="Colors Bangla Cinema Digital" group-title="Movies",Colors Bangla Cinema Digital
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=01c12a7218654c38b7b38eaeb40e0000:41eca141f03640a3b8fede56336cffcf
+https://hotstarplugx.cstds.workers.dev/jio/Colors-Bangla-Cinema-Digital.mpd
+
+#EXTINF:-1 tvg-id="jalsha-movies-digital" tvg-name="Jalsha Movies Digital" group-title="Movies",Jalsha Movies Digital
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6e8ac9c358014b88ab8bae9c5fc70000:7c8ae76486624b8eaa7e24b852e08abc
+https://hotstarplugx.cstds.workers.dev/jio/Jalsha-Movies-Digital.mpd
+
+#EXTINF:-1 tvg-id="maa-movies-digital" tvg-name="Maa Movies Digital" group-title="Movies",Maa Movies Digital
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c559e8b9079a458eadd5e9c7dbb40000:b6f184b3e9734b328773686363bfc465
+https://hotstarplugx.cstds.workers.dev/jio/Maa-Movies-Digital.mpd
+
+#EXTINF:-1 tvg-id="star-gold-digital" tvg-name="Star Gold Digital" group-title="Movies",Star Gold Digital
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b582b2495204a1396cd8a714a2a0000:43992282cef64e1ca7ac3f8f6e633324
+https://hotstarplugx.cstds.workers.dev/jio/Star-Gold-Digital.mpd
+
+#EXTINF:-1 tvg-id="colors-cineplex-digital" tvg-name="Colors Cineplex Digital" group-title="Movies",Colors Cineplex Digital
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=215ced4a1eb7400488d290d09ebe0000:71b4165c9e294b06b88c1e0f4e953cc2
+https://hotstarplugx.cstds.workers.dev/jio/Colors-Cineplex-Digital.mpd
+
+#EXTINF:-1 tvg-id="colors-kannada-cinema-digital" tvg-name="Colors Kannada Cinema Digital" group-title="Movies",Colors Kannada Cinema Digital
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f61b43f2b3a34a5daafacc05b7a30000:7105b6b6de914502a54667970e2dc9c0
+https://hotstarplugx.cstds.workers.dev/jio/Colors-Kannada-Cinema-Digital.mpd
+
+#EXTINF:-1 tvg-id="nick-plus-digital" tvg-name="Nick Plus Digital" group-title="Kids",Nick Plus Digital
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8446d54c24f549ba9c9323836a060000:db25bb59ba41470e82e4728f46781954
+https://hotstarplugx.cstds.workers.dev/jio/Nick-Plus-Digital.mpd
+
+#EXTINF:-1 tvg-id="nick-digital" tvg-name="Nick Digital" group-title="Kids",Nick Digital
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b0a76fc24ad548c5b92fb4eebfe90000:f7c8dc574a6e4937ab2c15e8ae2acedb
+https://hotstarplugx.cstds.workers.dev/jio/Nick-Digital.mpd
+
+#EXTINF:-1 tvg-id="sonic-digital" tvg-name="Sonic Digital" group-title="Kids",Sonic Digital
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d939611fa2e489bb4a7b58d10c10000:1fba40d5aa564f079c8c7e378ccb3019
+https://hotstarplugx.cstds.workers.dev/jio/Sonic-Digital.mpd
