@@ -1,7 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="93" tvg-name="ATN News" group-title="News",ATN News
+
+#EXTINF:-1 tvg-id="star-sports-1-select-hd" tvg-name="STAR SPORTS 1 SELECT HD" group-title="Sports",STAR SPORTS 1 SELECT HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bingeakashgo.live.ott.irdeto.com/licenseServer/widevine/v1/bingeakashgo/license?contentId=c6b0ce2e-6071&ls_session=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InJzYTIwNDhrZXkifQ.eyJzdWIiOiI0MDA3ODA0NCIsImlzcyI6Im9wZXJhdG9yLXBvcnRhbCIsImV4cCI6MTc4NzIxNjQ1NiwiaWF0IjoxNzg3MjA5MjU2LCJhaWQiOiJiaW5nZWFrYXNoZ28iLCJqdGkiOiJlMGE0OTQyZi1mYjFkLTQ3MzUtOTNlMC0zNWU2NGZmN2I0MzUiLCJlbnQiOlt7ImVwaWQiOiJzdWJzY3JpcHRpb24tZW50aXRsZW1lbnQtcG9saWN5IiwiYmlkIjoic3Vic2NyaXB0aW9uLWJ1bmRsZSJ9XSwiY2lkIjoiYzZiMGNlMmUtNjA3MSJ9.Wx3J7atZxOclkonILUcd7sQWUXd3OdNNWM9uC6Fkkpdkvl2FTYCQU29RwlIbgQ9cEvqk111qhCK9lgEoj7n7VOcA1uL__O3-0qHtJmWzP5GCHEBg3NDwil5kznJ-wg-ip_bHuEuXNjC0dChxRGpKM97yMLc3m3YanetK0XmWqCV7KhJHxd-N7VTKpcU0E8-Bdp1td9Ig6_x0Pnvlp6x8sq1xHkWrNEGi9Cov0mvJsTQCOxBoFz4nzORl3HomwYgYFI240IymMR3GdY83jD3kVbUMsiUJtSnrw9qua8ODqwRU5u7jX_j9kxaHgvpJTmYbNZJXYVSgw1rYuGHYQ7tOtg
-http://localhost:8080/bpk-tv/1706/output/index.mpd?_t=1787209256473
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f64a24b3950468497390155c4880000:68f788aced6c4ecb89108f22fe9ee087
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Fpremiumplugx.me%2F
+#KODIPROP:mimetype=application/dash+xml
+https://hotstarplugx.cstds.workers.dev/jio/STAR-SPORTS-1-SELECT-HD.mpd
