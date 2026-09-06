@@ -1,11 +1,16 @@
 
 #EXTM3U
+#=================================
+# Developed by: Monirul Islam
+# Telegram group : https://t.me/sm_iptv_bd
+# Last Updated: 11:59:10 AM 14-08-2026 (BD Time)
+# All channel : 70+
+#=================================
+
 #EXTINF:-1 tvg-id="toffee_drama" tvg-name="Toffee TV" tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/737b5c6e-8435-4cd8-81de-16a499fa6f4e.png" group-title="Family",Toffee TV
 https://sm-monirul.xyz/@monirul_Islam_SM/toffee/play/toffee_drama.m3u8
 #EXTINF:-1 tvg-id="toffee_movie" tvg-name="Toffee Movies" tvg-logo="https://assets-prod.services.toffeelive.com/b60Ss5UBrjBfS2_RJPb8/posters/c68ede73-0be0-41b7-9130-9628a16f2feb.png" group-title="Movies",Toffee Movies
 https://sm-monirul.xyz/@monirul_Islam_SM/toffee/play/toffee_movie.m3u8
-#EXTINF:-1 tvg-id="EPL-26-27-CH-1" tvg-name="EPL channel 1" tvg-logo="https://assets-prod.services.toffeelive.com/JS1AqZgBNnOkwJLWlwg-/posters/149dccb8-81d6-4a2a-9c64-0de1fd7057c0.png" group-title="Live Action",EPL channel 1
-https://sm-monirul.xyz/@monirul_Islam_SM/toffee/play/EPL-26-27-CH-1.m3u8
 #EXTINF:-1 tvg-id="fifa_world_cup" tvg-name="WC Match Recap" tvg-logo="https://assets-prod.services.toffeelive.com/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png" group-title="Sports",WC Match Recap
 https://sm-monirul.xyz/@monirul_Islam_SM/toffee/play/fifa_world_cup.m3u8
 #EXTINF:-1 tvg-id="cnn" tvg-name="CNN" tvg-logo="https://assets-prod.services.toffeelive.com/VC6Q-JQBv9knK3AHhTXt/posters/63e79814-8fcf-4c3e-bb66-408b2a402613.webp" group-title="Documentary",CNN
