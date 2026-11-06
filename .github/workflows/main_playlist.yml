@@ -1,4 +1,4 @@
-name: Auto Generate Combined Live TV Playlist
+name: SM IPTV Main Playlist
 
 on:
   schedule:
