@@ -1,4 +1,4 @@
-name: Merge and Update Playlists
+name: Auto Update Playlist and Logos
 
 on:
   schedule:
@@ -25,12 +25,12 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Run Merge Script
-        run: python merge_playlists.py
+      - name: Run Python Script
+        run: python merge_and_download_images.py
 
       - name: Commit and Push Changes
         run: |
           git config --global user.name "sm-monirulislam"
           git config --global user.email "action@github.com"
-          git add Sports_data.m3u
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update merged playlist [skip ci]" && git push)
+          git add images/ Sports_data.m3u
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update downloaded logos and merged playlist [skip ci]" && git push)
