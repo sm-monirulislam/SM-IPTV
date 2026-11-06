@@ -1,4 +1,4 @@
-name: Update IPTV Playlist and Images
+name: Merge and Update Playlists
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-playlist:
+  build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -25,12 +25,12 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Run Script
-        run: python ck.py
+      - name: Run Merge Script
+        run: python merge_playlists.py
 
       - name: Commit and Push Changes
         run: |
           git config --global user.name "sm-monirulislam"
           git config --global user.email "action@github.com"
-          git add images/ Sports_data.m3u
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update images and playlist [skip ci]" && git push)
+          git add Sports_data.m3u
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update merged playlist [skip ci]" && git push)
