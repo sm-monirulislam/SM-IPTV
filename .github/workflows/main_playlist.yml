@@ -1,0 +1,54 @@
+name: Auto Generate Combined Live TV Playlist
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Fetch Python Script from Private Repo
+        run: |
+          git clone https://${{ secrets.GH_PAT }}@github.com/${{ secrets.SECRET_REPO_NAME }}.git private_code
+          cp private_code/scripts/sm_main_com.py .
+          rm -rf private_code
+
+      - name: Run Main Script
+        run: python sm_main_com.py
+
+      - name: Remove Python Script
+        run: rm -f sm_main_com.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          git add images/ Combined_Live_TV.m3u
+
+          if git diff --cached --quiet; then
+            echo "No changes detected."
+            exit 0
+          fi
+
+          git commit -m "Auto Updated: $(date +'%Y-%m-%d %r')"
+          git push
