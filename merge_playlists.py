@@ -21,17 +21,22 @@ def clean_channel_name(name):
     name = re.sub(r'[^a-z0-9]', '', name)
     return name
 
-def detect_logo_filename(channel_name, original_logo_url):
-    if original_logo_url:
-        filename = original_logo_url.split("/")[-1].split("?")[0]
-        if filename and filename.lower().endswith(('.png', '.jpg', '.jpeg', '.webp', '.svg')):
-            return filename
-            
+def get_final_logo_url(channel_name, original_logo_url):
+    # প্রথমে চেক করব চ্যানেলের নামের সাথে মিল রেখে লোকাল ফোল্ডারে কোনো ইমেজ ফাইল আছে কি না
     cleaned_name = clean_channel_name(channel_name)
     if cleaned_name:
-        return f"{cleaned_name}.png"
+        local_filename = f"{cleaned_name}.png"
+        local_path = os.path.join(IMAGE_FOLDER, local_filename)
         
-    return "default.png"
+        # যদি লোকাল ফোল্ডারে ইমেজটি থাকে, তবে গিটহাবের র (Raw) ইউআরএল দেব
+        if os.path.exists(local_path):
+            return f"https://raw.githubusercontent.com/{GITHUB_USERNAME}/{REPO_NAME}/{BRANCH_NAME}/{IMAGE_FOLDER}/{local_filename}"
+            
+    # যদি লোকাল ফোল্ডারে ইমেজ না থাকে, কিন্তু অরিজিনাল এপিআইতে লোগো লিংক থাকে, তবে সেটিই বসিয়ে দেব
+    if original_logo_url:
+        return original_logo_url
+        
+    return ""
 
 def parse_m3u(content):
     channels = []
@@ -52,13 +57,13 @@ def parse_m3u(content):
             name_match = re.search(r',(.+)$', extinf)
             channel_name = name_match.group(1).strip() if name_match else "Unknown"
             
-            logo_filename = detect_logo_filename(channel_name, old_logo_url)
+            final_logo_url = get_final_logo_url(channel_name, old_logo_url)
             
             channels.append({
                 "extinf": extinf,
                 "url": stream_url,
                 "name": channel_name,
-                "logo_filename": logo_filename
+                "logo_url": final_logo_url
             })
         i += 1
     return channels
@@ -90,24 +95,22 @@ new_playlist_lines = ["#EXTM3U"]
 
 for ch in unique_channels:
     extinf = ch["extinf"]
-    new_logo_url = f"https://raw.githubusercontent.com/{GITHUB_USERNAME}/{REPO_NAME}/{BRANCH_NAME}/{IMAGE_FOLDER}/{ch['logo_filename']}"
-    
-    if 'tvg-logo="' in extinf:
-        extinf = re.sub(r'tvg-logo="[^"]*"', f'tvg-logo="{new_logo_url}"', extinf)
-    else:
-        extinf = extinf.replace('#EXTINF:-1', f'#EXTINF:-1 tvg-logo="{new_logo_url}"')
+    if ch["logo_url"]:
+        if 'tvg-logo="' in extinf:
+            extinf = re.sub(r'tvg-logo="[^"]*"', f'tvg-logo="{ch["logo_url"]}"', extinf)
+        else:
+            extinf = extinf.replace('#EXTINF:-1', f'#EXTINF:-1 tvg-logo="{ch["logo_url"]}"')
     
     new_playlist_lines.append(extinf)
     new_playlist_lines.append(ch["url"])
 
 for idx, ch in enumerate(duplicate_channels, start=1):
     extinf = ch["extinf"]
-    new_logo_url = f"https://raw.githubusercontent.com/{GITHUB_USERNAME}/{REPO_NAME}/{BRANCH_NAME}/{IMAGE_FOLDER}/{ch['logo_filename']}"
-    
-    if 'tvg-logo="' in extinf:
-        extinf = re.sub(r'tvg-logo="[^"]*"', f'tvg-logo="{new_logo_url}"', extinf)
-    else:
-        extinf = extinf.replace('#EXTINF:-1', f'#EXTINF:-1 tvg-logo="{new_logo_url}"')
+    if ch["logo_url"]:
+        if 'tvg-logo="' in extinf:
+            extinf = re.sub(r'tvg-logo="[^"]*"', f'tvg-logo="{ch["logo_url"]}"', extinf)
+        else:
+            extinf = extinf.replace('#EXTINF:-1', f'#EXTINF:-1 tvg-logo="{ch["logo_url"]}"')
     
     base_name = ch["name"]
     extinf = re.sub(r',(.+)$', f',{base_name}_{idx}', extinf)
