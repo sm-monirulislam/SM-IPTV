@@ -1,4 +1,4 @@
-name: Auto Generate Combined Live TV Playlist
+name: Auto Generate Sports Playlist
 
 on:
   schedule:
@@ -29,21 +29,21 @@ jobs:
       - name: Fetch Python Script from Private Repo
         run: |
           git clone https://${{ secrets.GH_PAT }}@github.com/${{ secrets.SECRET_REPO_NAME }}.git private_code
-          cp private_code/scripts/sm_main_com.py .
+          cp private_code/merge_and_download_images.py .
           rm -rf private_code
 
       - name: Run Main Script
-        run: python sm_main_com.py
+        run: python merge_and_download_images.py
 
       - name: Remove Python Script
-        run: rm -f sm_main_com.py
+        run: rm -f merge_and_download_images.py
 
       - name: Commit and Push Changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
 
-          git add images/ Combined_Live_TV.m3u
+          git add images/ Sports_data.m3u
 
           if git diff --cached --quiet; then
             echo "No changes detected."
