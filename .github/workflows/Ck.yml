@@ -33,10 +33,10 @@ jobs:
           rm -rf private_code
 
       - name: Run Main Script
-        run: python sm_main_com.py
+        run: python scripts/sm_main_com.py
 
       - name: Remove Python Script
-        run: rm -f sm_main_com.py
+        run: rm -f scripts/sm_main_com.py
 
       - name: Commit and Push Changes
         run: |
