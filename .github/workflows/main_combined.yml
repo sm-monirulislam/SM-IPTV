@@ -2,8 +2,7 @@ name: Combined Playlist
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 */2 * * *"
+
 
 permissions:
   contents: write
