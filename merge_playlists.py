@@ -1,6 +1,7 @@
 import os
 import re
 import requests
+from difflib import get_close_matches
 
 GITHUB_USERNAME = "sm-monirulislam"
 REPO_NAME = "SM-IPTV"
@@ -15,28 +16,58 @@ API_URLS = [
 
 OUTPUT_PLAYLIST = "Sports_data.m3u"
 
-def clean_channel_name(name):
+def get_local_images():
+    if not os.path.exists(IMAGE_FOLDER):
+        return []
+    return [f for f in os.listdir(IMAGE_FOLDER) if f.lower().endswith(('.png', '.jpg', '.jpeg', '.webp', '.svg'))]
+
+def clean_name(name):
     name = name.lower()
     name = re.sub(r'[\(\[].*?[\)\]]', '', name)
     name = re.sub(r'[^a-z0-9]', '', name)
     return name
 
-def get_final_logo_url(channel_name, original_logo_url):
-    # প্রথমে চেক করব চ্যানেলের নামের সাথে মিল রেখে লোকাল ফোল্ডারে কোনো ইমেজ ফাইল আছে কি না
-    cleaned_name = clean_channel_name(channel_name)
-    if cleaned_name:
-        local_filename = f"{cleaned_name}.png"
-        local_path = os.path.join(IMAGE_FOLDER, local_filename)
+def find_best_logo(channel_name, original_logo_url):
+    local_images = get_local_images()
+    if not local_images:
+        return original_logo_url
         
-        # যদি লোকাল ফোল্ডারে ইমেজটি থাকে, তবে গিটহাবের র (Raw) ইউআরএল দেব
-        if os.path.exists(local_path):
-            return f"https://raw.githubusercontent.com/{GITHUB_USERNAME}/{REPO_NAME}/{BRANCH_NAME}/{IMAGE_FOLDER}/{local_filename}"
+    cleaned_ch_name = clean_name(channel_name)
+    
+    for img in local_images:
+        img_base_name = clean_name(os.path.splitext(img)[0])
+        if cleaned_ch_name == img_base_name:
+            return f"https://raw.githubusercontent.com/{GITHUB_USERNAME}/{REPO_NAME}/{BRANCH_NAME}/{IMAGE_FOLDER}/{img}"
             
-    # যদি লোকাল ফোল্ডারে ইমেজ না থাকে, কিন্তু অরিজিনাল এপিআইতে লোগো লিংক থাকে, তবে সেটিই বসিয়ে দেব
+    image_names_map = {clean_name(os.path.splitext(img)[0]): img for img in local_images}
+    matches = get_close_matches(cleaned_ch_name, image_names_map.keys(), n=1, cutoff=0.6)
+    
+    if matches:
+        matched_img = image_names_map[matches[0]]
+        return f"https://raw.githubusercontent.com/{GITHUB_USERNAME}/{REPO_NAME}/{BRANCH_NAME}/{IMAGE_FOLDER}/{matched_img}"
+        
     if original_logo_url:
         return original_logo_url
         
     return ""
+
+def smart_group_title(channel_name, original_group):
+    name_lower = channel_name.lower()
+    
+    if any(k in name_lower for k in ['sports', 'cricket', 'football', 't Sports', 'willow', 'ten', 'sony sports', 'euro']):
+        return "Sports"
+    elif any(k in name_lower for k in ['news', '24', 'somoy', 'jamuna', 'bbc', 'cnn', 'indiatoday', 'abp']):
+        return "News"
+    elif any(k in name_lower for k in ['movie', 'hbo', 'star movies', 'zee cinema', 'cines', 'flix']):
+        return "Movies"
+    elif any(k in name_lower for k in ['kids', 'cartoon', 'pogo', 'nick', 'disney', 'hungama']):
+        return "Kids"
+    elif any(k in name_lower for k in ['islamic', 'quran', 'peace', 'madani']):
+        return "Islamic"
+    elif original_group and original_group.strip() and original_group.lower() != "fancode":
+        return original_group.strip()
+    else:
+        return "General"
 
 def parse_m3u(content):
     channels = []
@@ -54,16 +85,21 @@ def parse_m3u(content):
             logo_match = re.search(r'tvg-logo="([^"]+)"', extinf)
             old_logo_url = logo_match.group(1) if logo_match else ""
             
+            group_match = re.search(r'group-title="([^"]+)"', extinf)
+            old_group = group_match.group(1) if group_match else ""
+            
             name_match = re.search(r',(.+)$', extinf)
             channel_name = name_match.group(1).strip() if name_match else "Unknown"
             
-            final_logo_url = get_final_logo_url(channel_name, old_logo_url)
+            final_logo_url = find_best_logo(channel_name, old_logo_url)
+            new_group = smart_group_title(channel_name, old_group)
             
             channels.append({
                 "extinf": extinf,
                 "url": stream_url,
                 "name": channel_name,
-                "logo_url": final_logo_url
+                "logo_url": final_logo_url,
+                "group": new_group
             })
         i += 1
     return channels
@@ -95,22 +131,34 @@ new_playlist_lines = ["#EXTM3U"]
 
 for ch in unique_channels:
     extinf = ch["extinf"]
+    
     if ch["logo_url"]:
         if 'tvg-logo="' in extinf:
             extinf = re.sub(r'tvg-logo="[^"]*"', f'tvg-logo="{ch["logo_url"]}"', extinf)
         else:
             extinf = extinf.replace('#EXTINF:-1', f'#EXTINF:-1 tvg-logo="{ch["logo_url"]}"')
+            
+    if 'group-title="' in extinf:
+        extinf = re.sub(r'group-title="[^"]*"', f'group-title="{ch["group"]}"', extinf)
+    else:
+        extinf = extinf.replace('#EXTINF:-1', f'#EXTINF:-1 group-title="{ch["group"]}"')
     
     new_playlist_lines.append(extinf)
     new_playlist_lines.append(ch["url"])
 
 for idx, ch in enumerate(duplicate_channels, start=1):
     extinf = ch["extinf"]
+    
     if ch["logo_url"]:
         if 'tvg-logo="' in extinf:
             extinf = re.sub(r'tvg-logo="[^"]*"', f'tvg-logo="{ch["logo_url"]}"', extinf)
         else:
             extinf = extinf.replace('#EXTINF:-1', f'#EXTINF:-1 tvg-logo="{ch["logo_url"]}"')
+            
+    if 'group-title="' in extinf:
+        extinf = re.sub(r'group-title="[^"]*"', f'group-title="{ch["group"]}"', extinf)
+    else:
+        extinf = extinf.replace('#EXTINF:-1', f'#EXTINF:-1 group-title="{ch["group"]}"')
     
     base_name = ch["name"]
     extinf = re.sub(r',(.+)$', f',{base_name}_{idx}', extinf)
