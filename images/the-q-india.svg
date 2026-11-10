@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="300" viewBox="0 0 640 300">
+  <rect width="640" height="300" fill="#ffffff"/>
+  <path d="M315 55 C250 18 159 47 132 112 C103 183 149 253 218 258 C282 263 337 222 344 159 C350 106 317 65 267 52" fill="none" stroke="#e51d3e" stroke-width="34" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M291 207 L354 270" fill="none" stroke="#e51d3e" stroke-width="37" stroke-linecap="round"/>
+  <text x="238" y="170" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="58" font-weight="800" fill="#e51d3e">THE</text>
+  <text x="405" y="174" font-family="Arial,Helvetica,sans-serif" font-size="58" font-weight="900" letter-spacing="1" fill="#171717">INDIA</text>
+</svg>
