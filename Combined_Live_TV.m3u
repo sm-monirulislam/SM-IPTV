@@ -3,7 +3,7 @@
 # Playlist name : SM IPTV MAIN PLAYLIST
 # Developed by: Monirul Islam Shakib
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 05:14:59 AM 13-11-2026 (BD Time)
+# Last Updated: 11:13:56 AM 13-11-2026 (BD Time)
 # All channel : 1476
 # Back Channel : 596
 #=================================
@@ -2093,7 +2093,7 @@ https://iptvlive.ahmed-bd-org.workers.dev/channel-16-1/index.m3u8
 https://tvsen6.aynaott.com/channel52/index.m3u8
 #EXTINF:-1 tvg-id="Channel9.bd" tvg-name="Channel 9_163" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-9.png" tvg-chno="15" channel-id="Channel9.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel 9_163
 https://nkafmbewiff.gpcdn.net/tile_7/master.m3u8#skym3u.dev
-#EXTINF:-1 tvg-id="Channel9.bd" tvg-name="Channel 9_164" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-9.png" channel-id="Channel9.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel 9_164
+#EXTINF:-1 tvg-id="Channel9.bd" tvg-name="Channel 9_164" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-9.png" tvg-chno="15" channel-id="Channel9.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel 9_164
 https://tvsen6.aynaott.com/kajlsd57jnzxyo/tracks-v1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ChannelI.bd" tvg-name="Channel I_165" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-i.png" tvg-chno="18" channel-id="ChannelI.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel I_165
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channeli-8-org.stream/tracks-v1a1/mono.m3u8
@@ -2155,7 +2155,7 @@ https://cdn.pishow.tv/ott/live/32/master.m3u8
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
 #EXTINF:-1 tvg-id="DDBangla.in@SD" tvg-name="DD Bangla_194" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-bangla.png" tvg-chno="64" channel-id="DDBangla.in@SD" tvg-country="IN" tvg-language="ben" group-title="Back channel",DD Bangla_194
 https://fta.ektv.in/live/197/master.m3u8
-#EXTINF:-1 tvg-id="DDBangla.in@SD" tvg-name="DD Bangla_195" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-bangla.png" channel-id="DDBangla.in@SD" tvg-country="IN" tvg-language="ben" group-title="Back channel",DD Bangla_195
+#EXTINF:-1 tvg-id="DDBangla.in@SD" tvg-name="DD Bangla_195" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-bangla.png" tvg-chno="64" channel-id="DDBangla.in@SD" tvg-country="IN" tvg-language="ben" group-title="Back channel",DD Bangla_195
 https://cdn.pishow.tv/ott/live/37/master.m3u8
 #EXTINF:-1 tvg-id="DDChandana.in@SD" tvg-name="DD Chandana_196" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-chandana.png" tvg-chno="241" channel-id="DDChandana.in@SD" tvg-country="IN" tvg-language="kan" group-title="Back channel",DD Chandana_196
 https://d2lk5u59tns74c.cloudfront.net/out/v1/0c980455d2fb4b69bcc6235745ee6039/index.m3u8
@@ -2631,7 +2631,7 @@ http://103.175.73.12:8080/live/664/664_0.m3u8
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:rupashibangla.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RupasiBangla.in@SD" tvg-name="Ruposhi Bangla_432" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ruposhi-bangla.png" tvg-chno="73" channel-id="RupasiBangla.in@SD" tvg-country="IN" tvg-language="ben" group-title="Back channel",Ruposhi Bangla_432
 https://mumt05.tangotv.in/87NeALx2RUPASIBANGLA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="RupasiBangla.in@SD" tvg-name="Ruposhi Bangla_433" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ruposhi-bangla.png" channel-id="RupasiBangla.in@SD" tvg-country="IN" tvg-language="ben" group-title="Back channel",Ruposhi Bangla_433
+#EXTINF:-1 tvg-id="RupasiBangla.in@SD" tvg-name="Ruposhi Bangla_433" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ruposhi-bangla.png" tvg-chno="73" channel-id="RupasiBangla.in@SD" tvg-country="IN" tvg-language="ben" group-title="Back channel",Ruposhi Bangla_433
 https://cdn.pishow.tv/ott/live/1039/master.m3u8
 #EXTINF:-1 tvg-id="SATV.bd" tvg-name="SA TV_434" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sa-tv.png" tvg-chno="52" channel-id="SATV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",SA TV_434
 http://116.204.149.16/satv/index.m3u8
