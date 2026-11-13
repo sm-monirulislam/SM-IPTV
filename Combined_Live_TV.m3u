@@ -3,8 +3,8 @@
 # Playlist name : SM IPTV MAIN PLAYLIST
 # Developed by: Monirul Islam Shakib
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 07:58:20 PM 13-11-2026 (BD Time)
-# All channel : 1514
+# Last Updated: 05:16:30 AM 14-11-2026 (BD Time)
+# All channel : 1518
 # Back Channel : 596
 #=================================
 #EXTINF:-1 tvg-id="019de785-3984-7c6c-b734-30d6bb22b3b8" tvg-name="Ananda TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ananda-tv.png" group-title="Bnagla",Ananda TV
@@ -1843,6 +1843,14 @@ https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8
 http://103.135.253.32:8080/POGO/index.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in@4KHDR" tvg-name="Travelxp 4K HDR (2160p) [Geo-blocked]" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/travelxp-4k-hdr-2160p-geo-blocked-d2beea8758.png" group-title="documentary",Travelxp 4K HDR (2160p) [Geo-blocked]
 https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
+#EXTINF:-1 tvg-id="JaihindTV.in@SD" tvg-name="Jaihind TV (576p)" group-title="Bnagla",Jaihind TV (576p)
+https://fta.ektv.in/live/700/master.m3u8
+#EXTINF:-1 tvg-id="VTU.in@SD" tvg-name="VTU (1080p)" group-title="Bnagla",VTU (1080p)
+https://lbgo.bozztv.com/ssh101/ssh101/afghantheatretv/playlist.m3u8
+#EXTINF:-1 tvg-id="WeatherSpy.in@SD" tvg-name="WeatherSpy (India) (720p)" group-title="Bnagla",WeatherSpy (India) (720p)
+https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ZodiakTV.in@SD" tvg-name="Zodiak TV (1080p)" group-title="Bnagla",Zodiak TV (1080p)
+https://ranacable.duckdns.org/ZodiakTv/index.m3u8
 #EXTINF:-1 tvg-id="019de785-3a30-7db9-88de-2fd29c69b7e8" tvg-name="Sky Cinema Animation_1" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/images_dd0ae7d1d48dff6162092845645fc1c7_playmist_sky_cinema_animation_400x400.jpg" group-title="Back channel",Sky Cinema Animation_1
 https://tvsen7.aynaott.com/skycinemanimation/index.m3u8
 #EXTINF:-1 tvg-id="AnandaTV.bd" tvg-name="Ananda TV_2" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ananda-tv.png" tvg-chno="2" channel-id="AnandaTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Ananda TV_2
