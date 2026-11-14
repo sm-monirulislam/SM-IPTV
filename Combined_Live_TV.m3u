@@ -3,7 +3,7 @@
 # Playlist name : SM IPTV MAIN PLAYLIST
 # Developed by: Monirul Islam Shakib
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 05:16:30 AM 14-11-2026 (BD Time)
+# Last Updated: 11:02:48 AM 14-11-2026 (BD Time)
 # All channel : 1518
 # Back Channel : 596
 #=================================
@@ -661,7 +661,7 @@ https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://d3arbp6l7f096k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-gv6wgpbb4mgwk/playlist.m3u8?ads.ads_cdn=cf&ads.app_domain=APP_DOMAIN&ads.cdn=cf
 #EXTINF:-1 tvg-id="OscarMoviesBhojpuri.in@SD" tvg-name="Oscar Movies Bhojpuri" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/oscar-movies-bhojpuri.png" tvg-chno="122" channel-id="OscarMoviesBhojpuri.in@SD" tvg-country="IN" tvg-language="bho" group-title="Bnagla",Oscar Movies Bhojpuri
 https://mumt05.tangotv.in/87NeALx2OSCARMOVIESBHOJPURI/index.m3u8
-#EXTINF:-1 tvg-id="Pitaara.in@SD@pitaara" tvg-name="Pitaara" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/pitaara-comedy.png" channel-id="Pitaara.in@SD@pitaara" tvg-country="IN" tvg-language="und" group-title="Bnagla",Pitaara
+#EXTINF:-1 tvg-id="Pitaara.in@SD@pitaara" tvg-name="Pitaara" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/pitaara-comedy.png" tvg-chno="123" channel-id="Pitaara.in@SD@pitaara" tvg-country="IN" tvg-language="und" group-title="Bnagla",Pitaara
 https://d3i5c1nmken8bh.cloudfront.net/Live/Pitaara_TV_SCTE/playlist.m3u8
 #EXTINF:-1 tvg-id="PitaaraComedy.in@SD" tvg-name="Pitaara Comedy" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/pitaara-comedy.png" tvg-chno="124" channel-id="PitaaraComedy.in@SD" tvg-country="IN" tvg-language="pan" group-title="Indian entertainment",Pitaara Comedy
 https://vglivessai.akamaized.net/ptnr-lgtv/title-Pitaara_Comedy_LG/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5a5410c0-1b79-4adc-9243-0139b249798b/playlist.m3u8
@@ -2297,7 +2297,7 @@ https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
 https://livestream.unlimitedcdn.com/agm-dc/desi-channel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DhoomMusic.in@SD" tvg-name="Dhoom Music_223" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dhoom-music-bangla.png" tvg-chno="161" channel-id="DhoomMusic.in@SD" tvg-country="IN" tvg-language="ben" group-title="Back channel",Dhoom Music_223
 https://cdn.pishow.tv/ott/live/1456/master.m3u8
-#EXTINF:-1 tvg-id="DhoomMusic.in@SD" tvg-name="Dhoom Music_224" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dhoom-music-bangla.png" channel-id="DhoomMusic.in@SD" tvg-country="IN" tvg-language="ben" group-title="Back channel",Dhoom Music_224
+#EXTINF:-1 tvg-id="DhoomMusic.in@SD" tvg-name="Dhoom Music_224" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dhoom-music-bangla.png" tvg-chno="161" channel-id="DhoomMusic.in@SD" tvg-country="IN" tvg-language="ben" group-title="Back channel",Dhoom Music_224
 https://mumt06.tangotv.in/qYyB8fXVDHOOMMUSIC/index.m3u8
 #EXTINF:-1 tvg-id="DiscoverPakistan.pk@SD" tvg-name="Discover Pakistan_225" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/discover-pakistan.png" tvg-chno="364" channel-id="DiscoverPakistan.pk@SD" tvg-country="PK" tvg-language="urd" group-title="Back channel",Discover Pakistan_225
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8
