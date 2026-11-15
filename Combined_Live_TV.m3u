@@ -3,7 +3,7 @@
 # Playlist name : SM IPTV MAIN PLAYLIST
 # Developed by: Monirul Islam Shakib
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 07:28:33 PM 15-11-2026 (BD Time)
+# Last Updated: 04:30:24 AM 16-11-2026 (BD Time)
 # All channel : 1532
 # Back Channel : 609
 #=================================
@@ -597,7 +597,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a70323c56ac647c2a8c8fc34e4c73912/in
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/c89fa6d6f5864ac29670d6f91cb7e32a/index.m3u8
 #EXTINF:-1 tvg-id="Jonack.in@SD" tvg-name="Jonack" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/jonack.png" channel-id="Jonack.in@SD" tvg-country="IN" tvg-language="asm" group-title="Bnagla",Jonack
 https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
-#EXTINF:-1 tvg-id="ManoranjanGrand.in" tvg-name="Manoranjan Grand" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/manoranjan-grand.png" channel-id="ManoranjanGrand.in@SD" tvg-country="IN" tvg-language="hin" group-title="Bnagla",Manoranjan Grand
+#EXTINF:-1 tvg-id="ManoranjanGrand.in" tvg-name="Manoranjan Grand" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/manoranjan-grand.png" channel-id="ManoranjanGrand.in" tvg-country="IN" tvg-language="hin" group-title="Bnagla",Manoranjan Grand
 https://streams.tangotv.in/MANORANJANGRAND/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="MazhavilManorama.in@SD" tvg-name="Mazhavil Manorama" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mazhavil-manorama.png" channel-id="MazhavilManorama.in@SD" tvg-country="IN" tvg-language="mal" group-title="Bnagla",Mazhavil Manorama
 https://mumt07.tangotv.in/zHjX9OFlMAZHAVILMANORAMAHD/index.m3u8
@@ -609,7 +609,7 @@ https://mumt01.tangotv.in/O5aw8Zn3PASANDTV/index.m3u8
 https://streams.tangotv.in/PTCPUNJABIGOLD/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="Rengoni.in@SD" tvg-name="Rengoni" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/rengoni.png" channel-id="Rengoni.in@SD" tvg-country="IN" tvg-language="asm" group-title="Bnagla",Rengoni
 https://mumt05.tangotv.in/87NeALx2RENGONI/index.m3u8
-#EXTINF:-1 tvg-id="ShubhCinemaTV.in" tvg-name="Shubh Cinema TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/shubh-cinema-tv.png" channel-id="ShubhCinemaTV.in@SD" tvg-country="IN" tvg-language="guj" group-title="Bnagla",Shubh Cinema TV
+#EXTINF:-1 tvg-id="ShubhCinemaTV.in" tvg-name="Shubh Cinema TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/shubh-cinema-tv.png" channel-id="ShubhCinemaTV.in" tvg-country="IN" tvg-language="guj" group-title="Bnagla",Shubh Cinema TV
 https://mumt03.tangotv.in/Dsly5z3HSHUBHCINEMA/index.m3u8
 #EXTINF:-1 tvg-id="StarJalsha.in@HD" tvg-name="Star Jalsha" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/star-jalsha.png" channel-id="StarJalsha.in@HD" tvg-country="IN" tvg-language="ben" group-title="Indian Bangla",Star Jalsha
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
@@ -1065,7 +1065,7 @@ https://stream.ottlive.co.in/suryatvtamil/index.m3u8
 https://hlslive.olidigital.in/suriyantv/suriyantv/index.m3u8
 #EXTINF:-1 tvg-id="Swantham.in@SD" tvg-name="Swantham" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/swantham.png" tvg-chno="344" channel-id="Swantham.in@SD" tvg-country="IN" tvg-language="mal" group-title="Indian entertainment",Swantham
 http://cloud.logichost.in:1935/SWANTHAM/live/index.m3u8
-#EXTINF:-1 tvg-id="TamilanTV.in" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/tamilan-tv.png" tvg-country="IN" group-title="Indian entertainment" tvg-name="Tamilan TV" tvg-language="tam" channel-id="TamilanTV.in@SD",Tamilan TV
+#EXTINF:-1 tvg-id="TamilanTV.in" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/tamilan-tv.png" tvg-country="IN" group-title="Indian entertainment" tvg-name="Tamilan TV" tvg-language="tam" channel-id="TamilanTV.in",Tamilan TV
 https://mumt04.tangotv.in/m18aqlK4TAMILANTELEVISION/index.m3u8
 #EXTINF:-1 tvg-id="TarangTV.in@SD" tvg-name="Tarang TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/tarang-tv.png" tvg-chno="345" channel-id="TarangTV.in@SD" tvg-country="IN" tvg-language="ori" group-title="Indian entertainment",Tarang TV
 https://livetv.tarangplus.in/tarangtv-origin/live/playlist.m3u8
@@ -1575,7 +1575,7 @@ http://stream.mcquack.net/235/index.m3u8
 https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8
 #EXTINF:-1 tvg-id="sn.tv.com" tvg-name="SN TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sn-tv.png" tvg-chno="678" channel-id="sn.tv.com" tvg-country="GB" tvg-language="und" group-title="Sports",SN TV
 https://linear-502.frequency.stream/dist/plex/502/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="Si Solo Calcio.it" tvg-name="Solo Calcio Italia" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/solo-calcio-italia.png" channel-id="Si Solo Calcio.it" tvg-country="IT" tvg-language="und" group-title="Sports",Solo Calcio Italia
+#EXTINF:-1 tvg-id="SiSoloCalcio.it" tvg-name="Solo Calcio Italia" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/solo-calcio-italia.png" channel-id="SiSoloCalcio.it" tvg-country="IT" tvg-language="und" group-title="Sports",Solo Calcio Italia
 https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="custom.sportsgrid" tvg-name="Sports Grid" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sports-grid.png" tvg-chno="459" channel-id="custom.sportsgrid" tvg-country="US" tvg-language="eng" group-title="Sports",Sports Grid
 https://tvsen6.aynaott.com/SportsGrid/index.m3u8
@@ -1585,7 +1585,7 @@ https://aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playl
 https://starsportshindiii.pages.dev/index.m3u8
 #EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/star-sports-2.png" tvg-chno="460" channel-id="StarSports2.in" tvg-country="IN" tvg-language="eng" group-title="Sports",Star Sports 2
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8
-#EXTINF:-1 tvg-id="StarSports2Telugu.in@HD" tvg-name="Star Sports 2 Telugu" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/star-sports-2.png" tvg-chno="642" channel-id="StarSports2Telugu.in@HD" tvg-country="IN" tvg-language="und" group-title="Sports",Star Sports 2 Telugu
+#EXTINF:-1 tvg-id="StarSports2Telugu.in@HD" tvg-name="Star Sports 2 Telugu" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/star-sports-2-telugu-fd5f54f558.png" tvg-chno="642" channel-id="StarSports2Telugu.in@HD" tvg-country="IN" tvg-language="und" group-title="Sports",Star Sports 2 Telugu
 https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8
 #EXTINF:-1 tvg-id="mixer.strongman.champions.league.com" tvg-name="Strongman Champions League" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/strongman-champions-league.png" tvg-chno="669" channel-id="mixer.strongman.champions.league.com" tvg-country="NL" tvg-language="und" group-title="Sports",Strongman Champions League
 https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/playlist.m3u8?ads.wurl_channel=1102&ads.wurl_name=StrongmanChampionsLeague&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
@@ -1629,9 +1629,9 @@ https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network.m3u8
 https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="wwe.superstar.central.com" tvg-name="WWE Superstar Central" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/wwe-superstar-central-2c9ca1325e.png" tvg-chno="682" channel-id="wwe.superstar.central.com" tvg-country="US" tvg-language="und" group-title="Sports",WWE Superstar Central
 https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="custom.azantv" tvg-name="Azan TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/azan-tv-15e8ac79.png" tvg-chno="573" channel-id="custom.azantv" tvg-country="BD" tvg-language="ben" group-title="Bnagla",Azan TV
+#EXTINF:-1 tvg-id="custom.azantv" tvg-name="Azan TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/azan-tv-15e8ac79.png" tvg-chno="573" channel-id="custom.azantv" tvg-country="BD" tvg-language="ben" group-title="Islami",Azan TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/azantv.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="DangalTV.in@SD@dangal.tv" tvg-name="Dangal TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dangal-tv.png" tvg-chno="237" channel-id="DangalTV.in@SD@dangal.tv" tvg-country="IN" tvg-language="und" group-title="Bnagla",Dangal TV
+#EXTINF:-1 tvg-id="DangalTV.in@SD" tvg-name="Dangal TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dangal-tv.png" tvg-chno="235" channel-id="DangalTV.in@SD" tvg-country="IN" tvg-language="und" group-title="Bnagla",Dangal TV
 https://fta.ektv.in/live/17/master.m3u8
 #EXTINF:-1 tvg-id="DesheBideshe.ca" tvg-name="Deshe Bideshe" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/deshe-bideshe.png" tvg-chno="398" channel-id="DesheBideshe.ca" tvg-country="CA" tvg-language="ben" group-title="Bnagla",Deshe Bideshe
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshebideshe.stream/tracks-v1a1/mono.m3u8
@@ -2265,9 +2265,9 @@ https://streams.tangotv.in/DANGAL2/ORIGIN/index.m3u8
 https://fta.ektv.in/live/18/master.m3u8
 #EXTINF:-1 tvg-id="Dangal2.in@SD" tvg-name="Dangal 2_206" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dangal-2.png" tvg-chno="236" channel-id="Dangal2.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Dangal 2_206
 http://163.61.226.31:9981/stream/channelid/568470441?profile=pass
-#EXTINF:-1 tvg-id="DangalTV.in@SD@dangal.tv" tvg-name="Dangal TV_207" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dangal-tv.png" tvg-chno="237" channel-id="DangalTV.in@SD@dangal.tv" tvg-country="IN" tvg-language="und" group-title="Back channel",Dangal TV_207
+#EXTINF:-1 tvg-id="DangalTV.in@SD" tvg-name="Dangal TV_207" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dangal-tv.png" tvg-chno="235" channel-id="DangalTV.in@SD" tvg-country="IN" tvg-language="und" group-title="Back channel",Dangal TV_207
 https://mumt04.tangotv.in/m18aqlK4DANGAL/index.m3u8
-#EXTINF:-1 tvg-id="DangalTV.in@SD@dangal.tv" tvg-name="Dangal TV_208" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dangal-tv.png" tvg-chno="237" channel-id="DangalTV.in@SD@dangal.tv" tvg-country="IN" tvg-language="und" group-title="Back channel",Dangal TV_208
+#EXTINF:-1 tvg-id="DangalTV.in@SD" tvg-name="Dangal TV_208" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dangal-tv.png" tvg-chno="235" channel-id="DangalTV.in@SD" tvg-country="IN" tvg-language="und" group-title="Back channel",Dangal TV_208
 http://163.61.226.31:9981/stream/channelid/359795895?profile=pass
 #EXTINF:-1 tvg-id="DBCNews.bd" tvg-name="DBC News_209" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dbc-news.png" tvg-chno="20" channel-id="DBCNews.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",DBC News_209
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/dbcnews.stream/tracks-v1a1/mono.m3u8
@@ -2831,7 +2831,7 @@ https://livingindiaottlive.akamaized.net/tabbarhits/index.m3u8
 https://server.thelegitpro.in/tabbarhits/tabbarhits/index.m3u8
 #EXTINF:-1 tvg-id="TheMovieClub.in@HD" tvg-name="The Movie Club_489" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/the-movie-club.png" tvg-chno="144" channel-id="TheMovieClub.in@HD" tvg-country="IN" tvg-language="hin" group-title="Back channel",The Movie Club_489
 https://mumbai-edge.smartplaytv.in/TheMovieClub/index.m3u8
-#EXTINF:-1 tvg-id="thikana.tv.bd" tvg-name="Thikana TV_490" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/thikana.png" tvg-chno="57" channel-id="thikana.tv.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Thikana TV_490
+#EXTINF:-1 tvg-id="ThikanaTV.us" tvg-name="Thikana TV_490" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/thikana.png" tvg-chno="57" channel-id="ThikanaTV.us" tvg-country="BD" tvg-language="ben" group-title="Back channel",Thikana TV_490
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/thikanatv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Tunes6.in" tvg-name="Tunes 6_491" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/tunes-6-86e66d6033.png" tvg-chno="475" channel-id="Tunes6.in" tvg-country="IN" tvg-language="eng" group-title="Back channel",Tunes 6_491
 https://stream.d6-pro.com/Tunes6music/live/video.m3u8
@@ -2849,7 +2849,7 @@ https://fta.ektv.in/live/228/master.m3u8
 https://cdn.pishow.tv/ott/live/1271/master.m3u8
 #EXTINF:-1 tvg-id="VendharTV.in@SD" tvg-name="Vendhar TV_498" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/vendhar-tv.png" tvg-chno="351" channel-id="VendharTV.in@SD" tvg-country="IN" tvg-language="tam" group-title="Back channel",Vendhar TV_498
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/VendharTV.m3u8
-#EXTINF:-1 tvg-id="YRFMusic.in@Nepal" tvg-name="YRF Music_499" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/yrf-music.png" tvg-chno="209" channel-id="YRFMusic.in@Nepal" tvg-country="NP" tvg-language="hin" group-title="Back channel",YRF Music_499
+#EXTINF:-1 tvg-id="YRFMusic.in" tvg-name="YRF Music_499" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/yrf-music.png" tvg-chno="208" channel-id="YRFMusic.in" tvg-country="NP" tvg-language="hin" group-title="Back channel",YRF Music_499
 https://vidaa.kableone.com/hls/live/2111218/YrfMusic/1.m3u8
 #EXTINF:-1 tvg-id="YRFMusic.in" tvg-name="YRF Music_500" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/yrf-music.png" tvg-chno="208" channel-id="YRFMusic.in" tvg-country="IN" tvg-language="hin" group-title="Back channel",YRF Music_500
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
