@@ -3,9 +3,9 @@
 # Playlist name : SM IPTV MAIN PLAYLIST
 # Developed by: Monirul Islam Shakib
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 04:30:24 AM 16-11-2026 (BD Time)
+# Last Updated: 10:53:09 AM 16-11-2026 (BD Time)
 # All channel : 1532
-# Back Channel : 609
+# Back Channel : 610
 #=================================
 #EXTINF:-1 tvg-id="019de785-3984-7c6c-b734-30d6bb22b3b8" tvg-name="Ananda TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ananda-tv.png" group-title="Bnagla",Ananda TV
 https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
@@ -681,9 +681,9 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a2
 https://mumt03.tangotv.in/Dsly5z3HMHONEMOVIE/index.m3u8
 #EXTINF:-1 tvg-id="MoviePunjab.in@SD" tvg-name="Movie Punjab" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/movie-punjab-720p.png" tvg-chno="118" channel-id="MoviePunjab.in@SD" tvg-country="IN" tvg-language="pan" group-title="Bnagla",Movie Punjab
 https://samitaorigin.tangotv.in/MOVIEPUNJAB/SAMITAORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="DarshanaTV.in@SD" tvg-language="mal" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/darshana-tv.png" tvg-country="IN" group-title="Indian entertainment" tvg-name="Darshana TV" channel-id="DarshanaTV.in@SD",Darshana TV
+#EXTINF:-1 tvg-id="DarshanaTV.in@SD" tvg-name="Darshana TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/darshana-tv.png" channel-id="DarshanaTV.in@SD" tvg-country="IN" tvg-language="mal" group-title="Indian entertainment",Darshana TV
 https://cdn.pishow.tv/ott/live/1453/master.m3u8
-#EXTINF:-1 tvg-id="JaihindTV.in@SD" tvg-name="Jaihind TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/jaihind-tv-576p.png" group-title="Indian entertainment" tvg-country="IN" tvg-language="mal" channel-id="JaihindTV.in@SD",Jaihind TV
+#EXTINF:-1 tvg-id="JaihindTV.in@SD" tvg-name="Jaihind TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/jaihind-tv-576p.png" channel-id="JaihindTV.in@SD" tvg-country="IN" tvg-language="mal" group-title="Indian entertainment",Jaihind TV
 https://yuppnimrestreammum.akamaized.net/260723/smil:jaihind1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="NammaBangalore.in@SD" tvg-name="Namma Bangalore" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/namma-bangalore.png" tvg-chno="119" channel-id="NammaBangalore.in@SD" tvg-country="IN" tvg-language="kan" group-title="Indian entertainment",Namma Bangalore
 https://stream.ottlive.co.in/nammatv/index.m3u8
@@ -1065,11 +1065,11 @@ https://stream.ottlive.co.in/suryatvtamil/index.m3u8
 https://hlslive.olidigital.in/suriyantv/suriyantv/index.m3u8
 #EXTINF:-1 tvg-id="Swantham.in@SD" tvg-name="Swantham" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/swantham.png" tvg-chno="344" channel-id="Swantham.in@SD" tvg-country="IN" tvg-language="mal" group-title="Indian entertainment",Swantham
 http://cloud.logichost.in:1935/SWANTHAM/live/index.m3u8
-#EXTINF:-1 tvg-id="TamilanTV.in" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/tamilan-tv.png" tvg-country="IN" group-title="Indian entertainment" tvg-name="Tamilan TV" tvg-language="tam" channel-id="TamilanTV.in",Tamilan TV
+#EXTINF:-1 tvg-id="TamilanTV.in" tvg-name="Tamilan TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/tamilan-tv.png" channel-id="TamilanTV.in" tvg-country="IN" tvg-language="tam" group-title="Indian entertainment",Tamilan TV
 https://mumt04.tangotv.in/m18aqlK4TAMILANTELEVISION/index.m3u8
 #EXTINF:-1 tvg-id="TarangTV.in@SD" tvg-name="Tarang TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/tarang-tv.png" tvg-chno="345" channel-id="TarangTV.in@SD" tvg-country="IN" tvg-language="ori" group-title="Indian entertainment",Tarang TV
 https://livetv.tarangplus.in/tarangtv-origin/live/playlist.m3u8
-#EXTINF:-1 tvg-id="TehzeebTV.in@SD" tvg-language="urd" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/tehzeeb-tv.png" tvg-country="IN" group-title="Indian entertainment" tvg-name="Tehzeeb TV" channel-id="TehzeebTV.in@SD",Tehzeeb TV
+#EXTINF:-1 tvg-id="TehzeebTV.in@SD" tvg-name="Tehzeeb TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/tehzeeb-tv.png" channel-id="TehzeebTV.in@SD" tvg-country="IN" tvg-language="urd" group-title="Indian entertainment",Tehzeeb TV
 https://mumt05.tangotv.in/87NeALx2TEHZEEBTV/index.m3u8
 #EXTINF:-1 tvg-id="TeluguOne.in@HD" tvg-name="Telugu One" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/telugu-one.png" tvg-chno="346" channel-id="TeluguOne.in@HD" tvg-country="IN" tvg-language="tel" group-title="Indian entertainment",Telugu One
 https://teluguone-yupptv.vgcdn.net/v1/019be9e3f04d1ea55784338b5c3e89/019be9e4474415fc60e93459e1e808/teluguone_2500k.m3u8
@@ -1243,7 +1243,7 @@ https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tr
 https://d2l4tng0wskzvn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i4w0aagbo260c/Trace_GB.m3u8
 #EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-name="TRT Müzik" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/trt-muzik.png" tvg-chno="473" channel-id="TRTMuzik.tr" tvg-country="TR" tvg-language="tur" group-title="Bnagla",TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TVBRICSEnglish.in" tvg-language="eng" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/tv-brics-english.png" tvg-country="IN" group-title="English" tvg-name="TV BRICS English" channel-id="TVBRICSEnglish.in",TV BRICS English
+#EXTINF:-1 tvg-id="TVBRICSEnglish.in" tvg-name="TV BRICS English" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/tv-brics-english.png" channel-id="TVBRICSEnglish.in" tvg-country="IN" tvg-language="eng" group-title="English",TV BRICS English
 https://engbrics.mediacdn.ru/cdn/brics/english/playlist.m3u8
 #EXTINF:-1 tvg-id="custom.v2beat" tvg-name="V2 Beat" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/v2beat.png" tvg-chno="477" channel-id="custom.v2beat" tvg-country="IT" tvg-language="ita" group-title="Bnagla",V2 Beat
 https://de1se01.v2beat.live/playlist.m3u8
@@ -1845,8 +1845,6 @@ https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8
 http://103.135.253.32:8080/POGO/index.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in@4KHDR" tvg-name="Travelxp 4K HDR (2160p) [Geo-blocked]" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/travelxp-4k-hdr-2160p-geo-blocked-d2beea8758.png" group-title="documentary",Travelxp 4K HDR (2160p) [Geo-blocked]
 https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
-#EXTINF:-1 tvg-id="JaihindTV.in@SD" tvg-name="Jaihind TV (576p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/jaihind-tv-576p.png" group-title="Bnagla",Jaihind TV (576p)
-https://fta.ektv.in/live/700/master.m3u8
 #EXTINF:-1 tvg-id="VTU.in@SD" tvg-name="VTU (1080p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/vtu.png" group-title="Bnagla",VTU (1080p)
 https://lbgo.bozztv.com/ssh101/ssh101/afghantheatretv/playlist.m3u8
 #EXTINF:-1 tvg-id="WeatherSpy.in@SD" tvg-name="WeatherSpy (India) (720p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/weatherspy-india.png" group-title="Bnagla",WeatherSpy (India) (720p)
@@ -3071,3 +3069,5 @@ https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Tamil_HD/hls/Zee_Tamil_HD.m
 http://103.135.253.32:8080/ZEE-TV/index.m3u8
 #EXTINF:-1 tvg-id="ZeeTV.in@SD" tvg-name="Zee TV_609" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/repaired-zee-tv-b659c984ad.png" channel-id="ZeeTV.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Zee TV_609
 https://drk6xq0vhn.gpcdn.net/live/zee_tv_hd_abr/index.m3u8
+#EXTINF:-1 tvg-id="JaihindTV.in@SD" tvg-name="Jaihind TV_610" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/jaihind-tv-576p.png" channel-id="JaihindTV.in@SD" tvg-country="IN" tvg-language="mal" group-title="Back channel",Jaihind TV_610
+https://fta.ektv.in/live/700/master.m3u8
