@@ -1,0 +1,214 @@
+#EXTM3U
+#=================================
+# Playlist name : SM IPTV BDIX
+# Developed by: Monirul Islam Shakib
+# Telegram group : https://t.me/sm_iptv_bd
+# Last Updated: 09:32:24 PM 17-11-2026 (BD Time)
+# All channel : 100+
+#=================================
+
+#EXTM3U
+#EXTINF:-1 tvg-id="asiah-tv" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9Bc2lhaCUyMFR2MTc1MjQ5ODcyNC5wbmc" group-title="Bangla",ASIAH TV
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=asiah-tv&sm=.m3u8
+#EXTINF:-1 tvg-id="atn-bangla" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9BVE4lMjBCQU5HTEExNzQ1MDQ0MTgzLnBuZw" group-title="Bangla",ATN BANGLA
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=atn-bangla&sm=.m3u8
+#EXTINF:-1 tvg-id="atn-news" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9BVE4lMjBORVdTMTc0NTA0NTExMy5wbmc" group-title="Bangla",ATN NEWS
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=atn-news&sm=.m3u8
+#EXTINF:-1 tvg-id="btv-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9CVFYuSEQxNzUwODY2NDM4LnBuZw" group-title="Bangla",BTV.HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=btv-hd&sm=.m3u8
+#EXTINF:-1 tvg-id="channel-24" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9DSEFOTkVMJTIwMjQxNzQ1MDQ0MjYzLnBuZw" group-title="Bangla",CHANNEL 24
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=channel-24&sm=.m3u8
+#EXTINF:-1 tvg-id="channel-i" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9DSEFOTkVMJTIwSTE3NDUwNDQyMzcucG5n" group-title="Bangla",CHANNEL I
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=channel-i&sm=.m3u8
+#EXTINF:-1 tvg-id="colors-bangla-cinema" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9DT0xPUlMlMjBCQU5HTEElMjBDSU5FTUExNzQ1MDQxNDg2LnBuZw" group-title="Bangla",COLORS BANGLA CINEMA
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=colors-bangla-cinema&sm=.m3u8
+#EXTINF:-1 tvg-id="colors-bangla-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9DT0xPUlMlMjBCQU5HTEElMjBIRDE3NDUwMzM1NzYucG5n" group-title="Bangla",COLORS BANGLA HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=colors-bangla-hd&sm=.m3u8
+#EXTINF:-1 tvg-id="dbc-news" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9EQkMlMjBORVdTMTc1MDg2NjYxNC5wbmc" group-title="Bangla",DBC NEWS
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=dbc-news&sm=.m3u8
+#EXTINF:-1 tvg-id="ekattor-tv" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9Fa2F0dG9yJTIwVHYxNzUwODY2NjQ3LnBuZw" group-title="Bangla",EKATTOR TV
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=ekattor-tv&sm=.m3u8
+#EXTINF:-1 tvg-id="enterr-10" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9FTlRFUlIlMjAxMDE3NDUwNDQzMzAucG5n" group-title="Bangla",ENTERR 10
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=enterr-10&sm=.m3u8
+#EXTINF:-1 tvg-id="global-tv" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9HbG9iYWwlMjBUdjE3NTI0OTg4NTYucG5n" group-title="Bangla",GLOBAL TV
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=global-tv&sm=.m3u8
+#EXTINF:-1 tvg-id="gtv" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9HVFYxNzQ1MDQyODUzLnBuZw" group-title="Bangla",GTV
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=gtv&sm=.m3u8
+#EXTINF:-1 tvg-id="independent-tv" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9JTkRFUEVOREVOVCUyMFRWMTc0NTA0NDA3Ny5wbmc" group-title="Bangla",INDEPENDENT TV
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=independent-tv&sm=.m3u8
+#EXTINF:-1 tvg-id="jalsha-movies-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9KQUxTSEElMjBNT1ZJRVMlMjBIRDE3NDUwMzQwMDUucG5n" group-title="Bangla",JALSHA MOVIES HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=jalsha-movies-hd&sm=.m3u8
+#EXTINF:-1 tvg-id="jamuna-tv" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9KQU1VTkElMjBUVjE3NDUwNDQwNTIucG5n" group-title="Bangla",JAMUNA TV
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=jamuna-tv&sm=.m3u8
+#EXTINF:-1 tvg-id="maasranga-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9NQUFTUkFOR0ElMjBIRDE3NDUwNDQxMTcucG5n" group-title="Bangla",MAASRANGA HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=maasranga-hd&sm=.m3u8
+#EXTINF:-1 tvg-id="nagorik" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9OQUdPUklLMTc0NTA0Mjc3Ni5wbmc" group-title="Bangla",NAGORIK
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=nagorik&sm=.m3u8
+#EXTINF:-1 tvg-id="news-24-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9ORVdTLjI0LkhEMTc1MDg2Njg2Ni5wbmc" group-title="Bangla",NEWS.24.HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=news-24-hd&sm=.m3u8
+#EXTINF:-1 tvg-id="sangeet-bangla" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9TYW5nZWV0JTIwQmFuZ2xhMTc1MDg3MDI1Mi5wbmc" group-title="Bangla",SANGEET BANGLA
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=sangeet-bangla&sm=.m3u8
+#EXTINF:-1 tvg-id="somoy-tv" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9TT01PWSUyMFRWMTc0NTA0NDE0OS5wbmc" group-title="Bangla",SOMOY TV
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=somoy-tv&sm=.m3u8
+#EXTINF:-1 tvg-id="sony-aat" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9TT05ZJTIwQUFUMTc0NTA0MTEyNC5wbmc" group-title="Bangla",SONY AAT
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=sony-aat&sm=.m3u8
+#EXTINF:-1 tvg-id="star-jalsha-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9TVEFSJTIwSkFMU0hBJTIwSEQxNzQ1MDMzODE5LnBuZw" group-title="Bangla",STAR JALSHA HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=star-jalsha-hd&sm=.m3u8
+#EXTINF:-1 tvg-id="sun-bangla-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9TVU4lMjBCQU5HTEElMjBIRDE3NDUwMzM3OTEucG5n" group-title="Bangla",SUN BANGLA HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=sun-bangla-hd&sm=.m3u8
+#EXTINF:-1 tvg-id="zee-bangla-cinema" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9aRUUlMjBCQU5HTEElMjBDSU5FTUExNzQ1MDQwOTk2LnBuZw" group-title="Bangla",ZEE BANGLA CINEMA
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=zee-bangla-cinema&sm=.m3u8
+#EXTINF:-1 tvg-id="zee-bangla-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9aRUUlMjBCQU5HTEElMjBIRDE3NDUwMzM2MzMucG5n" group-title="Bangla",ZEE BANGLA HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=zee-bangla-hd&sm=.m3u8
+#EXTINF:-1 tvg-id="aljazeeta-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9BTEpBWkVFVEElMjBIRDE3NDUwNDQzNTgucG5n" group-title="English",ALJAZEETA HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=aljazeeta-hd&sm=.m3u8
+#EXTINF:-1 tvg-id="and-xplore" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9BTkQlMjBYUExPUkUxNzQ1MDQzMDgwLnBuZw" group-title="English",AND XPLORE
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=and-xplore&sm=.m3u8
+#EXTINF:-1 tvg-id="animal-planet-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9BTklNQUwlMjBQTEFORVQlMjBIRDE3NDUwMzg2NzEucG5n" group-title="English",ANIMAL PLANET HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=animal-planet-hd&sm=.m3u8
+#EXTINF:-1 tvg-id="axn-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9BWE4lMjBIRDE3NDUwNDUxNzEucG5n" group-title="English",AXN HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=axn-hd&sm=.m3u8
+#EXTINF:-1 tvg-id="bbc-earth-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9CQkMlMjBFQVJUSCUyMEhEMTc0NTE1MDQ1NS5wbmc" group-title="English",BBC EARTH HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=bbc-earth-hd&sm=.m3u8
+#EXTINF:-1 tvg-id="bbc-news" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9CQkMlMjBORVdTMTc0NTA0MjgxNi5wbmc" group-title="English",BBC NEWS
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=bbc-news&sm=.m3u8
+#EXTINF:-1 tvg-id="discovery-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9kaXNjb3ZlcnklMjBoZC5wbmc" group-title="English",DISCOVERY HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=discovery-hd&sm=.m3u8
+#EXTINF:-1 tvg-id="fashion" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9GQVNISU9OMTc0ODg1NzgwNS5wbmc" group-title="English",FASHION
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=fashion&sm=.m3u8
+#EXTINF:-1 tvg-id="history-tv-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9ISVNUT1JZJTIwVFYlMjBIRDE3NDUwMzM2NzkucG5n" group-title="English",HISTORY TV HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=history-tv-hd&sm=.m3u8
+#EXTINF:-1 tvg-id="lotus-tv" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9MT1RVUyUyMFRWMTc0NTA0NDk2MC5wbmc" group-title="English",LOTUS TV
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=lotus-tv&sm=.m3u8
+#EXTINF:-1 tvg-id="love-nature" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9MT1ZFJTIwTkFUVVJFMTc0NTA0MzM3MC5wbmc" group-title="English",LOVE NATURE
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=love-nature&sm=.m3u8
+#EXTINF:-1 tvg-id="mn-plus" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9NTiUyMFBMVVMxNzQ1MDQwMDU3LnBuZw" group-title="English",MN PLUS
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=mn-plus&sm=.m3u8
+#EXTINF:-1 tvg-id="mnx-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9NTlglMjBIRDE3NDUwMzk5NTUucG5n" group-title="English",MNX HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=mnx-hd&sm=.m3u8
+#EXTINF:-1 tvg-id="movies-now-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9NT1ZJRVMlMjBOT1clMjBIRDE3NDUwNDAzNjgucG5n" group-title="English",MOVIES NOW HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=movies-now-hd&sm=.m3u8
+#EXTINF:-1 tvg-id="natgeo-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9OQVRHRU8lMjBIRDE3NDUwMzg2MzQucG5n" group-title="English",NATGEO HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=natgeo-hd&sm=.m3u8
+#EXTINF:-1 tvg-id="natgeo-wild-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9OQVRHRU8lMjBXSUxEJTIwSEQxNzQ1MDM4NTQyLnBuZw" group-title="English",NATGEO WILD HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=natgeo-wild-hd&sm=.m3u8
+#EXTINF:-1 tvg-id="romedy-now" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9ST01FRFklMjBOT1cxNzQ1MDM5OTg4LnBuZw" group-title="English",ROMEDY NOW
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=romedy-now&sm=.m3u8
+#EXTINF:-1 tvg-id="sony-bbc-earth-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9TT05ZJTIwQkJDJTIwRUFSVEglMjBIRDE3NDUwMzE1MjIucG5n" group-title="English",SONY BBC EARTH HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=sony-bbc-earth-hd&sm=.m3u8
+#EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9TT05ZJTIwUElYJTIwSEQxNzQ1MDM5OTI1LnBuZw" group-title="English",SONY PIX HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=sony-pix-hd&sm=.m3u8
+#EXTINF:-1 tvg-id="star-movies-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9TVEFSJTIwTU9WSUVTJTIwSEQxNzQ1MDQwMTc0LnBuZw" group-title="English",STAR MOVIES HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=star-movies-hd&sm=.m3u8
+#EXTINF:-1 tvg-id="star-movies-select-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9TVEFSJTIwTU9WSUVTJTIwU0VMRUNUJTIwSEQxNzQ1MDM4NzIzLnBuZw" group-title="English",STAR MOVIES SELECT HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=star-movies-select-hd&sm=.m3u8
+#EXTINF:-1 tvg-id="tlc-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9UTEMlMjBIRDE3NDUwMzM0ODQucG5n" group-title="English",TLC HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=tlc-hd&sm=.m3u8
+#EXTINF:-1 tvg-id="travel-xp" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9UUkFWRUwlMjBYUDE3NDUwNDMxMTgucG5n" group-title="English",TRAVEL XP
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=travel-xp&sm=.m3u8
+#EXTINF:-1 tvg-id="zee-cafe-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9aRUUlMjBDQUZFJTIwSEQxNzQ1MDQwMTAyLnBuZw" group-title="English",ZEE CAFE HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=zee-cafe-hd&sm=.m3u8
+#EXTINF:-1 tvg-id="9xm-music" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy85WE0lMjBNVVNJQzE3NTA4NjY3NTcucG5n" group-title="Hindi",9XM MUSIC
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=9xm-music&sm=.m3u8
+#EXTINF:-1 tvg-id="and-picturs-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9BTkQlMjBQSUNUVVJTJTIwSEQxNzQ1MDMxNDQwLnBuZw" group-title="Hindi",AND PICTURS HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=and-picturs-hd&sm=.m3u8
+#EXTINF:-1 tvg-id="colors-cineplex-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9DT0xPUlMlMjBDSU5FUExFWCUyMEhEMTc0NTAzMzUxOS5wbmc" group-title="Hindi",COLORS CINEPLEX HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=colors-cineplex-hd&sm=.m3u8
+#EXTINF:-1 tvg-id="colors-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9DT0xPUlMlMjBIRDE3NDUwMzE0MDQucG5n" group-title="Hindi",COLORS HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=colors-hd&sm=.m3u8
+#EXTINF:-1 tvg-id="geo-news-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9HRU8lMjBORVdTJTIwSEQxNzQ1MDQ0ODkyLnBuZw" group-title="Hindi",GEO NEWS HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=geo-news-hd&sm=.m3u8
+#EXTINF:-1 tvg-id="hum-tv" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9IVU0lMjBUVjE3NDUwNDQ4MzcucG5n" group-title="Hindi",HUM TV
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=hum-tv&sm=.m3u8
+#EXTINF:-1 tvg-id="max-1" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9NQVglMjAxMTc0ODg1NzQ2Ni5wbmc" group-title="Hindi",MAX 1
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=max-1&sm=.m3u8
+#EXTINF:-1 tvg-id="max-2" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9NQVglMjAyMTc0ODg1NzMzOC5wbmc" group-title="Hindi",MAX 2
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=max-2&sm=.m3u8
+#EXTINF:-1 tvg-id="mtv-india" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9NVFYlMjBJbmRpYTE3NTA4NzAxMDQucG5n" group-title="Hindi",MTV INDIA
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=mtv-india&sm=.m3u8
+#EXTINF:-1 tvg-id="music-india" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9NdXNpYyUyMEluZGlhMTc1MDg2NzU0NC5wbmc" group-title="Hindi",MUSIC INDIA
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=music-india&sm=.m3u8
+#EXTINF:-1 tvg-id="sony-ent-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9TT05ZJTIwRU5UJTIwSEQxNzQ1MDMzNTUzLnBuZw" group-title="Hindi",SONY ENT HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=sony-ent-hd&sm=.m3u8
+#EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9TT05ZJTIwTUFYJTIwSEQxNzQ1MDM0MDY5LnBuZw" group-title="Hindi",SONY MAX HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=sony-max-hd&sm=.m3u8
+#EXTINF:-1 tvg-id="star-bharat-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9TVEFSJTIwQkhBUkFUJTIwSEQxNzQ1MDQ1MjU1LnBuZw" group-title="Hindi",STAR BHARAT HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=star-bharat-hd&sm=.m3u8
+#EXTINF:-1 tvg-id="star-gold-2-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9TVEFSJTIwR09MRCUyMDIlMjBIRDE3NDUwNDM0NDEucG5n" group-title="Hindi",STAR GOLD 2 HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=star-gold-2-hd&sm=.m3u8
+#EXTINF:-1 tvg-id="star-gold-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9TVEFSJTIwR09MRCUyMEhEMTc0NTAzNDAzNy5wbmc" group-title="Hindi",STAR GOLD HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=star-gold-hd&sm=.m3u8
+#EXTINF:-1 tvg-id="star-gold-select-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9TVEFSJTIwR09MRCUyMFNFTEVDVCUyMEhEMTc0NTA0MzUwOC5wbmc" group-title="Hindi",STAR GOLD SELECT HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=star-gold-select-hd&sm=.m3u8
+#EXTINF:-1 tvg-id="star-plus-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9TVEFSJTIwUExVUyUyMEhEMTc0NTAzODU3Ny5wbmc" group-title="Hindi",STAR PLUS HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=star-plus-hd&sm=.m3u8
+#EXTINF:-1 tvg-id="zee-cinema-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9aRUUlMjBDSU5FTUElMjBIRDE3NDUwMzM2MDIucG5n" group-title="Hindi",ZEE CINEMA HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=zee-cinema-hd&sm=.m3u8
+#EXTINF:-1 tvg-id="zee-tv-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9aRUUlMjBUViUyMEhEMTc0NTAzMzM4My5wbmc" group-title="Hindi",ZEE TV HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=zee-tv-hd&sm=.m3u8
+#EXTINF:-1 tvg-id="zing" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9aSU5HMTc0NTA0MjcxOC5wbmc" group-title="Hindi",ZING
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=zing&sm=.m3u8
+#EXTINF:-1 tvg-id="zoom" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9aT09NMTc0NTA0MDk2MS5wbmc" group-title="Hindi",ZOOM
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=zoom&sm=.m3u8
+#EXTINF:-1 tvg-id="madani-tv-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9NQURBTkklMjBUViUyMEhEMTc0NTA0NDMwMy5wbmc" group-title="Islamic",MADANI TV HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=madani-tv-hd&sm=.m3u8
+#EXTINF:-1 tvg-id="peace-tv-bangla" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9QRUFDRSUyMFRWJTIwQkFOR0xBMTc0NTA0NDQ4MC5wbmc" group-title="Islamic",PEACE TV BANGLA
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=peace-tv-bangla&sm=.m3u8
+#EXTINF:-1 tvg-id="bal-bharat" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9CQUwlMjBCSEFSQVQxNzQ1MDQxNTc2LnBuZw" group-title="Kids",BAL BHARAT
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=bal-bharat&sm=.m3u8
+#EXTINF:-1 tvg-id="cartoon-network" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9DQVJUT09OJTIwTkVUV09SSzE3NDUwMzM0MTQucG5n" group-title="Kids",CARTOON NETWORK
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=cartoon-network&sm=.m3u8
+#EXTINF:-1 tvg-id="disney-juniar" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9ESVNORVklMjBKVU5JQVIxNzUwODcwNTgxLnBuZw" group-title="Kids",DISNEY JUNIAR
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=disney-juniar&sm=.m3u8
+#EXTINF:-1 tvg-id="duranta-tv" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9EVVJBTlRBJTIwVFYxNzQ1MDQzNDAwLnBuZw" group-title="Kids",DURANTA TV
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=duranta-tv&sm=.m3u8
+#EXTINF:-1 tvg-id="hungama" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9IVU5HQU1BMTc0NTA0MTU1MS5wbmc" group-title="Kids",HUNGAMA
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=hungama&sm=.m3u8
+#EXTINF:-1 tvg-id="nick" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9OSUNLMTc0NTA0MTQ1MS5wbmc" group-title="Kids",NICK
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=nick&sm=.m3u8
+#EXTINF:-1 tvg-id="nick-jr" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9OSUNLJTIwSlIxNzQ1MDQyMzk3LnBuZw" group-title="Kids",NICK JR
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=nick-jr&sm=.m3u8
+#EXTINF:-1 tvg-id="pogo" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9QT0dPMTc0NTA0MTUxNS5wbmc" group-title="Kids",POGO
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=pogo&sm=.m3u8
+#EXTINF:-1 tvg-id="sonic" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9TT05JQzE3NDUwNDExNTQucG5n" group-title="Kids",SONIC
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=sonic&sm=.m3u8
+#EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9TT05ZJTIwWUFZMTc0NTA0NTA0Ni5wbmc" group-title="Kids",SONY YAY
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=sony-yay&sm=.m3u8
+#EXTINF:-1 tvg-id="super-hungama" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9TVVBFUiUyMEhVTkdBTUExNzQ1MDQ0MDIyLnBuZw" group-title="Kids",SUPER HUNGAMA
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=super-hungama&sm=.m3u8
+#EXTINF:-1 tvg-id="a-sports-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9BJTIwU1BPUlRTJTIwSEQxNzQ1MDQ0NzgyLnBuZw" group-title="Sports",A SPORTS HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=a-sports-hd&sm=.m3u8
+#EXTINF:-1 tvg-id="eurosports-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9FVVJPU1BPUlRTJTIwSEQxNzQ1MDQwNDA2LnBuZw" group-title="Sports",EUROSPORTS HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=eurosports-hd&sm=.m3u8
+#EXTINF:-1 tvg-id="fast-sports-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9GQVNUJTIwU1BPUlRTJTIwSEQxNzQ1MDQ0NzUwLnBuZw" group-title="Sports",FAST SPORTS HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=fast-sports-hd&sm=.m3u8
+#EXTINF:-1 tvg-id="golf-sports" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9HT0xGJTIwU1BPUlRTMTc0NTA0MzMzOC5wbmc" group-title="Sports",GOLF SPORTS
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=golf-sports&sm=.m3u8
+#EXTINF:-1 tvg-id="ptv-sports-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9QVFYlMjBTUE9SVFMlMjBIRDE3NDUwNDQ5OTMucG5n" group-title="Sports",PTV SPORTS HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=ptv-sports-hd&sm=.m3u8
+#EXTINF:-1 tvg-id="sony-sports-1-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9zb255JTIwc3BvcnRzJTIwMSUyMGhkLnBuZw" group-title="Sports",SONY SPORTS 1 HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=sony-sports-1-hd&sm=.m3u8
+#EXTINF:-1 tvg-id="sony-sports-2-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9zb255JTIwc3BvcnRzJTIwMiUyMGhkLnBuZw" group-title="Sports",SONY SPORTS 2 HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=sony-sports-2-hd&sm=.m3u8
+#EXTINF:-1 tvg-id="sony-sports-3" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9Tb255JTIwc3BvcnRzJTIwMy5wbmc" group-title="Sports",SONY SPORTS 3
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=sony-sports-3&sm=.m3u8
+#EXTINF:-1 tvg-id="sony-sports-4" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9zb255JTIwc3BvcnRzJTIwNC5wbmc" group-title="Sports",SONY SPORTS 4
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=sony-sports-4&sm=.m3u8
+#EXTINF:-1 tvg-id="sony-sports-5-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9zb255JTIwc3BvcnRzJTIwNSUyMGhkLnBuZw" group-title="Sports",SONY SPORTS 5 HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=sony-sports-5-hd&sm=.m3u8
+#EXTINF:-1 tvg-id="ssc-sports" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9TU0MlMjBTUE9SVFMxNzQ4ODU3MjczLnBuZw" group-title="Sports",SSC SPORTS
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=ssc-sports&sm=.m3u8
+#EXTINF:-1 tvg-id="ssc-sports-5-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9TU0MlMjBTUE9SVFMlMjA1JTIwSEQxNzQ4ODU3MDgwLnBuZw" group-title="Sports",SSC SPORTS 5 HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=ssc-sports-5-hd&sm=.m3u8
+#EXTINF:-1 tvg-id="star-select-1-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9TVEFSJTIwU0VMRUNUJTIwMSUyMEhEMTc0NTAzODc3Ny5wbmc" group-title="Sports",STAR SELECT 1 HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=star-select-1-hd&sm=.m3u8
+#EXTINF:-1 tvg-id="star-sports-1-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9TVEFSJTIwU1BPUlRTJTIwMSUyMEhEMTc0NDk5MTc3OC5wbmc" group-title="Sports",STAR SPORTS 1 HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=star-sports-1-hd&sm=.m3u8
+#EXTINF:-1 tvg-id="star-sports-2-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9TVEFSJTIwU1BPUlRTJTIwMiUyMEhEMTc0NDk5MTg0Mi5wbmc" group-title="Sports",STAR SPORTS 2 HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=star-sports-2-hd&sm=.m3u8
+#EXTINF:-1 tvg-id="star-sports-3" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9TVEFSJTIwU1BPUlRTJTIwMzE3NDUwMzk4OTMucG5n" group-title="Sports",STAR SPORTS 3
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=star-sports-3&sm=.m3u8
+#EXTINF:-1 tvg-id="star-sports-select-2-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9TVEFSJTIwU1BPUlRTJTIwU0VMRUNUJTIwMiUyMEhEMTc0NTAzMzcyMi5wbmc" group-title="Sports",STAR SPORTS SELECT 2 HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=star-sports-select-2-hd&sm=.m3u8
+#EXTINF:-1 tvg-id="t-sports" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9UJTIwU1BPUlRTMTc0NDk3MjYzMC5wbmc" group-title="Sports",T SPORTS
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=t-sports&sm=.m3u8
