@@ -3,7 +3,7 @@
 # Playlist name : SM IPTV MAIN PLAYLIST
 # Developed by: Monirul Islam Shakib
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 09:32:24 PM 17-11-2026 (BD Time)
+# Last Updated: 06:35:12 AM 18-11-2026 (BD Time)
 # All channel : 1586
 # Back Channel : 679
 #=================================
@@ -495,7 +495,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CommunityTV.us@SD" tvg-name="Community TV" channel-id="CommunityTV.us@SD" tvg-country="US" tvg-language="ben" tvg-chno="26" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/community-tv.png" group-title="Bnagla",Community TV
 https://cdn.streamcast.xyz/ctvusa/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="DeshBanglaTV.bd@SD" tvg-name="Desh Bangla TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/desh-bangla-tv.png" channel-id="DeshBanglaTV.bd@SD" tvg-country="BD" tvg-language="ben" tvg-chno="29" group-title="Bnagla",Desh Bangla TV
+#EXTINF:-1 tvg-id="DeshBanglaTV.bd@SD" tvg-name="Desh Bangla TV" channel-id="DeshBanglaTV.bd@SD" tvg-country="BD" tvg-language="ben" tvg-chno="29" group-title="Bnagla",Desh Bangla TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshbanglatv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DesheBideshe.ca" tvg-name="Deshe Bideshe" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/deshe-bideshe.png" tvg-chno="31" channel-id="DesheBideshe.ca" tvg-country="CA" tvg-language="ben" group-title="Bnagla",Deshe Bideshe
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshebideshe.stream/tracks-v1a1/mono.m3u8
@@ -519,8 +519,6 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="JalshaBanglaBD.bd" tvg-name="Jalsha Bangla BD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/jalsha-bangla-bd.png" tvg-chno="46" channel-id="JalshaBanglaBD.bd" tvg-country="BD" tvg-language="ben" group-title="Indian Bangla",Jalsha Bangla BD
 https://dish.porosh.com.bd/hls/jalshabangla.m3u8
-#EXTINF:-1 channel-id="JhankarTV.ca" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/jhankar-tv.png" tvg-id="JhankarTV.ca" tvg-name="Jhankar TV" tvg-chno="48" tvg-language="ben" tvg-country="CA" group-title="Indian Bangla",Jhankar TV
-https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8
 #EXTINF:-1 tvg-id="MatribhumiTV.bd" tvg-name="Matribhumi TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/matri-bhumi-tv.png" tvg-chno="50" channel-id="MatribhumiTV.bd" tvg-country="BD" tvg-language="ben" group-title="Bnagla",Matribhumi TV
 https://live.playmax.live/matribhumi/index.m3u8
 #EXTINF:-1 tvg-id="MovieBangla.bd" tvg-name="Movie Bangla" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/movie-bangla.png" tvg-chno="52" channel-id="MovieBangla.bd" tvg-country="BD" tvg-language="ben" group-title="Bnagla",Movie Bangla
@@ -573,6 +571,8 @@ https://fta.ektv.in/live/378/master.m3u8
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_360p/chunks.m3u8
 #EXTINF:-1 tvg-id="JalshaMovies.in@SD" tvg-name="Jalsha Movies" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/jalsha-movies.png" tvg-chno="135" channel-id="JalshaMovies.in@SD" tvg-country="IN" tvg-language="ben" group-title="Indian Bangla",Jalsha Movies
 https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
+#EXTINF:-1 channel-id="JhankarTV.ca" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/jhankar-tv.png" tvg-id="JhankarTV.ca" tvg-name="Jhankar TV" tvg-chno="48" tvg-language="ben" tvg-country="CA" group-title="Indian Bangla",Jhankar TV
+https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8
 #EXTINF:-1 tvg-id="JTVBangla.in@SD" tvg-name="JTV Bangla" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/jtv-bangla-converted-badc0be693.png" tvg-chno="86" channel-id="JTVBangla.in@SD" tvg-country="IN" tvg-language="ben" group-title="Indian Bangla",JTV Bangla
 http://103.67.97.45:81/0.ts
 #EXTINF:-1 tvg-id="KhushbooBangla.in@SD" tvg-name="Khushboo Bangla" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/khushboo-bangla.png" tvg-chno="87" channel-id="KhushbooBangla.in@SD" tvg-country="IN" tvg-language="ben" group-title="Indian Bangla",Khushboo Bangla
@@ -1113,8 +1113,6 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 https://d47ddb99.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1kZV9aZWVUVkhEVUtHZXJtYW55X0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="Zingabad.in@SD" tvg-name="Zingabad" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/zingabad-d05910f0bb.png" tvg-chno="379" channel-id="Zingabad.in@SD" tvg-country="IN" tvg-language="hin" group-title="Indian entertainment",Zingabad
 https://stream.ottlive.co.in/zingabad/index.m3u8
-#EXTINF:-1 tvg-id="JalwaTV.pk@SD" tvg-name="Jalwa TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/jalwa-tv.png" channel-id="JalwaTV.pk@SD" tvg-country="PK" tvg-language="urd" group-title="Bnagla",Jalwa TV
-https://cdn4.mjunoon.tv:8087/streamtest/135M/chunks.m3u8
 #EXTINF:-1 channel-id="8XM.pk@SD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/8xm.png" tvg-id="8XM.pk@SD" tvg-name="8XM" tvg-language="urd" tvg-country="PK" group-title="Bnagla",8XM
 https://cdn4.mjunoon.tv:8087/streamtest/131M/chunks.m3u8
 #EXTINF:-1 tvg-id="ary.digital.pk" tvg-name="Ary Digital" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/arydigital.png" channel-id="ary.digital.pk" tvg-country="PK" tvg-language="urd" group-title="Bnagla",Ary Digital
@@ -1133,6 +1131,8 @@ https://cdn4.mjunoon.tv:8087/streamtest/166M/chunks.m3u8
 https://j6nfugukcl.gpcdn.net/tile_1/master.m3u8
 #EXTINF:-1 tvg-id="HUMSitaray.pk" tvg-name="HUM Sitaray" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/hum-sitaray.png" tvg-chno="384" channel-id="HUMSitaray.pk" tvg-country="PK" tvg-language="urd" group-title="Bnagla",HUM Sitaray
 https://j6nfugukcl.gpcdn.net/tile_2/master.m3u8
+#EXTINF:-1 tvg-id="JalwaTV.pk@SD" tvg-name="Jalwa TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/jalwa-tv.png" channel-id="JalwaTV.pk@SD" tvg-country="PK" tvg-language="urd" group-title="Bnagla",Jalwa TV
+https://cdn4.mjunoon.tv:8087/streamtest/135M/chunks.m3u8
 #EXTINF:-1 tvg-id="JooMusic.pk" tvg-name="Joo Music" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/joo-music.png" tvg-chno="386" channel-id="JooMusic.pk" tvg-country="PK" tvg-language="urd" group-title="Indian music",Joo Music
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SeeTV.pk" tvg-name="See TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/see-tv.png" channel-id="SeeTV.pk" tvg-country="PK" tvg-language="urd" group-title="Bnagla",See TV
@@ -1143,14 +1143,14 @@ https://samitaorigin.tangotv.in/SINDHTV/SAMITAORIGIN/index.m3u8
 http://cdn11.live247stream.com/tag/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WasebTV.pk" tvg-name="Waseb TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/waseb-tv.png" channel-id="WasebTV.pk" tvg-country="PK" tvg-language="urd" group-title="Bnagla",Waseb TV
 https://vodzong.mjunoon.tv:8087/streamtest/WASEB-130/playlist.m3u8
-#EXTINF:-1 tvg-id="custom.24hourfreemovies" tvg-name="24 Hour Free Movies" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/24-hour-free-movies-720p-2a4fdea7cd.png" tvg-chno="389" channel-id="custom.24hourfreemovies" tvg-country="US" tvg-language="eng" group-title="News",24 Hour Free Movies
-https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
-#EXTINF:-1 tvg-id="30AMusic.us" tvg-name="30A Music" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/30a-music-720p-950f250b00.png" tvg-chno="390" channel-id="30AMusic.us" tvg-country="US" tvg-language="eng" group-title="Indian music",30A Music
-https://30a-tv.com/music.m3u8
 #EXTINF:-1 tvg-id="custom.4evercinema" tvg-name="4ever Cinema" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/4ever-cinema-1080p-46222eea9d.png" tvg-chno="391" channel-id="custom.4evercinema" tvg-country="US" tvg-language="eng" group-title="Bnagla",4ever Cinema
 http://stream.mcquack.net/258/index.m3u8
 #EXTINF:-1 tvg-id="custom.4evermusic" tvg-name="4ever Music" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/4ever-music-1080p-0f54facdb8.png" tvg-chno="392" channel-id="custom.4evermusic" tvg-country="US" tvg-language="eng" group-title="Indian music",4ever Music
 http://stream.mcquack.net/257/index.m3u8
+#EXTINF:-1 tvg-id="custom.24hourfreemovies" tvg-name="24 Hour Free Movies" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/24-hour-free-movies-720p-2a4fdea7cd.png" tvg-chno="389" channel-id="custom.24hourfreemovies" tvg-country="US" tvg-language="eng" group-title="News",24 Hour Free Movies
+https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
+#EXTINF:-1 tvg-id="30AMusic.us" tvg-name="30A Music" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/30a-music-720p-950f250b00.png" tvg-chno="390" channel-id="30AMusic.us" tvg-country="US" tvg-language="eng" group-title="Indian music",30A Music
+https://30a-tv.com/music.m3u8
 #EXTINF:-1 tvg-id="plex.tv.Action.Hollywood.Movies.plex" tvg-name="Action Hollywood Movies" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/action-hollywood-movies.png" tvg-chno="393" channel-id="plex.tv.Action.Hollywood.Movies.plex" tvg-country="US" tvg-language="eng" group-title="English",Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="Afrobeats.us" tvg-name="Afrobeats" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/afrobeats.png" tvg-chno="394" channel-id="Afrobeats.us" tvg-country="US" tvg-language="eng" group-title="Bnagla",Afrobeats
@@ -1669,14 +1669,14 @@ https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 https://tvsen5.aynaott.com/asdfadsf/index.m3u8
 #EXTINF:-1 tvg-id="mixer.trace.sports.stars.com" tvg-name="Trace Sports Stars" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/trace-sport.png" tvg-chno="694" channel-id="mixer.trace.sports.stars.com" tvg-country="FR" tvg-language="eng" group-title="Sports",Trace Sports Stars
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TurkmenistanSport.tm@SD" tvg-name="Türkmenistan Sport" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/turkmenistan-sport-714745951c.png" tvg-chno="698" channel-id="TurkmenistanSport.tm@SD" tvg-country="TM" tvg-language="tuk" group-title="Sports",Türkmenistan Sport
+https://alpha.tv.online.tm/hls/ch004.m3u8
 #EXTINF:-1 tvg-id="custom.tvrisport" tvg-name="TVRI Sport" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/tvri-sport.png" tvg-chno="699" channel-id="custom.tvrisport" tvg-country="ID" tvg-language="ind;eng" group-title="Sports",TVRI Sport
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF:-1 tvg-id="TVSSports.us@SD" tvg-name="TVS Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/tvs-sports-1a961bba94.png" tvg-chno="700" channel-id="TVSSports.us@SD" tvg-country="US" tvg-language="eng" group-title="Sports",TVS Sports
 https://rpn.bozztv.com/gusa/gusa-tvssports/index.m3u8
 #EXTINF:-1 tvg-id="custom.tycsports" tvg-name="TYC Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/tyc-sports.png" tvg-chno="701" channel-id="custom.tycsports" tvg-country="AR" tvg-language="spa" group-title="Sports",TYC Sports
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
-#EXTINF:-1 tvg-id="TurkmenistanSport.tm@SD" tvg-name="Türkmenistan Sport" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/turkmenistan-sport-714745951c.png" tvg-chno="698" channel-id="TurkmenistanSport.tm@SD" tvg-country="TM" tvg-language="tuk" group-title="Sports",Türkmenistan Sport
-https://alpha.tv.online.tm/hls/ch004.m3u8
 #EXTINF:-1 tvg-id="ufc.com" tvg-name="UFC" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ufc-tv.png" tvg-chno="702" channel-id="ufc.com" tvg-country="US" tvg-language="eng" group-title="Sports",UFC
 https://linear-893.frequency.stream/dist/plex/893/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="custom.unbeaten" tvg-name="Unbeaten" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/unbeaten.png" tvg-chno="703" channel-id="custom.unbeaten" tvg-country="US" tvg-language="eng" group-title="Sports",Unbeaten
@@ -1841,12 +1841,12 @@ https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8
 https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
 #EXTINF:-1 tvg-id="BTVNational.bd" tvg-name="BTV National_10" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/btv-national-2db28e10.png" tvg-chno="15" channel-id="BTVNational.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",BTV National_10
 https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8
-#EXTINF:-1 tvg-id="Channel24.bd" tvg-name="Channel 24_11" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-24.png" tvg-chno="19" channel-id="Channel24.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel 24_11
-https://tvsen6.aynaott.com/YrVDF8gujkdh/index.m3u8
-#EXTINF:-1 tvg-id="Channel52.bd" tvg-name="Channel 52_12" tvg-chno="20" channel-id="Channel52.bd" tvg-country="BD" tvg-language="ben" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-52.png" group-title="Back channel",Channel 52_12
-http://str24.l9574.com/503.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Channel9.bd" tvg-name="Channel 9_13" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-9.png" tvg-chno="21" channel-id="Channel9.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel 9_13
+#EXTINF:-1 tvg-id="Channel9.bd" tvg-name="Channel 9_11" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-9.png" tvg-chno="21" channel-id="Channel9.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel 9_11
 https://nkafmbewiff.gpcdn.net/tile_7/1080p.m3u8
+#EXTINF:-1 tvg-id="Channel24.bd" tvg-name="Channel 24_12" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-24.png" tvg-chno="19" channel-id="Channel24.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel 24_12
+https://tvsen6.aynaott.com/YrVDF8gujkdh/index.m3u8
+#EXTINF:-1 tvg-id="Channel52.bd" tvg-name="Channel 52_13" tvg-chno="20" channel-id="Channel52.bd" tvg-country="BD" tvg-language="ben" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-52.png" group-title="Back channel",Channel 52_13
+http://str24.l9574.com/503.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ChannelI.bd" tvg-name="Channel I_14" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-i.png" tvg-chno="23" channel-id="ChannelI.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel I_14
 https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
 #EXTINF:-1 tvg-id="DBCNews.bd" tvg-name="DBC News_15" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dbc-news.png" tvg-chno="27" channel-id="DBCNews.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",DBC News_15
@@ -2031,522 +2031,522 @@ https://tvsen7.aynaott.com/tsn3/index.m3u8
 https://tvsen7.aynaott.com/Sports1/index.m3u8
 #EXTINF:-1 tvg-id="XtremSports.es@SD" tvg-name="Xtrem Sports_105" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/xtrem-sports-1d0aff4f7e.png" channel-id="XtremSports.es@SD" tvg-country="ES" tvg-language="spa" tvg-chno="711" group-title="Back channel",Xtrem Sports_105
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
-#EXTINF:-1 tvg-id="KhushbooBangla.in@SD" tvg-name="Khushboo Bangla_106" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/khushboo-bangla.png" channel-id="KhushbooBangla.in@SD" tvg-country="IN" tvg-language="ben" group-title="Back channel",Khushboo Bangla_106
-https://cdn.pishow.tv/ott/live/1473/master.m3u8
-#EXTINF:-1 tvg-id="7SMusic.in@SD" tvg-name="7S Music_107" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/7s-music.png" channel-id="7SMusic.in@SD" tvg-country="IN" tvg-language="tam" group-title="Back channel",7S Music_107
+#EXTINF:-1 tvg-id="7SMusic.in@SD" tvg-name="7S Music_106" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/7s-music.png" channel-id="7SMusic.in@SD" tvg-country="IN" tvg-language="tam" group-title="Back channel",7S Music_106
 https://fta.ektv.in/live/771/master.m3u8
-#EXTINF:-1 tvg-id="7SMusic.in@SD" tvg-name="7S Music_108" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/7s-music.png" channel-id="7SMusic.in@SD" tvg-country="IN" tvg-language="tam" group-title="Back channel",7S Music_108
+#EXTINF:-1 tvg-id="7SMusic.in@SD" tvg-name="7S Music_107" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/7s-music.png" channel-id="7SMusic.in@SD" tvg-country="IN" tvg-language="tam" group-title="Back channel",7S Music_107
 https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
-#EXTINF:-1 tvg-id="8XM.pk@SD" tvg-name="8XM_109" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/8xm.png" channel-id="8XM.pk@SD" tvg-country="PK" tvg-language="urd" group-title="Back channel",8XM_109
+#EXTINF:-1 tvg-id="8XM.pk@SD" tvg-name="8XM_108" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/8xm.png" channel-id="8XM.pk@SD" tvg-country="PK" tvg-language="urd" group-title="Back channel",8XM_108
 https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
-#EXTINF:-1 tvg-id="9XJalwa.in" tvg-name="9X Jalwa_110" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/jalwa.png" channel-id="9XJalwa.in" tvg-country="IN" tvg-language="hin" group-title="Back channel",9X Jalwa_110
+#EXTINF:-1 tvg-id="9XJalwa.in" tvg-name="9X Jalwa_109" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/jalwa.png" channel-id="9XJalwa.in" tvg-country="IN" tvg-language="hin" group-title="Back channel",9X Jalwa_109
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/70fca4d1-156e-4c03-baa4-9a4b602e33d5/0.m3u8
-#EXTINF:-1 tvg-id="9XJalwa.in" tvg-name="9X Jalwa_111" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/jalwa.png" channel-id="9XJalwa.in" tvg-country="IN" tvg-language="hin" group-title="Back channel",9X Jalwa_111
+#EXTINF:-1 tvg-id="9XJalwa.in" tvg-name="9X Jalwa_110" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/jalwa.png" channel-id="9XJalwa.in" tvg-country="IN" tvg-language="hin" group-title="Back channel",9X Jalwa_110
 https://fta.ektv.in/live/161/master.m3u8
-#EXTINF:-1 tvg-id="9XJalwa.in" tvg-name="9X Jalwa_112" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/jalwa.png" channel-id="9XJalwa.in" tvg-country="IN" tvg-language="hin" group-title="Back channel",9X Jalwa_112
+#EXTINF:-1 tvg-id="9XJalwa.in" tvg-name="9X Jalwa_111" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/jalwa.png" channel-id="9XJalwa.in" tvg-country="IN" tvg-language="hin" group-title="Back channel",9X Jalwa_111
 https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8
-#EXTINF:-1 tvg-id="9XJalwa.in" tvg-name="9X Jalwa_113" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/jalwa.png" channel-id="9XJalwa.in" tvg-country="IN" tvg-language="hin" group-title="Back channel",9X Jalwa_113
+#EXTINF:-1 tvg-id="9XJalwa.in" tvg-name="9X Jalwa_112" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/jalwa.png" channel-id="9XJalwa.in" tvg-country="IN" tvg-language="hin" group-title="Back channel",9X Jalwa_112
 https://tvsen6.aynaott.com/CiPT1VTG8bVekeAZiibd/index.m3u8
-#EXTINF:-1 tvg-id="9XJhakaas.in@SD" tvg-name="9X Jhakaas_114" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/9x-jhakaas.png" channel-id="9XJhakaas.in@SD" tvg-country="IN" tvg-language="mar" group-title="Back channel",9X Jhakaas_114
+#EXTINF:-1 tvg-id="9XJhakaas.in@SD" tvg-name="9X Jhakaas_113" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/9x-jhakaas.png" channel-id="9XJhakaas.in@SD" tvg-country="IN" tvg-language="mar" group-title="Back channel",9X Jhakaas_113
 https://cdn.pishow.tv/ott/live/6/master.m3u8
-#EXTINF:-1 tvg-id="9XTashan.in@SD" tvg-name="9X Tashan_115" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/9x-tashan.png" channel-id="9XTashan.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",9X Tashan_115
+#EXTINF:-1 tvg-id="9XTashan.in@SD" tvg-name="9X Tashan_114" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/9x-tashan.png" channel-id="9XTashan.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",9X Tashan_114
 https://cdn.pishow.tv/ott/live/1613/master.m3u8
-#EXTINF:-1 tvg-id="9XTashan.in@SD" tvg-name="9X Tashan_116" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/9x-tashan.png" channel-id="9XTashan.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",9X Tashan_116
+#EXTINF:-1 tvg-id="9XTashan.in@SD" tvg-name="9X Tashan_115" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/9x-tashan.png" channel-id="9XTashan.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",9X Tashan_115
 https://fta.ektv.in/live/178/master.m3u8
-#EXTINF:-1 tvg-id="9XTashan.in@SD" tvg-name="9X Tashan_117" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/9x-tashan.png" channel-id="9XTashan.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",9X Tashan_117
+#EXTINF:-1 tvg-id="9XTashan.in@SD" tvg-name="9X Tashan_116" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/9x-tashan.png" channel-id="9XTashan.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",9X Tashan_116
 https://mumt01.tangotv.in/O5aw8Zn39XTASHAN/index.m3u8
-#EXTINF:-1 tvg-id="9XTashan.in@SD" tvg-name="9X Tashan_118" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/9x-tashan.png" channel-id="9XTashan.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",9X Tashan_118
+#EXTINF:-1 tvg-id="9XTashan.in@SD" tvg-name="9X Tashan_117" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/9x-tashan.png" channel-id="9XTashan.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",9X Tashan_117
 https://streams.tangotv.in/9XTASHAN/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="9XM.in@SD" tvg-name="9XM_119" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/9xm.png" channel-id="9XM.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",9XM_119
+#EXTINF:-1 tvg-id="9XM.in@SD" tvg-name="9XM_118" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/9xm.png" channel-id="9XM.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",9XM_118
 https://fta.ektv.in/live/155/master.m3u8
-#EXTINF:-1 tvg-id="9XM.in@SD" tvg-name="9XM_120" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/9xm.png" channel-id="9XM.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",9XM_120
+#EXTINF:-1 tvg-id="9XM.in@SD" tvg-name="9XM_119" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/9xm.png" channel-id="9XM.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",9XM_119
 https://streams.tangotv.in/9XM/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="9XM.in@SD" tvg-name="9XM_121" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/9xm.png" channel-id="9XM.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",9XM_121
+#EXTINF:-1 tvg-id="9XM.in@SD" tvg-name="9XM_120" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/9xm.png" channel-id="9XM.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",9XM_120
 https://wiselp.wiseplayout.com/9XM/HD1080/HD1080.m3u8
-#EXTINF:-1 tvg-id="9XM.in@SD" tvg-name="9XM_122" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/9xm.png" channel-id="9XM.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",9XM_122
+#EXTINF:-1 tvg-id="9XM.in@SD" tvg-name="9XM_121" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/9xm.png" channel-id="9XM.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",9XM_121
 https://wiselp.wiseplayout.com/9XM/master.m3u8
-#EXTINF:-1 tvg-id="9XM.in@SD" tvg-name="9XM_123" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/9xm.png" channel-id="9XM.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",9XM_123
+#EXTINF:-1 tvg-id="9XM.in@SD" tvg-name="9XM_122" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/9xm.png" channel-id="9XM.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",9XM_122
 https://streams.tangotv.in/9XM/ORIGIN/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="AakaashAath.in@SD" tvg-name="Aakaash Aath_124" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/aakaash-aath.png" channel-id="AakaashAath.in@SD" tvg-country="IN" tvg-language="ben" group-title="Back channel",Aakaash Aath_124
+#EXTINF:-1 tvg-id="AakaashAath.in@SD" tvg-name="Aakaash Aath_123" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/aakaash-aath.png" channel-id="AakaashAath.in@SD" tvg-country="IN" tvg-language="ben" group-title="Back channel",Aakaash Aath_123
 https://cdn.pishow.tv/ott/live/969/master.m3u8
-#EXTINF:-1 tvg-id="AakaashAath.in@SD" tvg-name="Aakaash Aath_125" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/aakaash-aath.png" channel-id="AakaashAath.in@SD" tvg-country="IN" tvg-language="ben" group-title="Back channel",Aakaash Aath_125
+#EXTINF:-1 tvg-id="AakaashAath.in@SD" tvg-name="Aakaash Aath_124" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/aakaash-aath.png" channel-id="AakaashAath.in@SD" tvg-country="IN" tvg-language="ben" group-title="Back channel",Aakaash Aath_124
 https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8
-#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-name="Al Quran Al Kareem TV_126" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/al-quran-al-kareem-tv.png" channel-id="AlQuranAlKareemTV.sa" tvg-country="SA" tvg-language="ara" group-title="Back channel",Al Quran Al Kareem TV_126
+#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-name="Al Quran Al Kareem TV_125" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/al-quran-al-kareem-tv.png" channel-id="AlQuranAlKareemTV.sa" tvg-country="SA" tvg-language="ara" group-title="Back channel",Al Quran Al Kareem TV_125
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
-#EXTINF:-1 tvg-id="AllTimeMovies.in@SD" tvg-name="All Time Movies_127" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/all-time-movies.png" channel-id="AllTimeMovies.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",All Time Movies_127
+#EXTINF:-1 tvg-id="AllTimeMovies.in@SD" tvg-name="All Time Movies_126" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/all-time-movies.png" channel-id="AllTimeMovies.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",All Time Movies_126
 https://fta.ektv.in/live/54/54_0.m3u8
-#EXTINF:-1 channel-id="AamarBangla.in" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/amar-bangla.png" tvg-id="AamarBangla.in" tvg-name="Amar Bangla_128" tvg-language="ben" tvg-country="IN" group-title="Back channel",Amar Bangla_128
+#EXTINF:-1 channel-id="AamarBangla.in" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/amar-bangla.png" tvg-id="AamarBangla.in" tvg-name="Amar Bangla_127" tvg-language="ben" tvg-country="IN" group-title="Back channel",Amar Bangla_127
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="AmarBanglaDigital.in" tvg-name="Amar Bangla Digital_129" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/amar-bangla-digital.png" channel-id="AmarBanglaDigital.in" tvg-country="IN" tvg-language="ben" group-title="Back channel",Amar Bangla Digital_129
+#EXTINF:-1 tvg-id="AmarBanglaDigital.in" tvg-name="Amar Bangla Digital_128" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/amar-bangla-digital.png" channel-id="AmarBanglaDigital.in" tvg-country="IN" tvg-language="ben" group-title="Back channel",Amar Bangla Digital_128
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/amardigital.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="AmarBanglaDigital.in" tvg-name="Amar Bangla Digital_130" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/amar-bangla-digital.png" channel-id="AmarBanglaDigital.in" tvg-country="IN" tvg-language="ben" group-title="Back channel",Amar Bangla Digital_130
+#EXTINF:-1 tvg-id="AmarBanglaDigital.in" tvg-name="Amar Bangla Digital_129" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/amar-bangla-digital.png" channel-id="AmarBanglaDigital.in" tvg-country="IN" tvg-language="ben" group-title="Back channel",Amar Bangla Digital_129
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/live-orgin/amarbanglatv.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="AmritaTV.in@SD" tvg-name="Amrita TV_131" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/amrita-tv.png" channel-id="AmritaTV.in@SD" tvg-country="IN" tvg-language="mal" group-title="Back channel",Amrita TV_131
+#EXTINF:-1 tvg-id="AmritaTV.in@SD" tvg-name="Amrita TV_130" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/amrita-tv.png" channel-id="AmritaTV.in@SD" tvg-country="IN" tvg-language="mal" group-title="Back channel",Amrita TV_130
 https://ddash74r36xqp.cloudfront.net/master_2000.m3u8
-#EXTINF:-1 tvg-id="AmritaTV.in@SD" tvg-name="Amrita TV_132" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/amrita-tv.png" channel-id="AmritaTV.in@SD" tvg-country="IN" tvg-language="mal" group-title="Back channel",Amrita TV_132
+#EXTINF:-1 tvg-id="AmritaTV.in@SD" tvg-name="Amrita TV_131" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/amrita-tv.png" channel-id="AmritaTV.in@SD" tvg-country="IN" tvg-language="mal" group-title="Back channel",Amrita TV_131
 https://mumt07.tangotv.in/zHjX9OFlAMRITATV/index.m3u8
-#EXTINF:-1 tvg-id="AnandTV.in@SD" tvg-name="Anand TV_133" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/anand-tv.png" channel-id="AnandTV.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Anand TV_133
+#EXTINF:-1 tvg-id="AnandTV.in@SD" tvg-name="Anand TV_132" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/anand-tv.png" channel-id="AnandTV.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Anand TV_132
 https://fta.ektv.in/live/770/master.m3u8
-#EXTINF:-1 tvg-id="AnandaTV.bd" tvg-name="Ananda TV_134" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ananda-tv.png" channel-id="AnandaTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Ananda TV_134
+#EXTINF:-1 tvg-id="AnandaTV.bd" tvg-name="Ananda TV_133" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ananda-tv.png" channel-id="AnandaTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Ananda TV_133
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="AnandaTV.bd" tvg-name="Ananda TV_135" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ananda-tv.png" channel-id="AnandaTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Ananda TV_135
+#EXTINF:-1 tvg-id="AnandaTV.bd" tvg-name="Ananda TV_134" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ananda-tv.png" channel-id="AnandaTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Ananda TV_134
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="AnandaTV.bd" tvg-name="Ananda TV_136" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ananda-tv.png" channel-id="AnandaTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Ananda TV_136
+#EXTINF:-1 tvg-id="AnandaTV.bd" tvg-name="Ananda TV_135" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ananda-tv.png" channel-id="AnandaTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Ananda TV_135
 https://playztv-apps.pages.dev/ananda-tv/index.m3u8
-#EXTINF:-1 tvg-id="AnandaTV.bd" tvg-name="Ananda TV_137" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ananda-tv.png" channel-id="AnandaTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Ananda TV_137
+#EXTINF:-1 tvg-id="AnandaTV.bd" tvg-name="Ananda TV_136" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ananda-tv.png" channel-id="AnandaTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Ananda TV_136
 https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
-#EXTINF:-1 tvg-id="AnandaTV.bd" tvg-name="Ananda TV_138" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ananda-tv.png" channel-id="AnandaTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Ananda TV_138
+#EXTINF:-1 tvg-id="AnandaTV.bd" tvg-name="Ananda TV_137" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ananda-tv.png" channel-id="AnandaTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Ananda TV_137
 http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet.in@SD" tvg-name="Animal Planet HD_139" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/animal-planet.png" channel-id="AnimalPlanet.in@SD" tvg-country="IN" tvg-language="eng;hin;tam" group-title="Back channel",Animal Planet HD_139
+#EXTINF:-1 tvg-id="AnimalPlanet.in@SD" tvg-name="Animal Planet HD_138" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/animal-planet.png" channel-id="AnimalPlanet.in@SD" tvg-country="IN" tvg-language="eng;hin;tam" group-title="Back channel",Animal Planet HD_138
 https://vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
-#EXTINF:-1 tvg-id="AnjanTV.in@SD" tvg-name="Anjan TV_140" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/anjan-tv.png" channel-id="AnjanTV.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Anjan TV_140
+#EXTINF:-1 tvg-id="AnjanTV.in@SD" tvg-name="Anjan TV_139" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/anjan-tv.png" channel-id="AnjanTV.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Anjan TV_139
 https://anjan.vstream.online/anjanorg/ngrp:anjan_hdall/playlist.m3u8
-#EXTINF:-1 tvg-id="AnjanTV.in@SD" tvg-name="Anjan TV_141" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/anjan-tv.png" channel-id="AnjanTV.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Anjan TV_141
+#EXTINF:-1 tvg-id="AnjanTV.in@SD" tvg-name="Anjan TV_140" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/anjan-tv.png" channel-id="AnjanTV.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Anjan TV_140
 https://mumt06.tangotv.in/qYyB8fXVANJANTV/index.m3u8
-#EXTINF:-1 tvg-id="AsianTV.bd" tvg-name="Asian TV_142" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/asian-tv.png" channel-id="AsianTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Asian TV_142
+#EXTINF:-1 tvg-id="AsianTV.bd" tvg-name="Asian TV_141" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/asian-tv.png" channel-id="AsianTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Asian TV_141
 https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8
-#EXTINF:-1 tvg-id="Asianet.in" tvg-name="Asianet_143" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/asianet-576p.png" channel-id="Asianet.in" tvg-country="IN" tvg-language="mal" group-title="Back channel",Asianet_143
+#EXTINF:-1 tvg-id="Asianet.in" tvg-name="Asianet_142" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/asianet-576p.png" channel-id="Asianet.in" tvg-country="IN" tvg-language="mal" group-title="Back channel",Asianet_142
 https://listas-m3u8.github.io/iptv/128.19.173.10:8888/ASIANETHD.m3u8
-#EXTINF:-1 tvg-id="AsianetMiddleEast.in@SD" tvg-name="Asianet Middle East_144" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/asianet-middle-east-576p.png" channel-id="AsianetMiddleEast.in@SD" tvg-country="IN" tvg-language="mal" group-title="Back channel",Asianet Middle East_144
+#EXTINF:-1 tvg-id="AsianetMiddleEast.in@SD" tvg-name="Asianet Middle East_143" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/asianet-middle-east-576p.png" channel-id="AsianetMiddleEast.in@SD" tvg-country="IN" tvg-language="mal" group-title="Back channel",Asianet Middle East_143
 https://fta.ektv.in/live/697/master.m3u8
-#EXTINF:-1 tvg-id="ATNBangla.bd" tvg-name="ATN Bangla_145" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/atn-bangla.png" channel-id="ATNBangla.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",ATN Bangla_145
+#EXTINF:-1 tvg-id="ATNBangla.bd" tvg-name="ATN Bangla_144" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/atn-bangla.png" channel-id="ATNBangla.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",ATN Bangla_144
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnbd-8-org.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ATNBangla.bd" tvg-name="ATN Bangla_146" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/atn-bangla.png" channel-id="ATNBangla.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",ATN Bangla_146
+#EXTINF:-1 tvg-id="ATNBangla.bd" tvg-name="ATN Bangla_145" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/atn-bangla.png" channel-id="ATNBangla.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",ATN Bangla_145
 https://iptvlive.ahmed-bd-org.workers.dev/atn-bangla-1/index.m3u8
-#EXTINF:-1 tvg-id="ATNBangla.bd" tvg-name="ATN Bangla_147" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/atn-bangla.png" channel-id="ATNBangla.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",ATN Bangla_147
+#EXTINF:-1 tvg-id="ATNBangla.bd" tvg-name="ATN Bangla_146" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/atn-bangla.png" channel-id="ATNBangla.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",ATN Bangla_146
 https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8
-#EXTINF:-1 tvg-id="ATNBanglaUK.uk" tvg-name="ATN Bangla UK_148" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/atn-bangla-uk.png" channel-id="ATNBanglaUK.uk" tvg-country="GB" tvg-language="ben" group-title="Back channel",ATN Bangla UK_148
+#EXTINF:-1 tvg-id="ATNBanglaUK.uk" tvg-name="ATN Bangla UK_147" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/atn-bangla-uk.png" channel-id="ATNBanglaUK.uk" tvg-country="GB" tvg-language="ben" group-title="Back channel",ATN Bangla UK_147
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ATNBanglaUK.uk" tvg-name="ATN Bangla UK_149" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/atn-bangla-uk.png" channel-id="ATNBanglaUK.uk" tvg-country="GB" tvg-language="ben" group-title="Back channel",ATN Bangla UK_149
+#EXTINF:-1 tvg-id="ATNBanglaUK.uk" tvg-name="ATN Bangla UK_148" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/atn-bangla-uk.png" channel-id="ATNBanglaUK.uk" tvg-country="GB" tvg-language="ben" group-title="Back channel",ATN Bangla UK_148
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ATNNews.bd" tvg-name="ATN News_150" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/atn-news-e0442addb4.png" channel-id="ATNNews.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",ATN News_150
+#EXTINF:-1 tvg-id="ATNNews.bd" tvg-name="ATN News_149" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/atn-news-e0442addb4.png" channel-id="ATNNews.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",ATN News_149
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnws-sg.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ATNNews.bd" tvg-name="ATN News_151" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/atn-news-e0442addb4.png" channel-id="ATNNews.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",ATN News_151
+#EXTINF:-1 tvg-id="ATNNews.bd" tvg-name="ATN News_150" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/atn-news-e0442addb4.png" channel-id="ATNNews.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",ATN News_150
 https://iptv-proxy.ahmed-bd-org.workers.dev/atn-news/index.m3u8
-#EXTINF:-1 tvg-id="ATNNews.bd" tvg-name="ATN News_152" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/atn-news-e0442addb4.png" channel-id="ATNNews.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",ATN News_152
+#EXTINF:-1 tvg-id="ATNNews.bd" tvg-name="ATN News_151" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/atn-news-e0442addb4.png" channel-id="ATNNews.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",ATN News_151
 https://tvsen6.aynaott.com/da6WMXAk/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="custom.azantv" tvg-name="Azan TV_153" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/azan-tv-15e8ac79.png" channel-id="custom.azantv" tvg-country="BD" tvg-language="ben" group-title="Back channel",Azan TV_153
+#EXTINF:-1 tvg-id="custom.azantv" tvg-name="Azan TV_152" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/azan-tv-15e8ac79.png" channel-id="custom.azantv" tvg-country="BD" tvg-language="ben" group-title="Back channel",Azan TV_152
 https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
-#EXTINF:-1 tvg-id="B4UKadak.in@SD" tvg-name="B4U Kadak_154" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/b4u-kadak.png" channel-id="B4UKadak.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",B4U Kadak_154
+#EXTINF:-1 tvg-id="B4UKadak.in@SD" tvg-name="B4U Kadak_153" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/b4u-kadak.png" channel-id="B4UKadak.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",B4U Kadak_153
 http://163.61.226.31:9981/stream/channelid/282021969?profile=pass
-#EXTINF:-1 tvg-id="B4UKadak.in@SD" tvg-name="B4U Kadak_155" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/b4u-kadak.png" channel-id="B4UKadak.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",B4U Kadak_155
+#EXTINF:-1 tvg-id="B4UKadak.in@SD" tvg-name="B4U Kadak_154" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/b4u-kadak.png" channel-id="B4UKadak.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",B4U Kadak_154
 https://cdn.pishow.tv/ott/live/227/master.m3u8
-#EXTINF:-1 tvg-id="B4UKadak.in@SD" tvg-name="B4U Kadak_156" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/b4u-kadak.png" channel-id="B4UKadak.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",B4U Kadak_156
+#EXTINF:-1 tvg-id="B4UKadak.in@SD" tvg-name="B4U Kadak_155" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/b4u-kadak.png" channel-id="B4UKadak.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",B4U Kadak_155
 https://fta.ektv.in/live/44/44_0.m3u8
-#EXTINF:-1 tvg-id="B4UKadak.in@SD" tvg-name="B4U Kadak_157" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/b4u-kadak.png" channel-id="B4UKadak.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",B4U Kadak_157
+#EXTINF:-1 tvg-id="B4UKadak.in@SD" tvg-name="B4U Kadak_156" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/b4u-kadak.png" channel-id="B4UKadak.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",B4U Kadak_156
 https://mumt06.tangotv.in/qYyB8fXVB4UKADAK/index.m3u8
-#EXTINF:-1 tvg-id="B4UKadak.in@SD" tvg-name="B4U Kadak_158" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/b4u-kadak.png" channel-id="B4UKadak.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",B4U Kadak_158
+#EXTINF:-1 tvg-id="B4UKadak.in@SD" tvg-name="B4U Kadak_157" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/b4u-kadak.png" channel-id="B4UKadak.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",B4U Kadak_157
 https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-name="B4U Movies_159" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/b4u-movies.png" channel-id="B4UMovies.in@India" tvg-country="IN" tvg-language="hin" group-title="Back channel",B4U Movies_159
+#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-name="B4U Movies_158" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/b4u-movies.png" channel-id="B4UMovies.in@India" tvg-country="IN" tvg-language="hin" group-title="Back channel",B4U Movies_158
 http://163.61.226.31:9981/stream/channelid/1547127176?profile=pass
-#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-name="B4U Movies_160" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/b4u-movies.png" channel-id="B4UMovies.in@India" tvg-country="IN" tvg-language="hin" group-title="Back channel",B4U Movies_160
+#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-name="B4U Movies_159" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/b4u-movies.png" channel-id="B4UMovies.in@India" tvg-country="IN" tvg-language="hin" group-title="Back channel",B4U Movies_159
 https://cdn.pishow.tv/ott/live/419/master.m3u8
-#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-name="B4U Movies_161" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/b4u-movies.png" channel-id="B4UMovies.in@India" tvg-country="IN" tvg-language="hin" group-title="Back channel",B4U Movies_161
+#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-name="B4U Movies_160" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/b4u-movies.png" channel-id="B4UMovies.in@India" tvg-country="IN" tvg-language="hin" group-title="Back channel",B4U Movies_160
 https://fta.ektv.in/live/43/43_0.m3u8
-#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-name="B4U Movies_162" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/b4u-movies.png" channel-id="B4UMovies.in@India" tvg-country="IN" tvg-language="hin" group-title="Back channel",B4U Movies_162
+#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-name="B4U Movies_161" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/b4u-movies.png" channel-id="B4UMovies.in@India" tvg-country="IN" tvg-language="hin" group-title="Back channel",B4U Movies_161
 https://mumt06.tangotv.in/qYyB8fXVB4UMOVIES/index.m3u8
-#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-name="B4U Movies_163" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/b4u-movies.png" channel-id="B4UMovies.in@India" tvg-country="IN" tvg-language="hin" group-title="Back channel",B4U Movies_163
+#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-name="B4U Movies_162" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/b4u-movies.png" channel-id="B4UMovies.in@India" tvg-country="IN" tvg-language="hin" group-title="Back channel",B4U Movies_162
 https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="B4UMusic.in@India" tvg-name="B4U Music_164" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/b4u-music.png" channel-id="B4UMusic.in@India" tvg-country="IN" tvg-language="hin" group-title="Back channel",B4U Music_164
+#EXTINF:-1 tvg-id="B4UMusic.in@India" tvg-name="B4U Music_163" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/b4u-music.png" channel-id="B4UMusic.in@India" tvg-country="IN" tvg-language="hin" group-title="Back channel",B4U Music_163
 http://103.175.73.12:8080/live/157/master.m3u8
-#EXTINF:-1 tvg-id="B4UMusic.in@India" tvg-name="B4U Music_165" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/b4u-music.png" channel-id="B4UMusic.in@India" tvg-country="IN" tvg-language="hin" group-title="Back channel",B4U Music_165
+#EXTINF:-1 tvg-id="B4UMusic.in@India" tvg-name="B4U Music_164" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/b4u-music.png" channel-id="B4UMusic.in@India" tvg-country="IN" tvg-language="hin" group-title="Back channel",B4U Music_164
 http://163.61.226.31:9981/stream/channelid/494430938?profile=pass
-#EXTINF:-1 tvg-id="B4UMusic.in@India" tvg-name="B4U Music_166" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/b4u-music.png" channel-id="B4UMusic.in@India" tvg-country="IN" tvg-language="hin" group-title="Back channel",B4U Music_166
+#EXTINF:-1 tvg-id="B4UMusic.in@India" tvg-name="B4U Music_165" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/b4u-music.png" channel-id="B4UMusic.in@India" tvg-country="IN" tvg-language="hin" group-title="Back channel",B4U Music_165
 https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3u8
-#EXTINF:-1 tvg-id="B4UMusic.in@India" tvg-name="B4U Music_167" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/b4u-music.png" channel-id="B4UMusic.in@India" tvg-country="IN" tvg-language="hin" group-title="Back channel",B4U Music_167
+#EXTINF:-1 tvg-id="B4UMusic.in@India" tvg-name="B4U Music_166" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/b4u-music.png" channel-id="B4UMusic.in@India" tvg-country="IN" tvg-language="hin" group-title="Back channel",B4U Music_166
 https://cdn.pishow.tv/ott/live/415/master.m3u8
-#EXTINF:-1 tvg-id="B4UMusic.in@India" tvg-name="B4U Music_168" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/b4u-music.png" channel-id="B4UMusic.in@India" tvg-country="IN" tvg-language="hin" group-title="Back channel",B4U Music_168
+#EXTINF:-1 tvg-id="B4UMusic.in@India" tvg-name="B4U Music_167" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/b4u-music.png" channel-id="B4UMusic.in@India" tvg-country="IN" tvg-language="hin" group-title="Back channel",B4U Music_167
 https://fta.ektv.in/live/157/master.m3u8
-#EXTINF:-1 tvg-id="B4UMusic.in@India" tvg-name="B4U Music_169" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/b4u-music.png" channel-id="B4UMusic.in@India" tvg-country="IN" tvg-language="hin" group-title="Back channel",B4U Music_169
+#EXTINF:-1 tvg-id="B4UMusic.in@India" tvg-name="B4U Music_168" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/b4u-music.png" channel-id="B4UMusic.in@India" tvg-country="IN" tvg-language="hin" group-title="Back channel",B4U Music_168
 https://mumt04.tangotv.in/m18aqlK4B4UMUSIC/index.m3u8
-#EXTINF:-1 tvg-id="B4UMusic.in@India" tvg-name="B4U Music_170" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/b4u-music.png" channel-id="B4UMusic.in@India" tvg-country="IN" tvg-language="hin" group-title="Back channel",B4U Music_170
+#EXTINF:-1 tvg-id="B4UMusic.in@India" tvg-name="B4U Music_169" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/b4u-music.png" channel-id="B4UMusic.in@India" tvg-country="IN" tvg-language="hin" group-title="Back channel",B4U Music_169
 https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/720p/index.m3u8
-#EXTINF:-1 tvg-id="BahrainSports2.bh@SD" tvg-name="Bahrain Sports 2_171" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/bahrain-sports-2.png" channel-id="BahrainSports2.bh@SD" tvg-country="BH" tvg-language="eng" group-title="Back channel",Bahrain Sports 2_171
+#EXTINF:-1 tvg-id="BahrainSports2.bh@SD" tvg-name="Bahrain Sports 2_170" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/bahrain-sports-2.png" channel-id="BahrainSports2.bh@SD" tvg-country="BH" tvg-language="eng" group-title="Back channel",Bahrain Sports 2_170
 https://tvsen6.aynaott.com/BahrainSports2/index.m3u8
-#EXTINF:-1 tvg-id="BalleBalle.in@SD" tvg-name="Balle Balle_172" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/balle-balle.png" channel-id="BalleBalle.in@SD" tvg-country="IN" tvg-language="pan" group-title="Back channel",Balle Balle_172
+#EXTINF:-1 tvg-id="BalleBalle.in@SD" tvg-name="Balle Balle_171" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/balle-balle.png" channel-id="BalleBalle.in@SD" tvg-country="IN" tvg-language="pan" group-title="Back channel",Balle Balle_171
 https://cdn.pishow.tv/ott/live/987/master.m3u8
-#EXTINF:-1 tvg-id="BalleBalle.in@SD" tvg-name="Balle Balle_173" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/balle-balle.png" channel-id="BalleBalle.in@SD" tvg-country="IN" tvg-language="pan" group-title="Back channel",Balle Balle_173
+#EXTINF:-1 tvg-id="BalleBalle.in@SD" tvg-name="Balle Balle_172" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/balle-balle.png" channel-id="BalleBalle.in@SD" tvg-country="IN" tvg-language="pan" group-title="Back channel",Balle Balle_172
 https://fta.ektv.in/live/365/master.m3u8
-#EXTINF:-1 tvg-id="BalleBalle.in@SD" tvg-name="Balle Balle_174" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/balle-balle.png" channel-id="BalleBalle.in@SD" tvg-country="IN" tvg-language="pan" group-title="Back channel",Balle Balle_174
+#EXTINF:-1 tvg-id="BalleBalle.in@SD" tvg-name="Balle Balle_173" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/balle-balle.png" channel-id="BalleBalle.in@SD" tvg-country="IN" tvg-language="pan" group-title="Back channel",Balle Balle_173
 https://mcncdndigital.com/worldpunjabitv/index.m3u8
-#EXTINF:-1 tvg-id="BalleBalle.in@SD" tvg-name="Balle Balle_175" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/balle-balle.png" channel-id="BalleBalle.in@SD" tvg-country="IN" tvg-language="pan" group-title="Back channel",Balle Balle_175
+#EXTINF:-1 tvg-id="BalleBalle.in@SD" tvg-name="Balle Balle_174" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/balle-balle.png" channel-id="BalleBalle.in@SD" tvg-country="IN" tvg-language="pan" group-title="Back channel",Balle Balle_174
 https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8
-#EXTINF:-1 tvg-id="BalleBalle.in@SD" tvg-name="Balle Balle_176" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/balle-balle.png" channel-id="BalleBalle.in@SD" tvg-country="IN" tvg-language="pan" group-title="Back channel",Balle Balle_176
+#EXTINF:-1 tvg-id="BalleBalle.in@SD" tvg-name="Balle Balle_175" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/balle-balle.png" channel-id="BalleBalle.in@SD" tvg-country="IN" tvg-language="pan" group-title="Back channel",Balle Balle_175
 https://streams.tangotv.in/BALLEBALLE/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="BanglaTV.bd" tvg-name="Bangla TV_177" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/bangla-tv-9e5f3366c8.png" channel-id="BanglaTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Bangla TV_177
+#EXTINF:-1 tvg-id="BanglaTV.bd" tvg-name="Bangla TV_176" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/bangla-tv-9e5f3366c8.png" channel-id="BanglaTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Bangla TV_176
 http://116.204.149.16/banglatv/index.m3u8
-#EXTINF:-1 tvg-id="BanglaTV.bd" tvg-name="Bangla TV_178" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/bangla-tv-9e5f3366c8.png" channel-id="BanglaTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Bangla TV_178
+#EXTINF:-1 tvg-id="BanglaTV.bd" tvg-name="Bangla TV_177" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/bangla-tv-9e5f3366c8.png" channel-id="BanglaTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Bangla TV_177
 https://cdn.ghuddi.live/tvapp/Bangla_TV_BD_New/playlist.m3u8|Referer=https://ghuddi.tv/
-#EXTINF:-1 tvg-id="BanglaTV.bd" tvg-name="Bangla TV_179" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/bangla-tv-9e5f3366c8.png" channel-id="BanglaTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Bangla TV_179
+#EXTINF:-1 tvg-id="BanglaTV.bd" tvg-name="Bangla TV_178" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/bangla-tv-9e5f3366c8.png" channel-id="BanglaTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Bangla TV_178
 https://iptvlive.ahmed-bd-org.workers.dev/bangla-tv-2/index.m3u8
-#EXTINF:-1 tvg-id="BanglaTV.bd" tvg-name="Bangla TV_180" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/bangla-tv-9e5f3366c8.png" channel-id="BanglaTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Bangla TV_180
+#EXTINF:-1 tvg-id="BanglaTV.bd" tvg-name="Bangla TV_179" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/bangla-tv-9e5f3366c8.png" channel-id="BanglaTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Bangla TV_179
 https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="BanglaTV.bd" tvg-name="Bangla TV_181" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/bangla-tv-9e5f3366c8.png" channel-id="BanglaTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Bangla TV_181
+#EXTINF:-1 tvg-id="BanglaTV.bd" tvg-name="Bangla TV_180" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/bangla-tv-9e5f3366c8.png" channel-id="BanglaTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Bangla TV_180
 http://116.204.149.16/banglatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="BanglaVision.bd" tvg-name="Bangla Vision_182" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/banglavision.png" channel-id="BanglaVision.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Bangla Vision_182
+#EXTINF:-1 tvg-id="BanglaVision.bd" tvg-name="Bangla Vision_181" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/banglavision.png" channel-id="BanglaVision.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Bangla Vision_181
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/banglav000.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="BanglaVision.bd" tvg-name="Bangla Vision_183" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/banglavision.png" channel-id="BanglaVision.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Bangla Vision_183
+#EXTINF:-1 tvg-id="BanglaVision.bd" tvg-name="Bangla Vision_182" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/banglavision.png" channel-id="BanglaVision.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Bangla Vision_182
 https://iptvlive.ahmed-bd-org.workers.dev/banglavision-1/index.m3u8
-#EXTINF:-1 tvg-id="BanglaVision.bd" tvg-name="Bangla Vision_184" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/banglavision.png" channel-id="BanglaVision.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Bangla Vision_184
+#EXTINF:-1 tvg-id="BanglaVision.bd" tvg-name="Bangla Vision_183" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/banglavision.png" channel-id="BanglaVision.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Bangla Vision_183
 https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8
-#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-name="beIN SPORTS XTRA_185" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/bein-sports-xtra.png" channel-id="beINSPORTSXTRA.us" tvg-country="US" tvg-language="eng" group-title="Back channel",beIN SPORTS XTRA_185
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-name="beIN SPORTS XTRA_184" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/bein-sports-xtra.png" channel-id="beINSPORTSXTRA.us" tvg-country="US" tvg-language="eng" group-title="Back channel",beIN SPORTS XTRA_184
 https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-name="beIN SPORTS XTRA_186" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/bein-sports-xtra.png" channel-id="beINSPORTSXTRA.us" tvg-country="US" tvg-language="eng" group-title="Back channel",beIN SPORTS XTRA_186
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-name="beIN SPORTS XTRA_185" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/bein-sports-xtra.png" channel-id="beINSPORTSXTRA.us" tvg-country="US" tvg-language="eng" group-title="Back channel",beIN SPORTS XTRA_185
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
-#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-name="beIN SPORTS XTRA_187" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/bein-sports-xtra.png" channel-id="beINSPORTSXTRA.us" tvg-country="US" tvg-language="eng" group-title="Back channel",beIN SPORTS XTRA_187
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-name="beIN SPORTS XTRA_186" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/bein-sports-xtra.png" channel-id="beINSPORTSXTRA.us" tvg-country="US" tvg-language="eng" group-title="Back channel",beIN SPORTS XTRA_186
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-name="beIN SPORTS XTRA_188" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/bein-sports-xtra.png" channel-id="beINSPORTSXTRA.us" tvg-country="US" tvg-language="eng" group-title="Back channel",beIN SPORTS XTRA_188
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-name="beIN SPORTS XTRA_187" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/bein-sports-xtra.png" channel-id="beINSPORTSXTRA.us" tvg-country="US" tvg-language="eng" group-title="Back channel",beIN SPORTS XTRA_187
 https://d9ssxzmclhfo4.cloudfront.net/bein_sports.m3u8
-#EXTINF:-1 tvg-id="BhojpuriCinema.in@SD" tvg-name="Bhojpuri Cinema_189" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/bhojpuri-cinema.png" channel-id="BhojpuriCinema.in@SD" tvg-country="IN" tvg-language="bho" group-title="Back channel",Bhojpuri Cinema_189
+#EXTINF:-1 tvg-id="BhojpuriCinema.in@SD" tvg-name="Bhojpuri Cinema_188" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/bhojpuri-cinema.png" channel-id="BhojpuriCinema.in@SD" tvg-country="IN" tvg-language="bho" group-title="Back channel",Bhojpuri Cinema_188
 https://cdn.pishow.tv/ott/live/1033/master.m3u8
-#EXTINF:-1 tvg-id="BhojpuriCinema.in@SD" tvg-name="Bhojpuri Cinema_190" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/bhojpuri-cinema.png" channel-id="BhojpuriCinema.in@SD" tvg-country="IN" tvg-language="bho" group-title="Back channel",Bhojpuri Cinema_190
+#EXTINF:-1 tvg-id="BhojpuriCinema.in@SD" tvg-name="Bhojpuri Cinema_189" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/bhojpuri-cinema.png" channel-id="BhojpuriCinema.in@SD" tvg-country="IN" tvg-language="bho" group-title="Back channel",Bhojpuri Cinema_189
 https://fta.ektv.in/live/646/master.m3u8
-#EXTINF:-1 tvg-id="BhojpuriCinema.in@SD" tvg-name="Bhojpuri Cinema_191" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/bhojpuri-cinema.png" channel-id="BhojpuriCinema.in@SD" tvg-country="IN" tvg-language="bho" group-title="Back channel",Bhojpuri Cinema_191
+#EXTINF:-1 tvg-id="BhojpuriCinema.in@SD" tvg-name="Bhojpuri Cinema_190" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/bhojpuri-cinema.png" channel-id="BhojpuriCinema.in@SD" tvg-country="IN" tvg-language="bho" group-title="Back channel",Bhojpuri Cinema_190
 https://iptvlive.ahmed-bd-org.workers.dev/bhojpuri-cinema-1/index.m3u8
-#EXTINF:-1 tvg-id="BhojpuriCinema.in@SD" tvg-name="Bhojpuri Cinema_192" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/bhojpuri-cinema.png" channel-id="BhojpuriCinema.in@SD" tvg-country="IN" tvg-language="bho" group-title="Back channel",Bhojpuri Cinema_192
+#EXTINF:-1 tvg-id="BhojpuriCinema.in@SD" tvg-name="Bhojpuri Cinema_191" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/bhojpuri-cinema.png" channel-id="BhojpuriCinema.in@SD" tvg-country="IN" tvg-language="bho" group-title="Back channel",Bhojpuri Cinema_191
 https://live-bhojpuri.akamaized.net/liveabr/pub-iobhojpuqbu6yj/live_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="BhojpuriCinema.in@SD" tvg-name="Bhojpuri Cinema_193" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/bhojpuri-cinema.png" channel-id="BhojpuriCinema.in@SD" tvg-country="IN" tvg-language="bho" group-title="Back channel",Bhojpuri Cinema_193
+#EXTINF:-1 tvg-id="BhojpuriCinema.in@SD" tvg-name="Bhojpuri Cinema_192" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/bhojpuri-cinema.png" channel-id="BhojpuriCinema.in@SD" tvg-country="IN" tvg-language="bho" group-title="Back channel",Bhojpuri Cinema_192
 https://mumt05.tangotv.in/87NeALx2BHOJPURICINEMA/index.m3u8
-#EXTINF:-1 tvg-id="BhojpuriCinema.in@SD" tvg-name="Bhojpuri Cinema_194" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/bhojpuri-cinema.png" channel-id="BhojpuriCinema.in@SD" tvg-country="IN" tvg-language="bho" group-title="Back channel",Bhojpuri Cinema_194
+#EXTINF:-1 tvg-id="BhojpuriCinema.in@SD" tvg-name="Bhojpuri Cinema_193" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/bhojpuri-cinema.png" channel-id="BhojpuriCinema.in@SD" tvg-country="IN" tvg-language="bho" group-title="Back channel",Bhojpuri Cinema_193
 https://streams.tangotv.in/BHOJPURICINEMA/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="BoishakhiTV.bd" tvg-name="Boishakhi TV_195" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/boishakhi-tv.png" channel-id="BoishakhiTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Boishakhi TV_195
+#EXTINF:-1 tvg-id="BoishakhiTV.bd" tvg-name="Boishakhi TV_194" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/boishakhi-tv.png" channel-id="BoishakhiTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Boishakhi TV_194
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/boishakhitv-org.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="BoishakhiTV.bd" tvg-name="Boishakhi TV_196" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/boishakhi-tv.png" channel-id="BoishakhiTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Boishakhi TV_196
+#EXTINF:-1 tvg-id="BoishakhiTV.bd" tvg-name="Boishakhi TV_195" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/boishakhi-tv.png" channel-id="BoishakhiTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Boishakhi TV_195
 https://iptvlive.ahmed-bd-org.workers.dev/boishakhi-tv-1/index.m3u8
-#EXTINF:-1 tvg-id="BoishakhiTV.bd" tvg-name="Boishakhi TV_197" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/boishakhi-tv.png" channel-id="BoishakhiTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Boishakhi TV_197
+#EXTINF:-1 tvg-id="BoishakhiTV.bd" tvg-name="Boishakhi TV_196" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/boishakhi-tv.png" channel-id="BoishakhiTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Boishakhi TV_196
 https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="BoishakhiTV.bd" tvg-name="Boishakhi TV_198" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/boishakhi-tv.png" channel-id="BoishakhiTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Boishakhi TV_198
+#EXTINF:-1 tvg-id="BoishakhiTV.bd" tvg-name="Boishakhi TV_197" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/boishakhi-tv.png" channel-id="BoishakhiTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Boishakhi TV_197
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
-#EXTINF:-1 tvg-id="BTVChattogram.bd" tvg-name="BTV Chattogram_199" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/btv-chattogram.png" channel-id="BTVChattogram.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",BTV Chattogram_199
+#EXTINF:-1 tvg-id="BTVChattogram.bd" tvg-name="BTV Chattogram_198" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/btv-chattogram.png" channel-id="BTVChattogram.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",BTV Chattogram_198
 https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Channel1.bd" tvg-name="Channel 1_200" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-1.png" channel-id="Channel1.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel 1_200
+#EXTINF:-1 tvg-id="Channel1.bd" tvg-name="Channel 1_199" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-1.png" channel-id="Channel1.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel 1_199
 http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Channel16.bd" tvg-name="Channel 16_201" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-16.png" channel-id="Channel16.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel 16_201
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Channel16.bd" tvg-name="Channel 16_202" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-16.png" channel-id="Channel16.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel 16_202
-https://iptvlive.ahmed-bd-org.workers.dev/channel-16-1/index.m3u8
-#EXTINF:-1 tvg-id="Channel52.bd" tvg-name="Channel 52_203" channel-id="Channel52.bd" tvg-country="BD" tvg-language="ben" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-52.png" group-title="Back channel",Channel 52_203
-https://tvsen6.aynaott.com/channel52/index.m3u8
-#EXTINF:-1 tvg-id="Channel52.bd" tvg-name="Channel 52_204" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-52.png" channel-id="Channel52.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel 52_204
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel25usa.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Channel9.bd" tvg-name="Channel 9_205" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-9.png" channel-id="Channel9.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel 9_205
+#EXTINF:-1 tvg-id="Channel9.bd" tvg-name="Channel 9_200" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-9.png" channel-id="Channel9.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel 9_200
 https://nkafmbewiff.gpcdn.net/tile_7/master.m3u8#skym3u.dev
-#EXTINF:-1 tvg-id="Channel9.bd" tvg-name="Channel 9_206" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-9.png" channel-id="Channel9.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel 9_206
+#EXTINF:-1 tvg-id="Channel9.bd" tvg-name="Channel 9_201" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-9.png" channel-id="Channel9.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel 9_201
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel9hd.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ChannelI.bd" tvg-name="Channel I_207" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-i.png" channel-id="ChannelI.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel I_207
+#EXTINF:-1 tvg-id="Channel16.bd" tvg-name="Channel 16_202" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-16.png" channel-id="Channel16.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel 16_202
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Channel16.bd" tvg-name="Channel 16_203" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-16.png" channel-id="Channel16.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel 16_203
+https://iptvlive.ahmed-bd-org.workers.dev/channel-16-1/index.m3u8
+#EXTINF:-1 tvg-id="Channel52.bd" tvg-name="Channel 52_204" channel-id="Channel52.bd" tvg-country="BD" tvg-language="ben" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-52.png" group-title="Back channel",Channel 52_204
+https://tvsen6.aynaott.com/channel52/index.m3u8
+#EXTINF:-1 tvg-id="Channel52.bd" tvg-name="Channel 52_205" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-52.png" channel-id="Channel52.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel 52_205
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel25usa.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ChannelI.bd" tvg-name="Channel I_206" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-i.png" channel-id="ChannelI.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel I_206
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channeli-8-org.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ChannelI.bd" tvg-name="Channel I_208" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-i.png" channel-id="ChannelI.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel I_208
+#EXTINF:-1 tvg-id="ChannelI.bd" tvg-name="Channel I_207" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-i.png" channel-id="ChannelI.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel I_207
 https://iptvlive.ahmed-bd-org.workers.dev/channel-i-1/index.m3u8
-#EXTINF:-1 tvg-id="ChannelI.bd" tvg-name="Channel I_209" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-i.png" channel-id="ChannelI.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel I_209
+#EXTINF:-1 tvg-id="ChannelI.bd" tvg-name="Channel I_208" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-i.png" channel-id="ChannelI.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel I_208
 https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="ChannelI.bd" tvg-name="Channel I_210" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-i.png" channel-id="ChannelI.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel I_210
+#EXTINF:-1 tvg-id="ChannelI.bd" tvg-name="Channel I_209" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-i.png" channel-id="ChannelI.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel I_209
 https://tvsen3.b-cdn.net/qUud8Nxs/index.m3u8
-#EXTINF:-1 tvg-id="ChannelS.bd" tvg-name="Channel S_211" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-s.png" channel-id="ChannelS.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel S_211
+#EXTINF:-1 tvg-id="ChannelS.bd" tvg-name="Channel S_210" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-s.png" channel-id="ChannelS.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel S_210
 http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channels.stream/index.m3u8
-#EXTINF:-1 tvg-id="ChannelS.bd" tvg-name="Channel S_212" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-s.png" channel-id="ChannelS.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel S_212
+#EXTINF:-1 tvg-id="ChannelS.bd" tvg-name="Channel S_211" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-s.png" channel-id="ChannelS.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel S_211
 https://app.ncare.live/live-orgin/channels.stream/live-orgin/channels.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ChannelS.bd" tvg-name="Channel S_213" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-s.png" channel-id="ChannelS.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel S_213
+#EXTINF:-1 tvg-id="ChannelS.bd" tvg-name="Channel S_212" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-s.png" channel-id="ChannelS.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel S_212
 https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ChannelS.bd" tvg-name="Channel S_214" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-s.png" channel-id="ChannelS.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel S_214
+#EXTINF:-1 tvg-id="ChannelS.bd" tvg-name="Channel S_213" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-s.png" channel-id="ChannelS.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel S_213
 https://iptvlive.ahmed-bd-org.workers.dev/channel-s-1/index.m3u8
-#EXTINF:-1 tvg-id="ChannelS.uk@679aa9" tvg-name="Channel S UK_215" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-s-uk.png" channel-id="ChannelS.uk@679aa9" tvg-country="GB" tvg-language="ben" group-title="Back channel",Channel S UK_215
+#EXTINF:-1 tvg-id="ChannelS.uk@679aa9" tvg-name="Channel S UK_214" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-s-uk.png" channel-id="ChannelS.uk@679aa9" tvg-country="GB" tvg-language="ben" group-title="Back channel",Channel S UK_214
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/chsukoff.stream/live-orgin/chsukoff.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ColorsCineplex.uk" tvg-name="Colors Cineplex [UK]_216" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/colors-cineplex-uk.png" channel-id="ColorsCineplex.uk" tvg-country="GB" tvg-language="hin" group-title="Back channel",Colors Cineplex [UK]_216
+#EXTINF:-1 tvg-id="ColorsCineplex.uk" tvg-name="Colors Cineplex [UK]_215" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/colors-cineplex-uk.png" channel-id="ColorsCineplex.uk" tvg-country="GB" tvg-language="hin" group-title="Back channel",Colors Cineplex [UK]_215
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8
-#EXTINF:-1 tvg-id="ColorsRishteyAmericas.in" tvg-name="Colors Rishtey_217" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/colors-rishtey.png" channel-id="ColorsRishteyAmericas.in" tvg-country="IN" tvg-language="hin" group-title="Back channel",Colors Rishtey_217
+#EXTINF:-1 tvg-id="ColorsRishteyAmericas.in" tvg-name="Colors Rishtey_216" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/colors-rishtey.png" channel-id="ColorsRishteyAmericas.in" tvg-country="IN" tvg-language="hin" group-title="Back channel",Colors Rishtey_216
 http://163.61.226.31:9981/stream/channelid/297962113?profile=pass
-#EXTINF:-1 tvg-id="ColorsTamil.in@SD" tvg-name="Colors Tamil_218" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/colors-tamil.png" channel-id="ColorsTamil.in@SD" tvg-country="IN" tvg-language="tam" group-title="Back channel",Colors Tamil_218
+#EXTINF:-1 tvg-id="ColorsTamil.in@SD" tvg-name="Colors Tamil_217" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/colors-tamil.png" channel-id="ColorsTamil.in@SD" tvg-country="IN" tvg-language="tam" group-title="Back channel",Colors Tamil_217
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorstamilhd11.smil/chunklist_b2628000.m3u8
-#EXTINF:-1 tvg-id="CricketGold.au@SD" tvg-name="Cricket Gold_219" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/cricket-gold.png" channel-id="CricketGold.au@SD" tvg-country="AU" tvg-language="eng" group-title="Back channel",Cricket Gold_219
+#EXTINF:-1 tvg-id="CricketGold.au@SD" tvg-name="Cricket Gold_218" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/cricket-gold.png" channel-id="CricketGold.au@SD" tvg-country="AU" tvg-language="eng" group-title="Back channel",Cricket Gold_218
 https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8
-#EXTINF:-1 tvg-id="CricketGold.au@SD" tvg-name="Cricket Gold_220" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/cricket-gold.png" channel-id="CricketGold.au@SD" tvg-country="AU" tvg-language="eng" group-title="Back channel",Cricket Gold_220
+#EXTINF:-1 tvg-id="CricketGold.au@SD" tvg-name="Cricket Gold_219" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/cricket-gold.png" channel-id="CricketGold.au@SD" tvg-country="AU" tvg-language="eng" group-title="Back channel",Cricket Gold_219
 https://streams2.sofast.tv/scheduler/scheduleMaster/418.m3u8
-#EXTINF:-1 tvg-id="CricketGold.au@SD" tvg-name="Cricket Gold_221" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/cricket-gold.png" channel-id="CricketGold.au@SD" tvg-country="AU" tvg-language="eng" group-title="Back channel",Cricket Gold_221
+#EXTINF:-1 tvg-id="CricketGold.au@SD" tvg-name="Cricket Gold_220" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/cricket-gold.png" channel-id="CricketGold.au@SD" tvg-country="AU" tvg-language="eng" group-title="Back channel",Cricket Gold_220
 https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8
-#EXTINF:-1 tvg-id="DangalTV.in@SD" tvg-name="Dangal_222" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dangal.png" channel-id="DangalTV.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Dangal_222
+#EXTINF:-1 tvg-id="DangalTV.in@SD" tvg-name="Dangal_221" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dangal.png" channel-id="DangalTV.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Dangal_221
 https://cdn.pishow.tv/ott/live/1141/master.m3u8
-#EXTINF:-1 tvg-id="DangalTV.in@SD" tvg-name="Dangal_223" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dangal.png" channel-id="DangalTV.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Dangal_223
+#EXTINF:-1 tvg-id="DangalTV.in@SD" tvg-name="Dangal_222" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dangal.png" channel-id="DangalTV.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Dangal_222
 https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="DangalTV.in@SD" tvg-name="Dangal_224" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dangal.png" channel-id="DangalTV.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Dangal_224
+#EXTINF:-1 tvg-id="DangalTV.in@SD" tvg-name="Dangal_223" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dangal.png" channel-id="DangalTV.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Dangal_223
 https://streams.tangotv.in/DANGAL/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="DangalTV.in@SD" tvg-name="Dangal_225" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dangal.png" channel-id="DangalTV.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Dangal_225
+#EXTINF:-1 tvg-id="DangalTV.in@SD" tvg-name="Dangal_224" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dangal.png" channel-id="DangalTV.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Dangal_224
 http://163.61.226.31:9981/stream/channelid/359795895?profile=pass
-#EXTINF:-1 tvg-id="DangalTV.in@SD" tvg-name="Dangal_226" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dangal.png" channel-id="DangalTV.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Dangal_226
+#EXTINF:-1 tvg-id="DangalTV.in@SD" tvg-name="Dangal_225" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dangal.png" channel-id="DangalTV.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Dangal_225
 https://fta.ektv.in/live/17/master.m3u8
-#EXTINF:-1 tvg-id="DangalTV.in@SD" tvg-name="Dangal_227" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dangal.png" channel-id="DangalTV.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Dangal_227
+#EXTINF:-1 tvg-id="DangalTV.in@SD" tvg-name="Dangal_226" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dangal.png" channel-id="DangalTV.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Dangal_226
 https://mumt04.tangotv.in/m18aqlK4DANGAL/index.m3u8
-#EXTINF:-1 tvg-id="Dangal2.in@SD" tvg-name="Dangal 2_228" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dangal-2.png" channel-id="Dangal2.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Dangal 2_228
+#EXTINF:-1 tvg-id="Dangal2.in@SD" tvg-name="Dangal 2_227" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dangal-2.png" channel-id="Dangal2.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Dangal 2_227
 http://163.61.226.31:9981/stream/channelid/568470441?profile=pass
-#EXTINF:-1 tvg-id="Dangal2.in@SD" tvg-name="Dangal 2_229" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dangal-2.png" channel-id="Dangal2.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Dangal 2_229
+#EXTINF:-1 tvg-id="Dangal2.in@SD" tvg-name="Dangal 2_228" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dangal-2.png" channel-id="Dangal2.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Dangal 2_228
 https://fta.ektv.in/live/18/master.m3u8
-#EXTINF:-1 tvg-id="Dangal2.in@SD" tvg-name="Dangal 2_230" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dangal-2.png" channel-id="Dangal2.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Dangal 2_230
+#EXTINF:-1 tvg-id="Dangal2.in@SD" tvg-name="Dangal 2_229" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dangal-2.png" channel-id="Dangal2.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Dangal 2_229
 https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8
-#EXTINF:-1 tvg-id="Dangal2.in@SD" tvg-name="Dangal 2_231" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dangal-2.png" channel-id="Dangal2.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Dangal 2_231
+#EXTINF:-1 tvg-id="Dangal2.in@SD" tvg-name="Dangal 2_230" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dangal-2.png" channel-id="Dangal2.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Dangal 2_230
 https://streams.tangotv.in/DANGAL2/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="DBCNews.bd" tvg-name="DBC News_232" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dbc-news.png" channel-id="DBCNews.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",DBC News_232
+#EXTINF:-1 tvg-id="DBCNews.bd" tvg-name="DBC News_231" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dbc-news.png" channel-id="DBCNews.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",DBC News_231
 https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
-#EXTINF:-1 tvg-id="DBCNews.bd" tvg-name="DBC News_233" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dbc-news.png" channel-id="DBCNews.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",DBC News_233
+#EXTINF:-1 tvg-id="DBCNews.bd" tvg-name="DBC News_232" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dbc-news.png" channel-id="DBCNews.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",DBC News_232
 https://iptvlive.ahmed-bd-org.workers.dev/dbc-news-1/index.m3u8
-#EXTINF:-1 tvg-id="DDArunPrabha.in@SD" tvg-name="DD Arun Prabha_234" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-arun-prabha.png" channel-id="DDArunPrabha.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",DD Arun Prabha_234
+#EXTINF:-1 tvg-id="DDArunPrabha.in@SD" tvg-name="DD Arun Prabha_233" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-arun-prabha.png" channel-id="DDArunPrabha.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",DD Arun Prabha_233
 https://cdn.pishow.tv/ott/live/32/master.m3u8
-#EXTINF:-1 tvg-id="DDBangla.in@SD" tvg-name="DD Bangla_235" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-bangla.png" channel-id="DDBangla.in@SD" tvg-country="IN" tvg-language="ben" group-title="Back channel",DD Bangla_235
+#EXTINF:-1 tvg-id="DDBangla.in@SD" tvg-name="DD Bangla_234" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-bangla.png" channel-id="DDBangla.in@SD" tvg-country="IN" tvg-language="ben" group-title="Back channel",DD Bangla_234
 https://cdn.pishow.tv/ott/live/37/master.m3u8
-#EXTINF:-1 tvg-id="DDBangla.in@SD" tvg-name="DD Bangla_236" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-bangla.png" channel-id="DDBangla.in@SD" tvg-country="IN" tvg-language="ben" group-title="Back channel",DD Bangla_236
+#EXTINF:-1 tvg-id="DDBangla.in@SD" tvg-name="DD Bangla_235" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-bangla.png" channel-id="DDBangla.in@SD" tvg-country="IN" tvg-language="ben" group-title="Back channel",DD Bangla_235
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
-#EXTINF:-1 tvg-id="DDBangla.in@SD" tvg-name="DD Bangla_237" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-bangla.png" channel-id="DDBangla.in@SD" tvg-country="IN" tvg-language="ben" group-title="Back channel",DD Bangla_237
+#EXTINF:-1 tvg-id="DDBangla.in@SD" tvg-name="DD Bangla_236" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-bangla.png" channel-id="DDBangla.in@SD" tvg-country="IN" tvg-language="ben" group-title="Back channel",DD Bangla_236
 https://fta.ektv.in/live/197/master.m3u8
-#EXTINF:-1 tvg-id="DDBihar.in@SD" tvg-name="DD Bihar_238" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-bihar.png" channel-id="DDBihar.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",DD Bihar_238
+#EXTINF:-1 tvg-id="DDBihar.in@SD" tvg-name="DD Bihar_237" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-bihar.png" channel-id="DDBihar.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",DD Bihar_237
 https://d2lk5u59tns74c.cloudfront.net/out/v1/380b0765f87741a4812bc952ec6fbf21/index.m3u8
-#EXTINF:-1 tvg-id="DDChandana.in@SD" tvg-name="DD Chandana_239" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-chandana.png" channel-id="DDChandana.in@SD" tvg-country="IN" tvg-language="kan" group-title="Back channel",DD Chandana_239
+#EXTINF:-1 tvg-id="DDChandana.in@SD" tvg-name="DD Chandana_238" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-chandana.png" channel-id="DDChandana.in@SD" tvg-country="IN" tvg-language="kan" group-title="Back channel",DD Chandana_238
 https://d2lk5u59tns74c.cloudfront.net/out/v1/0c980455d2fb4b69bcc6235745ee6039/index.m3u8
-#EXTINF:-1 tvg-id="DDChhattisgarh.in@SD" tvg-name="DD Chhattisgarh_240" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-chhattisgarh.png" channel-id="DDChhattisgarh.in@SD" tvg-country="IN" tvg-language="hne;hin" group-title="Back channel",DD Chhattisgarh_240
+#EXTINF:-1 tvg-id="DDChhattisgarh.in@SD" tvg-name="DD Chhattisgarh_239" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-chhattisgarh.png" channel-id="DDChhattisgarh.in@SD" tvg-country="IN" tvg-language="hne;hin" group-title="Back channel",DD Chhattisgarh_239
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/5078083881bc489ea14f4c85e7abe4d6/index.m3u8
-#EXTINF:-1 tvg-id="DDGirnar.in@SD" tvg-name="DD Girnar_241" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-girnar.png" channel-id="DDGirnar.in@SD" tvg-country="IN" tvg-language="guj" group-title="Back channel",DD Girnar_241
+#EXTINF:-1 tvg-id="DDGirnar.in@SD" tvg-name="DD Girnar_240" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-girnar.png" channel-id="DDGirnar.in@SD" tvg-country="IN" tvg-language="guj" group-title="Back channel",DD Girnar_240
 https://fta.ektv.in/live/368/master.m3u8
-#EXTINF:-1 tvg-id="DDGoa.in@SD" tvg-name="DD Goa_242" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-goa.png" channel-id="DDGoa.in@SD" tvg-country="IN" tvg-language="kok;mar" group-title="Back channel",DD Goa_242
+#EXTINF:-1 tvg-id="DDGoa.in@SD" tvg-name="DD Goa_241" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-goa.png" channel-id="DDGoa.in@SD" tvg-country="IN" tvg-language="kok;mar" group-title="Back channel",DD Goa_241
 https://fta.ektv.in/live/367/master.m3u8
-#EXTINF:-1 tvg-id="DDHaryana.in@SD" tvg-name="DD Haryana_243" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-haryana.png" channel-id="DDHaryana.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",DD Haryana_243
+#EXTINF:-1 tvg-id="DDHaryana.in@SD" tvg-name="DD Haryana_242" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-haryana.png" channel-id="DDHaryana.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",DD Haryana_242
 https://fta.ektv.in/live/580/master.m3u8
-#EXTINF:-1 tvg-id="DDHimachalPradesh.in@SD" tvg-name="DD Himachal Pradesh_244" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-himachal-pradesh.png" channel-id="DDHimachalPradesh.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",DD Himachal Pradesh_244
+#EXTINF:-1 tvg-id="DDHimachalPradesh.in@SD" tvg-name="DD Himachal Pradesh_243" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-himachal-pradesh.png" channel-id="DDHimachalPradesh.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",DD Himachal Pradesh_243
 https://fta.ektv.in/live/575/master.m3u8
-#EXTINF:-1 tvg-id="DDJharkhand.in@SD" tvg-name="DD Jharkhand_245" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-jharkhand.png" channel-id="DDJharkhand.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",DD Jharkhand_245
+#EXTINF:-1 tvg-id="DDJharkhand.in@SD" tvg-name="DD Jharkhand_244" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-jharkhand.png" channel-id="DDJharkhand.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",DD Jharkhand_244
 https://cdn.pishow.tv/ott/live/1617/master.m3u8
-#EXTINF:-1 channel-id="DDKashir.in@SD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-kashir.png" tvg-id="DDKashir.in@SD" tvg-name="DD Kashir_246" tvg-language="kas;urd;doi;lbj" tvg-country="IN" group-title="Back channel",DD Kashir_246
+#EXTINF:-1 channel-id="DDKashir.in@SD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-kashir.png" tvg-id="DDKashir.in@SD" tvg-name="DD Kashir_245" tvg-language="kas;urd;doi;lbj" tvg-country="IN" group-title="Back channel",DD Kashir_245
 https://cdn.pishow.tv/ott/live/16/master.m3u8
-#EXTINF:-1 tvg-id="DDMadhyaPradesh.in@SD" tvg-name="DD Madhya Pradesh_247" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-madhya-pradesh.png" channel-id="DDMadhyaPradesh.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",DD Madhya Pradesh_247
+#EXTINF:-1 tvg-id="DDMadhyaPradesh.in@SD" tvg-name="DD Madhya Pradesh_246" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-madhya-pradesh.png" channel-id="DDMadhyaPradesh.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",DD Madhya Pradesh_246
 https://cdn.pishow.tv/ott/live/31/master.m3u8
-#EXTINF:-1 tvg-id="DDMadhyaPradesh.in@SD" tvg-name="DD Madhya Pradesh_248" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-madhya-pradesh.png" channel-id="DDMadhyaPradesh.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",DD Madhya Pradesh_248
+#EXTINF:-1 tvg-id="DDMadhyaPradesh.in@SD" tvg-name="DD Madhya Pradesh_247" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-madhya-pradesh.png" channel-id="DDMadhyaPradesh.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",DD Madhya Pradesh_247
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b5256b391a7c4ae6977535b73fd6f591/index.m3u8
-#EXTINF:-1 tvg-id="DDMalayalam.in@SD" tvg-name="DD Malayalam_249" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-malayalam.png" channel-id="DDMalayalam.in@SD" tvg-country="IN" tvg-language="mal" group-title="Back channel",DD Malayalam_249
+#EXTINF:-1 tvg-id="DDMalayalam.in@SD" tvg-name="DD Malayalam_248" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-malayalam.png" channel-id="DDMalayalam.in@SD" tvg-country="IN" tvg-language="mal" group-title="Back channel",DD Malayalam_248
 https://fta.ektv.in/live/680/master.m3u8
-#EXTINF:-1 tvg-id="DDOdia.in@SD" tvg-name="DD Odia_250" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-odia.png" channel-id="DDOdia.in@SD" tvg-country="IN" tvg-language="ori" group-title="Back channel",DD Odia_250
+#EXTINF:-1 tvg-id="DDOdia.in@SD" tvg-name="DD Odia_249" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-odia.png" channel-id="DDOdia.in@SD" tvg-country="IN" tvg-language="ori" group-title="Back channel",DD Odia_249
 https://mumbai-edge.smartplaytv.in/ddodiya/index.m3u8
-#EXTINF:-1 tvg-id="DDOdia.in@SD" tvg-name="DD Odia_251" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-odia.png" channel-id="DDOdia.in@SD" tvg-country="IN" tvg-language="ori" group-title="Back channel",DD Odia_251
+#EXTINF:-1 tvg-id="DDOdia.in@SD" tvg-name="DD Odia_250" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-odia.png" channel-id="DDOdia.in@SD" tvg-country="IN" tvg-language="ori" group-title="Back channel",DD Odia_250
 https://fta.ektv.in/live/384/master.m3u8
-#EXTINF:-1 tvg-id="DDPunjabi.in@SD" tvg-name="DD Punjabi_252" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-punjabi.png" channel-id="DDPunjabi.in@SD" tvg-country="IN" tvg-language="pan" group-title="Back channel",DD Punjabi_252
+#EXTINF:-1 tvg-id="DDPunjabi.in@SD" tvg-name="DD Punjabi_251" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-punjabi.png" channel-id="DDPunjabi.in@SD" tvg-country="IN" tvg-language="pan" group-title="Back channel",DD Punjabi_251
 http://163.61.226.31:9981/stream/channelid/2094424586?profile=pass
-#EXTINF:-1 tvg-id="DDRajasthan.in@SD" tvg-name="DD Rajasthan_253" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-rajasthan.png" channel-id="DDRajasthan.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",DD Rajasthan_253
+#EXTINF:-1 tvg-id="DDRajasthan.in@SD" tvg-name="DD Rajasthan_252" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-rajasthan.png" channel-id="DDRajasthan.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",DD Rajasthan_252
 https://d2lk5u59tns74c.cloudfront.net/out/v1/5b6bbbf682b741ecbe279f75a4a9a3e6/index.m3u8
-#EXTINF:-1 tvg-id="DDSahyadri.in@SD" tvg-name="DD Sahyadri_254" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-sahyadri.png" channel-id="DDSahyadri.in@SD" tvg-country="IN" tvg-language="mar" group-title="Back channel",DD Sahyadri_254
+#EXTINF:-1 tvg-id="DDSahyadri.in@SD" tvg-name="DD Sahyadri_253" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-sahyadri.png" channel-id="DDSahyadri.in@SD" tvg-country="IN" tvg-language="mar" group-title="Back channel",DD Sahyadri_253
 https://fta.ektv.in/live/187/master.m3u8
-#EXTINF:-1 tvg-id="DDSports.in@SD" tvg-name="DD Sports_255" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-sports-fb997548.png" channel-id="DDSports.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",DD Sports_255
+#EXTINF:-1 tvg-id="DDSports.in@SD" tvg-name="DD Sports_254" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-sports-fb997548.png" channel-id="DDSports.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",DD Sports_254
 https://cdn.pishow.tv/ott/live/1161/master.m3u8
-#EXTINF:-1 tvg-id="DDSports.in@SD" tvg-name="DD Sports_256" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-sports-fb997548.png" channel-id="DDSports.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",DD Sports_256
+#EXTINF:-1 tvg-id="DDSports.in@SD" tvg-name="DD Sports_255" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-sports-fb997548.png" channel-id="DDSports.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",DD Sports_255
 https://fta.ektv.in/live/280/master.m3u8
-#EXTINF:-1 tvg-id="DDSports.in@SD" tvg-name="DD Sports_257" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-sports-fb997548.png" channel-id="DDSports.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",DD Sports_257
+#EXTINF:-1 tvg-id="DDSports.in@SD" tvg-name="DD Sports_256" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-sports-fb997548.png" channel-id="DDSports.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",DD Sports_256
 https://fta.ektv.in/live/64/64_0.m3u8
-#EXTINF:-1 tvg-id="DDSports.in@SD" tvg-name="DD Sports_258" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-sports-fb997548.png" channel-id="DDSports.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",DD Sports_258
+#EXTINF:-1 tvg-id="DDSports.in@SD" tvg-name="DD Sports_257" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-sports-fb997548.png" channel-id="DDSports.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",DD Sports_257
 https://mumbai-edge.smartplaytv.in/DDSports/index.m3u8
-#EXTINF:-1 tvg-id="DDSports.in@SD" tvg-name="DD Sports_259" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-sports-fb997548.png" channel-id="DDSports.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",DD Sports_259
+#EXTINF:-1 tvg-id="DDSports.in@SD" tvg-name="DD Sports_258" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-sports-fb997548.png" channel-id="DDSports.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",DD Sports_258
 https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8
-#EXTINF:-1 tvg-id="DDTamil.in@SD" tvg-name="DD Tamil_260" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-tamil.png" channel-id="DDTamil.in@SD" tvg-country="IN" tvg-language="tam" group-title="Back channel",DD Tamil_260
+#EXTINF:-1 tvg-id="DDTamil.in@SD" tvg-name="DD Tamil_259" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-tamil.png" channel-id="DDTamil.in@SD" tvg-country="IN" tvg-language="tam" group-title="Back channel",DD Tamil_259
 https://cdn.pishow.tv/ott/live/1737/master.m3u8
-#EXTINF:-1 tvg-id="DDTamil.in@SD" tvg-name="DD Tamil_261" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-tamil.png" channel-id="DDTamil.in@SD" tvg-country="IN" tvg-language="tam" group-title="Back channel",DD Tamil_261
+#EXTINF:-1 tvg-id="DDTamil.in@SD" tvg-name="DD Tamil_260" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-tamil.png" channel-id="DDTamil.in@SD" tvg-country="IN" tvg-language="tam" group-title="Back channel",DD Tamil_260
 https://fta.ektv.in/live/679/master.m3u8
-#EXTINF:-1 tvg-id="DDUrdu.in@SD" tvg-name="DD Urdu_262" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-urdu.png" channel-id="DDUrdu.in@SD" tvg-country="IN" tvg-language="urd;hin;eng" group-title="Back channel",DD Urdu_262
+#EXTINF:-1 tvg-id="DDUrdu.in@SD" tvg-name="DD Urdu_261" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-urdu.png" channel-id="DDUrdu.in@SD" tvg-country="IN" tvg-language="urd;hin;eng" group-title="Back channel",DD Urdu_261
 https://cdn.pishow.tv/ott/live/8/master.m3u8
-#EXTINF:-1 tvg-id="DDUttarPradesh.in@SD" tvg-name="DD Uttar Pradesh_263" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-uttar-pradesh.png" channel-id="DDUttarPradesh.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",DD Uttar Pradesh_263
+#EXTINF:-1 tvg-id="DDUttarPradesh.in@SD" tvg-name="DD Uttar Pradesh_262" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-uttar-pradesh.png" channel-id="DDUttarPradesh.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",DD Uttar Pradesh_262
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/70d4f6874fa64032a685e3123520f07d/index.m3u8
-#EXTINF:-1 tvg-id="DDUttarakhand.in@SD" tvg-name="DD Uttarakhand_264" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-uttarakhand.png" channel-id="DDUttarakhand.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",DD Uttarakhand_264
+#EXTINF:-1 tvg-id="DDUttarakhand.in@SD" tvg-name="DD Uttarakhand_263" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-uttarakhand.png" channel-id="DDUttarakhand.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",DD Uttarakhand_263
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a70323c56ac647c2a8c8fc34e4c73912/index.m3u8
-#EXTINF:-1 tvg-id="DDYadagiri.in@SD" tvg-name="DD Yadagiri_265" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-yadagiri.png" channel-id="DDYadagiri.in@SD" tvg-country="IN" tvg-language="tel" group-title="Back channel",DD Yadagiri_265
+#EXTINF:-1 tvg-id="DDYadagiri.in@SD" tvg-name="DD Yadagiri_264" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-yadagiri.png" channel-id="DDYadagiri.in@SD" tvg-country="IN" tvg-language="tel" group-title="Back channel",DD Yadagiri_264
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/c89fa6d6f5864ac29670d6f91cb7e32a/index.m3u8
-#EXTINF:-1 tvg-id="DDYadagiri.in@SD" tvg-name="DD Yadagiri_266" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-yadagiri.png" channel-id="DDYadagiri.in@SD" tvg-country="IN" tvg-language="tel" group-title="Back channel",DD Yadagiri_266
+#EXTINF:-1 tvg-id="DDYadagiri.in@SD" tvg-name="DD Yadagiri_265" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-yadagiri.png" channel-id="DDYadagiri.in@SD" tvg-country="IN" tvg-language="tel" group-title="Back channel",DD Yadagiri_265
 https://fta.ektv.in/live/678/master.m3u8
-#EXTINF:-1 tvg-id="DeenTV.uk" tvg-name="Deen TV_267" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/deen-tv-576p.png" channel-id="DeenTV.uk" tvg-country="GB" tvg-language="ben" group-title="Back channel",Deen TV_267
+#EXTINF:-1 tvg-id="DeenTV.uk" tvg-name="Deen TV_266" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/deen-tv-576p.png" channel-id="DeenTV.uk" tvg-country="GB" tvg-language="ben" group-title="Back channel",Deen TV_266
 https://app.ncare.live/live-orgin/deentv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="DeenTV.uk" tvg-name="Deen TV_268" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/deen-tv-576p.png" channel-id="DeenTV.uk" tvg-country="GB" tvg-language="ben" group-title="Back channel",Deen TV_268
+#EXTINF:-1 tvg-id="DeenTV.uk" tvg-name="Deen TV_267" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/deen-tv-576p.png" channel-id="DeenTV.uk" tvg-country="GB" tvg-language="ben" group-title="Back channel",Deen TV_267
 https://tvsen3.aynaott.com/TJcnZW3U/index.m3u8
-#EXTINF:-1 tvg-id="DeshTV.bd" tvg-name="Desh TV_269" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/desh-tv.png" channel-id="DeshTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Desh TV_269
+#EXTINF:-1 tvg-id="DeshTV.bd" tvg-name="Desh TV_268" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/desh-tv.png" channel-id="DeshTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Desh TV_268
 https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
-#EXTINF:-1 tvg-id="DesheBideshe.ca" tvg-name="Deshe Bideshe_270" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/deshe-bideshe.png" channel-id="DesheBideshe.ca" tvg-country="CA" tvg-language="ben" group-title="Back channel",Deshe Bideshe_270
+#EXTINF:-1 tvg-id="DesheBideshe.ca" tvg-name="Deshe Bideshe_269" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/deshe-bideshe.png" channel-id="DesheBideshe.ca" tvg-country="CA" tvg-language="ben" group-title="Back channel",Deshe Bideshe_269
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
-#EXTINF:-1 tvg-id="DesiChannel.in" tvg-name="Desi Channel_271" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/desi-channel.png" channel-id="DesiChannel.in" tvg-country="IN" tvg-language="hin" group-title="Back channel",Desi Channel_271
+#EXTINF:-1 tvg-id="DesiChannel.in" tvg-name="Desi Channel_270" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/desi-channel.png" channel-id="DesiChannel.in" tvg-country="IN" tvg-language="hin" group-title="Back channel",Desi Channel_270
 https://livestream.unlimitedcdn.com/agm-dc/desi-channel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="DesiChannel.in" tvg-name="Desi Channel_272" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/desi-channel.png" channel-id="DesiChannel.in" tvg-country="IN" tvg-language="hin" group-title="Back channel",Desi Channel_272
+#EXTINF:-1 tvg-id="DesiChannel.in" tvg-name="Desi Channel_271" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/desi-channel.png" channel-id="DesiChannel.in" tvg-country="IN" tvg-language="hin" group-title="Back channel",Desi Channel_271
 https://desichannel.kableone.com/desichannel/master.m3u8
-#EXTINF:-1 tvg-id="DhoomMusic.in@SD" tvg-name="Dhoom Music_273" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dhoom-music-576p-ba62bd030a.png" channel-id="DhoomMusic.in@SD" tvg-country="IN" tvg-language="ben" group-title="Back channel",Dhoom Music_273
+#EXTINF:-1 tvg-id="DhoomMusic.in@SD" tvg-name="Dhoom Music_272" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dhoom-music-576p-ba62bd030a.png" channel-id="DhoomMusic.in@SD" tvg-country="IN" tvg-language="ben" group-title="Back channel",Dhoom Music_272
 https://cdn.pishow.tv/ott/live/1456/master.m3u8
-#EXTINF:-1 tvg-id="DhoomMusic.in@SD" tvg-name="Dhoom Music_274" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dhoom-music-576p-ba62bd030a.png" channel-id="DhoomMusic.in@SD" tvg-country="IN" tvg-language="ben" group-title="Back channel",Dhoom Music_274
+#EXTINF:-1 tvg-id="DhoomMusic.in@SD" tvg-name="Dhoom Music_273" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dhoom-music-576p-ba62bd030a.png" channel-id="DhoomMusic.in@SD" tvg-country="IN" tvg-language="ben" group-title="Back channel",Dhoom Music_273
 https://mumt06.tangotv.in/qYyB8fXVDHOOMMUSIC/index.m3u8
-#EXTINF:-1 tvg-id="DiscoverPakistan.pk@SD" tvg-name="Discover Pakistan_275" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/discover-pakistan.png" channel-id="DiscoverPakistan.pk@SD" tvg-country="PK" tvg-language="urd" group-title="Back channel",Discover Pakistan_275
+#EXTINF:-1 tvg-id="DiscoverPakistan.pk@SD" tvg-name="Discover Pakistan_274" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/discover-pakistan.png" channel-id="DiscoverPakistan.pk@SD" tvg-country="PK" tvg-language="urd" group-title="Back channel",Discover Pakistan_274
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.in@HD" tvg-name="Disney Channel_276" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/disney-channel-india.png" channel-id="DisneyChannel.in@HD" tvg-country="IN" tvg-language="hin;eng" group-title="Back channel",Disney Channel_276
+#EXTINF:-1 tvg-id="DisneyChannel.in@HD" tvg-name="Disney Channel_275" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/disney-channel-india.png" channel-id="DisneyChannel.in@HD" tvg-country="IN" tvg-language="hin;eng" group-title="Back channel",Disney Channel_275
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/19741.ts
-#EXTINF:-1 tvg-id="DisneyChannel.in@HD" tvg-name="Disney Channel_277" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/disney-channel-india.png" channel-id="DisneyChannel.in@HD" tvg-country="IN" tvg-language="hin;eng" group-title="Back channel",Disney Channel_277
+#EXTINF:-1 tvg-id="DisneyChannel.in@HD" tvg-name="Disney Channel_276" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/disney-channel-india.png" channel-id="DisneyChannel.in@HD" tvg-country="IN" tvg-language="hin;eng" group-title="Back channel",Disney Channel_276
 http://212.5.144.156:8080/disney/index.m3u8
-#EXTINF:-1 tvg-id="E24.in" tvg-name="E24_278" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/e24.png" channel-id="E24.in" tvg-country="IN" tvg-language="hin" group-title="Back channel",E24_278
+#EXTINF:-1 tvg-id="E24.in" tvg-name="E24_277" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/e24.png" channel-id="E24.in" tvg-country="IN" tvg-language="hin" group-title="Back channel",E24_277
 https://mumt04.tangotv.in/m18aqlK4E24/index.m3u8
-#EXTINF:-1 tvg-id="E24.in" tvg-name="E24_279" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/e24.png" channel-id="E24.in" tvg-country="IN" tvg-language="hin" group-title="Back channel",E24_279
+#EXTINF:-1 tvg-id="E24.in" tvg-name="E24_278" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/e24.png" channel-id="E24.in" tvg-country="IN" tvg-language="hin" group-title="Back channel",E24_278
 https://fta.ektv.in/live/159/master.m3u8
-#EXTINF:-1 tvg-id="EkattorTV.bd" tvg-name="Ekattor TV_280" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ekattor-tv.png" channel-id="EkattorTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Ekattor TV_280
+#EXTINF:-1 tvg-id="EkattorTV.bd" tvg-name="Ekattor TV_279" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ekattor-tv.png" channel-id="EkattorTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Ekattor TV_279
 https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="EkhonTV.bd" tvg-name="Ekhon TV_281" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ekhon-tv.png" channel-id="EkhonTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Ekhon TV_281
+#EXTINF:-1 tvg-id="EkhonTV.bd" tvg-name="Ekhon TV_280" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ekhon-tv.png" channel-id="EkhonTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Ekhon TV_280
 http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/index.m3u8
-#EXTINF:-1 tvg-id="EkusheyTV.bd" tvg-name="Ekushey TV_282" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ekushey-tv-d9479035b4.png" channel-id="EkusheyTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Ekushey TV_282
+#EXTINF:-1 tvg-id="EkusheyTV.bd" tvg-name="Ekushey TV_281" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ekushey-tv-d9479035b4.png" channel-id="EkusheyTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Ekushey TV_281
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 tvg-id="EkusheyTV.bd" tvg-name="Ekushey TV_283" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ekushey-tv-d9479035b4.png" channel-id="EkusheyTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Ekushey TV_283
+#EXTINF:-1 tvg-id="EkusheyTV.bd" tvg-name="Ekushey TV_282" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ekushey-tv-d9479035b4.png" channel-id="EkusheyTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Ekushey TV_282
 http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/index.m3u8
-#EXTINF:-1 tvg-id="EkusheyTV.bd" tvg-name="Ekushey TV_284" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ekushey-tv-d9479035b4.png" channel-id="EkusheyTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Ekushey TV_284
+#EXTINF:-1 tvg-id="EkusheyTV.bd" tvg-name="Ekushey TV_283" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ekushey-tv-d9479035b4.png" channel-id="EkusheyTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Ekushey TV_283
 https://ekusheyserver.com/etvlivesn.m3u8
-#EXTINF:-1 tvg-id="EkusheyTV.bd" tvg-name="Ekushey TV_285" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ekushey-tv-d9479035b4.png" channel-id="EkusheyTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Ekushey TV_285
+#EXTINF:-1 tvg-id="EkusheyTV.bd" tvg-name="Ekushey TV_284" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ekushey-tv-d9479035b4.png" channel-id="EkusheyTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Ekushey TV_284
 https://tvsen6.aynaott.com/y4mEVZNAbeNWTbd6Z2Pw/index.m3u8
-#EXTINF:-1 tvg-id="EnterTV.bd" tvg-name="Enter TV_286" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/enter-tv.png" channel-id="EnterTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Enter TV_286
+#EXTINF:-1 tvg-id="EnterTV.bd" tvg-name="Enter TV_285" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/enter-tv.png" channel-id="EnterTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Enter TV_285
 https://iptvlive.ahmed-bd-org.workers.dev/enter-tv-1/index.m3u8
-#EXTINF:-1 tvg-id="EnterTV.bd" tvg-name="Enter TV_287" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/enter-tv.png" channel-id="EnterTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Enter TV_287
+#EXTINF:-1 tvg-id="EnterTV.bd" tvg-name="Enter TV_286" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/enter-tv.png" channel-id="EnterTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Enter TV_286
 https://live1.entertv.com.bd/entertv/index.fmp4.m3u8
-#EXTINF:-1 channel-id="Enter10Bangla.in" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/enterr10-bangla.png" tvg-id="Enter10Bangla.in" tvg-name="Enterr10 Bangla_288" tvg-language="ben" tvg-country="IN" group-title="Back channel",Enterr10 Bangla_288
+#EXTINF:-1 channel-id="Enter10Bangla.in" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/enterr10-bangla.png" tvg-id="Enter10Bangla.in" tvg-name="Enterr10 Bangla_287" tvg-language="ben" tvg-country="IN" group-title="Back channel",Enterr10 Bangla_287
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
-#EXTINF:-1 channel-id="Enter10Bangla.in" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/enterr10-bangla.png" tvg-id="Enter10Bangla.in" tvg-name="Enterr10 Bangla_289" tvg-language="ben" tvg-country="IN" group-title="Back channel",Enterr10 Bangla_289
+#EXTINF:-1 channel-id="Enter10Bangla.in" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/enterr10-bangla.png" tvg-id="Enter10Bangla.in" tvg-name="Enterr10 Bangla_288" tvg-language="ben" tvg-country="IN" group-title="Back channel",Enterr10 Bangla_288
 https://iptvlive.ahmed-bd-org.workers.dev/enter-10-bangla-1/index.m3u8
-#EXTINF:-1 channel-id="Enter10Bangla.in" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/enterr10-bangla.png" tvg-id="Enter10Bangla.in" tvg-name="Enterr10 Bangla_290" tvg-language="ben" tvg-country="IN" group-title="Back channel",Enterr10 Bangla_290
+#EXTINF:-1 channel-id="Enter10Bangla.in" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/enterr10-bangla.png" tvg-id="Enter10Bangla.in" tvg-name="Enterr10 Bangla_289" tvg-language="ben" tvg-country="IN" group-title="Back channel",Enterr10 Bangla_289
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 channel-id="Enter10Bangla.in" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/enterr10-bangla.png" tvg-id="Enter10Bangla.in" tvg-name="Enterr10 Bangla_291" tvg-language="ben" tvg-country="IN" group-title="Back channel",Enterr10 Bangla_291
+#EXTINF:-1 channel-id="Enter10Bangla.in" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/enterr10-bangla.png" tvg-id="Enter10Bangla.in" tvg-name="Enterr10 Bangla_290" tvg-language="ben" tvg-country="IN" group-title="Back channel",Enterr10 Bangla_290
 https://mumt07.tangotv.in/zHjX9OFlENTERR10BANGLA/index.m3u8
-#EXTINF:-1 tvg-id="Enterr10Bangla.in@SD" tvg-name="Enterr10 Bangla_292" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/enterr10-bangla.png" tvg-chno="85" channel-id="Enterr10Bangla.in@SD" tvg-country="IN" tvg-language="ben" group-title="Back channel",Enterr10 Bangla_292
+#EXTINF:-1 tvg-id="Enterr10Bangla.in@SD" tvg-name="Enterr10 Bangla_291" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/enterr10-bangla.png" tvg-chno="85" channel-id="Enterr10Bangla.in@SD" tvg-country="IN" tvg-language="ben" group-title="Back channel",Enterr10 Bangla_291
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="EpicBharat.in@SD" tvg-name="Epic Bharat_293" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/epic-bharat.png" channel-id="EpicBharat.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Epic Bharat_293
+#EXTINF:-1 tvg-id="EpicBharat.in@SD" tvg-name="Epic Bharat_292" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/epic-bharat.png" channel-id="EpicBharat.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Epic Bharat_292
 https://epiconvh.akamaized.net/live/nazara/master.m3u8
-#EXTINF:-1 tvg-id="EpicBharat.in@SD" tvg-name="Epic Bharat_294" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/epic-bharat.png" channel-id="EpicBharat.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Epic Bharat_294
+#EXTINF:-1 tvg-id="EpicBharat.in@SD" tvg-name="Epic Bharat_293" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/epic-bharat.png" channel-id="EpicBharat.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Epic Bharat_293
 https://fta.ektv.in/live/471/master.m3u8
-#EXTINF:-1 tvg-id="EpicBhojpuri.in@SD" tvg-name="Epic Bhojpuri_295" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/epic-bhojpuri.png" channel-id="EpicBhojpuri.in@SD" tvg-country="IN" tvg-language="bho" group-title="Back channel",Epic Bhojpuri_295
+#EXTINF:-1 tvg-id="EpicBhojpuri.in@SD" tvg-name="Epic Bhojpuri_294" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/epic-bhojpuri.png" channel-id="EpicBhojpuri.in@SD" tvg-country="IN" tvg-language="bho" group-title="Back channel",Epic Bhojpuri_294
 https://fta.ektv.in/live/467/master.m3u8
-#EXTINF:-1 tvg-id="EpicBhojpuri.in@SD" tvg-name="Epic Bhojpuri_296" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/epic-bhojpuri.png" channel-id="EpicBhojpuri.in@SD" tvg-country="IN" tvg-language="bho" group-title="Back channel",Epic Bhojpuri_296
+#EXTINF:-1 tvg-id="EpicBhojpuri.in@SD" tvg-name="Epic Bhojpuri_295" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/epic-bhojpuri.png" channel-id="EpicBhojpuri.in@SD" tvg-country="IN" tvg-language="bho" group-title="Back channel",Epic Bhojpuri_295
 https://mumt01.tangotv.in/O5aw8Zn3EPICBHOJPURI/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="EpicBhojpuriDigital.in" tvg-name="Epic Bhojpuri Digital_297" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/epic-bhojpuri-digital.png" channel-id="EpicBhojpuriDigital.in" tvg-country="IN" tvg-language="bho" group-title="Back channel",Epic Bhojpuri Digital_297
+#EXTINF:-1 tvg-id="EpicBhojpuriDigital.in" tvg-name="Epic Bhojpuri Digital_296" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/epic-bhojpuri-digital.png" channel-id="EpicBhojpuriDigital.in" tvg-country="IN" tvg-language="bho" group-title="Back channel",Epic Bhojpuri Digital_296
 https://cc-8hy4a26pz2uos.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8hy4a26pz2uos/45b71b91-51a1-4cfd-a422-c7f32efbf377/3.m3u8
-#EXTINF:-1 tvg-id="EpicMusic.in@SD" tvg-name="Epic Music_298" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/epic-music.png" channel-id="EpicMusic.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Epic Music_298
+#EXTINF:-1 tvg-id="EpicMusic.in@SD" tvg-name="Epic Music_297" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/epic-music.png" channel-id="EpicMusic.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Epic Music_297
 https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8
-#EXTINF:-1 tvg-id="EpicMusic.in@SD" tvg-name="Epic Music_299" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/epic-music.png" channel-id="EpicMusic.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Epic Music_299
+#EXTINF:-1 tvg-id="EpicMusic.in@SD" tvg-name="Epic Music_298" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/epic-music.png" channel-id="EpicMusic.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Epic Music_298
 https://fta.ektv.in/live/469/master.m3u8
-#EXTINF:-1 tvg-id="EpicMusic.in@SD" tvg-name="Epic Music_300" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/epic-music.png" channel-id="EpicMusic.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Epic Music_300
+#EXTINF:-1 tvg-id="EpicMusic.in@SD" tvg-name="Epic Music_299" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/epic-music.png" channel-id="EpicMusic.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Epic Music_299
 https://iptvlive.ahmed-bd-org.workers.dev/epic-music-1/index.m3u8
-#EXTINF:-1 tvg-id="EpicMusic.in@SD" tvg-name="Epic Music_301" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/epic-music.png" channel-id="EpicMusic.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Epic Music_301
+#EXTINF:-1 tvg-id="EpicMusic.in@SD" tvg-name="Epic Music_300" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/epic-music.png" channel-id="EpicMusic.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Epic Music_300
 https://jmp2.uk/stvp-IN8000196E
-#EXTINF:-1 tvg-id="EpicMusic.in@SD" tvg-name="Epic Music_302" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/epic-music.png" channel-id="EpicMusic.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Epic Music_302
+#EXTINF:-1 tvg-id="EpicMusic.in@SD" tvg-name="Epic Music_301" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/epic-music.png" channel-id="EpicMusic.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Epic Music_301
 https://streams.tangotv.in/EPICMUSIC/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="EpicMusic.in@SD" tvg-name="Epic Music_303" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/epic-music.png" channel-id="EpicMusic.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Epic Music_303
+#EXTINF:-1 tvg-id="EpicMusic.in@SD" tvg-name="Epic Music_302" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/epic-music.png" channel-id="EpicMusic.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Epic Music_302
 https://cc-3cyxq80qusspd.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/d68f6612-3a4e-4ed4-9853-fc41801678d1/2.m3u8
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN_304" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/espn.png" channel-id="ESPN.us" tvg-country="US" tvg-language="eng" group-title="Back channel",ESPN_304
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN_303" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/espn.png" channel-id="ESPN.us" tvg-country="US" tvg-language="eng" group-title="Back channel",ESPN_303
 http://212.5.144.156:8080/espn/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN_305" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/espn.png" channel-id="ESPN.us" tvg-country="US" tvg-language="eng" group-title="Back channel",ESPN_305
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN_304" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/espn.png" channel-id="ESPN.us" tvg-country="US" tvg-language="eng" group-title="Back channel",ESPN_304
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN_306" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/espn.png" channel-id="ESPN.us" tvg-country="US" tvg-language="eng" group-title="Back channel",ESPN_306
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN_305" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/espn.png" channel-id="ESPN.us" tvg-country="US" tvg-language="eng" group-title="Back channel",ESPN_305
 https://tvsen5.aynaott.com/espn/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN_307" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/espn.png" channel-id="ESPN.us" tvg-country="US" tvg-language="eng" group-title="Back channel",ESPN_307
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN_306" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/espn.png" channel-id="ESPN.us" tvg-country="US" tvg-language="eng" group-title="Back channel",ESPN_306
 https://tvsen7.aynaott.com/espn/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport.fr@Asia" tvg-name="Eurosport_308" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/eurosport.png" channel-id="Eurosport.fr@Asia" tvg-country="FR" tvg-language="eng" group-title="Back channel",Eurosport_308
+#EXTINF:-1 tvg-id="Eurosport.fr@Asia" tvg-name="Eurosport_307" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/eurosport.png" channel-id="Eurosport.fr@Asia" tvg-country="FR" tvg-language="eng" group-title="Back channel",Eurosport_307
 http://103.253.74.210:7070/cloud/stream/122/index.m3u8
-#EXTINF:-1 tvg-id="FaktMarathi.in@SD" tvg-name="Fakt Marathi_309" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/fakt-marathi.png" channel-id="FaktMarathi.in@SD" tvg-country="IN" tvg-language="mar" group-title="Back channel",Fakt Marathi_309
+#EXTINF:-1 tvg-id="FaktMarathi.in@SD" tvg-name="Fakt Marathi_308" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/fakt-marathi.png" channel-id="FaktMarathi.in@SD" tvg-country="IN" tvg-language="mar" group-title="Back channel",Fakt Marathi_308
 https://cdn.pishow.tv/ott/live/10002/master.m3u8
-#EXTINF:-1 tvg-id="FaktMarathi.in@SD" tvg-name="Fakt Marathi_310" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/fakt-marathi.png" channel-id="FaktMarathi.in@SD" tvg-country="IN" tvg-language="mar" group-title="Back channel",Fakt Marathi_310
+#EXTINF:-1 tvg-id="FaktMarathi.in@SD" tvg-name="Fakt Marathi_309" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/fakt-marathi.png" channel-id="FaktMarathi.in@SD" tvg-country="IN" tvg-language="mar" group-title="Back channel",Fakt Marathi_309
 https://fta.ektv.in/live/188/master.m3u8
-#EXTINF:-1 tvg-id="fox.sports.com" tvg-name="FOX Sports_311" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/fox-sports.png" channel-id="fox.sports.com" tvg-country="US" tvg-language="eng" group-title="Back channel",FOX Sports_311
+#EXTINF:-1 tvg-id="fox.sports.com" tvg-name="FOX Sports_310" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/fox-sports.png" channel-id="fox.sports.com" tvg-country="US" tvg-language="eng" group-title="Back channel",FOX Sports_310
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports720p.m3u8
-#EXTINF:-1 tvg-id="GSeriesDrama.bd" tvg-name="G Series Drama_312" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/g-series-drama.png" channel-id="GSeriesDrama.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",G Series Drama_312
+#EXTINF:-1 tvg-id="GSeriesDrama.bd" tvg-name="G Series Drama_311" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/g-series-drama.png" channel-id="GSeriesDrama.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",G Series Drama_311
 https://vods2.aynaott.com/gseriesDrama/index.m3u8
-#EXTINF:-1 tvg-id="GaziTV.bd" tvg-name="G TV_313" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/g-tv.png" channel-id="GaziTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",G TV_313
+#EXTINF:-1 tvg-id="GaziTV.bd" tvg-name="G TV_312" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/g-tv.png" channel-id="GaziTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",G TV_312
 https://app.ncare.live/live-orgin/gazibdz.stream/live-orgin/gazibdz.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="GaziTV.bd" tvg-name="G TV_314" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/g-tv.png" channel-id="GaziTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",G TV_314
+#EXTINF:-1 tvg-id="GaziTV.bd" tvg-name="G TV_313" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/g-tv.png" channel-id="GaziTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",G TV_313
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="GaziTV.bd" tvg-name="G TV_315" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/g-tv.png" channel-id="GaziTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",G TV_315
+#EXTINF:-1 tvg-id="GaziTV.bd" tvg-name="G TV_314" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/g-tv.png" channel-id="GaziTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",G TV_314
 https://app.ncare.live/live-orgin/gazibdz.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="GangaurTV.in@SD" tvg-name="Gangaur TV_316" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/gangaur-tv.png" channel-id="GangaurTV.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Gangaur TV_316
+#EXTINF:-1 tvg-id="GangaurTV.in@SD" tvg-name="Gangaur TV_315" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/gangaur-tv.png" channel-id="GangaurTV.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Gangaur TV_315
 https://cdn.pishow.tv/ott/live/1221/master.m3u8
-#EXTINF:-1 tvg-id="GangaurTV.in@SD" tvg-name="Gangaur TV_317" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/gangaur-tv.png" channel-id="GangaurTV.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Gangaur TV_317
+#EXTINF:-1 tvg-id="GangaurTV.in@SD" tvg-name="Gangaur TV_316" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/gangaur-tv.png" channel-id="GangaurTV.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Gangaur TV_316
 https://mumt04.tangotv.in/m18aqlK4GANGAURTV/index.m3u8
-#EXTINF:-1 tvg-id="GlobalTV.bd" tvg-name="Global TV_318" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/global-tv-1080p-5ffc043912.png" channel-id="GlobalTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Global TV_318
+#EXTINF:-1 tvg-id="GlobalTV.bd" tvg-name="Global TV_317" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/global-tv-1080p-5ffc043912.png" channel-id="GlobalTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Global TV_317
 http://116.204.149.16/globaltv/index.m3u8
-#EXTINF:-1 tvg-id="GlobalTV.bd" tvg-name="Global TV_319" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/global-tv-1080p-5ffc043912.png" channel-id="GlobalTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Global TV_319
+#EXTINF:-1 tvg-id="GlobalTV.bd" tvg-name="Global TV_318" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/global-tv-1080p-5ffc043912.png" channel-id="GlobalTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Global TV_318
 http://116.204.149.16/globaltv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="GlobalTV.bd" tvg-name="Global TV_320" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/global-tv-1080p-5ffc043912.png" channel-id="GlobalTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Global TV_320
+#EXTINF:-1 tvg-id="GlobalTV.bd" tvg-name="Global TV_319" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/global-tv-1080p-5ffc043912.png" channel-id="GlobalTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Global TV_319
 http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Goldmines.in@SD" tvg-name="Goldmines_321" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/goldmines.png" channel-id="Goldmines.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Goldmines_321
+#EXTINF:-1 tvg-id="Goldmines.in@SD" tvg-name="Goldmines_320" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/goldmines.png" channel-id="Goldmines.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Goldmines_320
 http://163.61.226.31:9981/stream/channelid/863672695?profile=pass
-#EXTINF:-1 tvg-id="Goldmines.in@SD" tvg-name="Goldmines_322" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/goldmines.png" channel-id="Goldmines.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Goldmines_322
+#EXTINF:-1 tvg-id="Goldmines.in@SD" tvg-name="Goldmines_321" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/goldmines.png" channel-id="Goldmines.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Goldmines_321
 https://cdn.pishow.tv/ott/live/1459/master.m3u8
-#EXTINF:-1 tvg-id="Goldmines.in@SD" tvg-name="Goldmines_323" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/goldmines.png" channel-id="Goldmines.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Goldmines_323
+#EXTINF:-1 tvg-id="Goldmines.in@SD" tvg-name="Goldmines_322" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/goldmines.png" channel-id="Goldmines.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Goldmines_322
 https://mumt04.tangotv.in/m18aqlK4GOLDMINES/index.m3u8
-#EXTINF:-1 tvg-id="Goldmines.in@SD" tvg-name="Goldmines_324" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/goldmines.png" channel-id="Goldmines.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Goldmines_324
+#EXTINF:-1 tvg-id="Goldmines.in@SD" tvg-name="Goldmines_323" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/goldmines.png" channel-id="Goldmines.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Goldmines_323
 https://streams.tangotv.in/GOLDMINES/ORIGIN/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Goldmines.in@SD" tvg-name="Goldmines_325" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/goldmines.png" channel-id="Goldmines.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Goldmines_325
+#EXTINF:-1 tvg-id="Goldmines.in@SD" tvg-name="Goldmines_324" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/goldmines.png" channel-id="Goldmines.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Goldmines_324
 https://tvsen3.aynaott.com/VamXuQH8/index.m3u8
-#EXTINF:-1 tvg-id="Goldmines2.in@SD" tvg-name="Goldmines 2_326" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/goldmines-2.png" channel-id="Goldmines2.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Goldmines 2_326
+#EXTINF:-1 tvg-id="Goldmines2.in@SD" tvg-name="Goldmines 2_325" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/goldmines-2.png" channel-id="Goldmines2.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Goldmines 2_325
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="GoldminesAction.in" tvg-name="Goldmines Action_327" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/goldmines-action.png" channel-id="GoldminesAction.in" tvg-country="IN" tvg-language="hin" group-title="Back channel",Goldmines Action_327
+#EXTINF:-1 tvg-id="GoldminesAction.in" tvg-name="Goldmines Action_326" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/goldmines-action.png" channel-id="GoldminesAction.in" tvg-country="IN" tvg-language="hin" group-title="Back channel",Goldmines Action_326
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="GoldminesAction.in" tvg-name="Goldmines Action_328" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/goldmines-action.png" channel-id="GoldminesAction.in" tvg-country="IN" tvg-language="hin" group-title="Back channel",Goldmines Action_328
+#EXTINF:-1 tvg-id="GoldminesAction.in" tvg-name="Goldmines Action_327" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/goldmines-action.png" channel-id="GoldminesAction.in" tvg-country="IN" tvg-language="hin" group-title="Back channel",Goldmines Action_327
 https://fta.ektv.in/live/584/master.m3u8
-#EXTINF:-1 tvg-id="GoldminesBollywood.in@SD" tvg-name="Goldmines Bollywood_329" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/goldmines-bollywood.png" channel-id="GoldminesBollywood.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Goldmines Bollywood_329
+#EXTINF:-1 tvg-id="GoldminesBollywood.in@SD" tvg-name="Goldmines Bollywood_328" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/goldmines-bollywood.png" channel-id="GoldminesBollywood.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Goldmines Bollywood_328
 http://163.61.226.31:9981/stream/channelid/1436412639?profile=pass
-#EXTINF:-1 tvg-id="GoldminesBollywood.in@SD" tvg-name="Goldmines Bollywood_330" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/goldmines-bollywood.png" channel-id="GoldminesBollywood.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Goldmines Bollywood_330
+#EXTINF:-1 tvg-id="GoldminesBollywood.in@SD" tvg-name="Goldmines Bollywood_329" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/goldmines-bollywood.png" channel-id="GoldminesBollywood.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Goldmines Bollywood_329
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
-#EXTINF:-1 tvg-id="GoldminesBollywood.in@SD" tvg-name="Goldmines Bollywood_331" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/goldmines-bollywood.png" channel-id="GoldminesBollywood.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Goldmines Bollywood_331
+#EXTINF:-1 tvg-id="GoldminesBollywood.in@SD" tvg-name="Goldmines Bollywood_330" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/goldmines-bollywood.png" channel-id="GoldminesBollywood.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Goldmines Bollywood_330
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="GoldminesBollywood.in@SD" tvg-name="Goldmines Bollywood_332" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/goldmines-bollywood.png" channel-id="GoldminesBollywood.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Goldmines Bollywood_332
+#EXTINF:-1 tvg-id="GoldminesBollywood.in@SD" tvg-name="Goldmines Bollywood_331" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/goldmines-bollywood.png" channel-id="GoldminesBollywood.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Goldmines Bollywood_331
 https://streams.tangotv.in/GOLDMINESBOLLYWOOD/ORIGIN/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="GoldminesMovies.in@SD" tvg-name="Goldmines Movies_333" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/goldmines-movies.png" channel-id="GoldminesMovies.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Goldmines Movies_333
+#EXTINF:-1 tvg-id="GoldminesMovies.in@SD" tvg-name="Goldmines Movies_332" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/goldmines-movies.png" channel-id="GoldminesMovies.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Goldmines Movies_332
 http://163.61.226.31:9981/stream/channelid/1393052638?profile=pass
-#EXTINF:-1 tvg-id="GoldminesMovies.in@SD" tvg-name="Goldmines Movies_334" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/goldmines-movies.png" channel-id="GoldminesMovies.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Goldmines Movies_334
+#EXTINF:-1 tvg-id="GoldminesMovies.in@SD" tvg-name="Goldmines Movies_333" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/goldmines-movies.png" channel-id="GoldminesMovies.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Goldmines Movies_333
 https://cdn.pishow.tv/ott/live/1461/master.m3u8
-#EXTINF:-1 tvg-id="GoldminesMovies.in@SD" tvg-name="Goldmines Movies_335" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/goldmines-movies.png" channel-id="GoldminesMovies.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Goldmines Movies_335
+#EXTINF:-1 tvg-id="GoldminesMovies.in@SD" tvg-name="Goldmines Movies_334" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/goldmines-movies.png" channel-id="GoldminesMovies.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Goldmines Movies_334
 https://mumt04.tangotv.in/m18aqlK4GOLDMINEMOVIES/index.m3u8
-#EXTINF:-1 tvg-id="GoldminesMovies.in@SD" tvg-name="Goldmines Movies_336" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/goldmines-movies.png" channel-id="GoldminesMovies.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Goldmines Movies_336
+#EXTINF:-1 tvg-id="GoldminesMovies.in@SD" tvg-name="Goldmines Movies_335" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/goldmines-movies.png" channel-id="GoldminesMovies.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Goldmines Movies_335
 https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="GTCPunjabi.in@SD" tvg-name="GTC Punjabi_337" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/gtc-punjabi.png" channel-id="GTCPunjabi.in@SD" tvg-country="IN" tvg-language="pan" group-title="Back channel",GTC Punjabi_337
+#EXTINF:-1 tvg-id="GTCPunjabi.in@SD" tvg-name="GTC Punjabi_336" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/gtc-punjabi.png" channel-id="GTCPunjabi.in@SD" tvg-country="IN" tvg-language="pan" group-title="Back channel",GTC Punjabi_336
 https://cdn.ottlive.co.in/gtcpunjabi/index.m3u8
-#EXTINF:-1 tvg-id="HindiHits.in" tvg-name="Hindi Hits_338" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/hindi-hits.png" channel-id="HindiHits.in" tvg-country="IN" tvg-language="hin" group-title="Back channel",Hindi Hits_338
+#EXTINF:-1 tvg-id="HindiHits.in" tvg-name="Hindi Hits_337" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/hindi-hits.png" channel-id="HindiHits.in" tvg-country="IN" tvg-language="hin" group-title="Back channel",Hindi Hits_337
 http://146.59.253.52:8080/hindihitshd/index.m3u8
-#EXTINF:-1 tvg-id="HUMMasala.pk" tvg-name="HUM Masala_339" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/hum-masala.png" channel-id="HUMMasala.pk" tvg-country="PK" tvg-language="urd" group-title="Back channel",HUM Masala_339
+#EXTINF:-1 tvg-id="HUMMasala.pk" tvg-name="HUM Masala_338" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/hum-masala.png" channel-id="HUMMasala.pk" tvg-country="PK" tvg-language="urd" group-title="Back channel",HUM Masala_338
 http://38.101.217.46/HumMasala/index.m3u8
-#EXTINF:-1 tvg-id="HumTV.pk" tvg-name="Hum TV_340" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/hum-tv.png" channel-id="HumTV.pk" tvg-country="PK" tvg-language="urd" group-title="Back channel",Hum TV_340
+#EXTINF:-1 tvg-id="HumTV.pk" tvg-name="Hum TV_339" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/hum-tv.png" channel-id="HumTV.pk" tvg-country="PK" tvg-language="urd" group-title="Back channel",Hum TV_339
 https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/HUM/TV1/chunks_dvr.m3u8
-#EXTINF:-1 tvg-id="HumTV.pk" tvg-name="Hum TV_341" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/hum-tv.png" channel-id="HumTV.pk" tvg-country="PK" tvg-language="urd" group-title="Back channel",Hum TV_341
+#EXTINF:-1 tvg-id="HumTV.pk" tvg-name="Hum TV_340" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/hum-tv.png" channel-id="HumTV.pk" tvg-country="PK" tvg-language="urd" group-title="Back channel",Hum TV_340
 https://cdn4.mjunoon.tv:8087/streamtest/82M/chunks.m3u8
-#EXTINF:-1 tvg-id="Insync.in" tvg-name="Insync_342" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/insync.png" channel-id="Insync.in" tvg-country="IN" tvg-language="hin" group-title="Back channel",Insync_342
+#EXTINF:-1 tvg-id="Insync.in" tvg-name="Insync_341" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/insync.png" channel-id="Insync.in" tvg-country="IN" tvg-language="hin" group-title="Back channel",Insync_341
 https://d1msejlow1t3l4.cloudfront.net/fta/insync/playlist.m3u8
-#EXTINF:-1 tvg-id="Insync.in" tvg-name="Insync_343" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/insync.png" channel-id="Insync.in" tvg-country="IN" tvg-language="hin" group-title="Back channel",Insync_343
+#EXTINF:-1 tvg-id="Insync.in" tvg-name="Insync_342" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/insync.png" channel-id="Insync.in" tvg-country="IN" tvg-language="hin" group-title="Back channel",Insync_342
 https://fta.ektv.in/live/160/master.m3u8
-#EXTINF:-1 tvg-id="IqraBangla.uk" tvg-name="Iqra Bangla_344" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/iqra-bangla.png" channel-id="IqraBangla.uk" tvg-country="GB" tvg-language="ben" group-title="Back channel",Iqra Bangla_344
+#EXTINF:-1 tvg-id="IqraBangla.uk" tvg-name="Iqra Bangla_343" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/iqra-bangla.png" channel-id="IqraBangla.uk" tvg-country="GB" tvg-language="ben" group-title="Back channel",Iqra Bangla_343
 https://tvsen5.aynaott.com/iqrabangla/index.m3u8
-#EXTINF:-1 tvg-id="IqraBangla.uk" tvg-name="Iqra Bangla_345" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/iqra-bangla.png" channel-id="IqraBangla.uk" tvg-country="GB" tvg-language="ben" group-title="Back channel",Iqra Bangla_345
+#EXTINF:-1 tvg-id="IqraBangla.uk" tvg-name="Iqra Bangla_344" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/iqra-bangla.png" channel-id="IqraBangla.uk" tvg-country="GB" tvg-language="ben" group-title="Back channel",Iqra Bangla_344
 https://tvsen3.aynaott.com/EuEy5mBW/index.m3u8
-#EXTINF:-1 tvg-id="IqraBangla.uk" tvg-name="Iqra Bangla_346" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/iqra-bangla.png" channel-id="IqraBangla.uk" tvg-country="GB" tvg-language="ben" group-title="Back channel",Iqra Bangla_346
+#EXTINF:-1 tvg-id="IqraBangla.uk" tvg-name="Iqra Bangla_345" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/iqra-bangla.png" channel-id="IqraBangla.uk" tvg-country="GB" tvg-language="ben" group-title="Back channel",Iqra Bangla_345
 https://cd198.anystream.uk:9092/iqapp/iq53la/chunks.m3u8
-#EXTINF:-1 tvg-id="custom.islamchannelbangla" tvg-name="Islam Channel Bangla_347" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/islam-channel-bangla.png" channel-id="custom.islamchannelbangla" tvg-country="GB" tvg-language="ben" group-title="Back channel",Islam Channel Bangla_347
+#EXTINF:-1 tvg-id="custom.islamchannelbangla" tvg-name="Islam Channel Bangla_346" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/islam-channel-bangla.png" channel-id="custom.islamchannelbangla" tvg-country="GB" tvg-language="ben" group-title="Back channel",Islam Channel Bangla_346
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamchbangla.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="IslamicTV.bd" tvg-name="Islamic TV_348" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/islamic-tv.png" channel-id="IslamicTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Islamic TV_348
+#EXTINF:-1 tvg-id="IslamicTV.bd" tvg-name="Islamic TV_347" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/islamic-tv.png" channel-id="IslamicTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Islamic TV_347
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamictvbd.stream/index.m3u8
-#EXTINF:-1 tvg-id="JATV.bd" tvg-name="JA TV_349" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ja-tv.png" channel-id="JATV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",JA TV_349
+#EXTINF:-1 tvg-id="JATV.bd" tvg-name="JA TV_348" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ja-tv.png" channel-id="JATV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",JA TV_348
 https://dish.porosh.com.bd/hls/jtvnews.m3u8
-#EXTINF:-1 tvg-id="JagoNews24.bd" tvg-name="Jago News 24_350" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/jago-news-24.png" channel-id="JagoNews24.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Jago News 24_350
+#EXTINF:-1 tvg-id="JagoNews24.bd" tvg-name="Jago News 24_349" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/jago-news-24.png" channel-id="JagoNews24.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Jago News 24_349
 https://app.ncare.live/live-orgin/jagonews24.stream/live-orgin/jagonews24.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="JagoNews24.bd" tvg-name="Jago News 24_351" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/jago-news-24.png" channel-id="JagoNews24.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Jago News 24_351
+#EXTINF:-1 tvg-id="JagoNews24.bd" tvg-name="Jago News 24_350" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/jago-news-24.png" channel-id="JagoNews24.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Jago News 24_350
 https://iptvlive.ahmed-bd-org.workers.dev/jago-news-24-1/index.m3u8
-#EXTINF:-1 tvg-id="JaihindTV.in@SD" tvg-name="Jaihind TV_352" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/jaihind-tv-576p.png" channel-id="JaihindTV.in@SD" tvg-country="IN" tvg-language="mal" group-title="Back channel",Jaihind TV_352
+#EXTINF:-1 tvg-id="JaihindTV.in@SD" tvg-name="Jaihind TV_351" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/jaihind-tv-576p.png" channel-id="JaihindTV.in@SD" tvg-country="IN" tvg-language="mal" group-title="Back channel",Jaihind TV_351
 https://fta.ektv.in/live/700/master.m3u8
-#EXTINF:-1 tvg-id="JalwaTV.pk@SD" tvg-name="Jalwa TV_353" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/jalwa-tv.png" channel-id="JalwaTV.pk@SD" tvg-country="PK" tvg-language="urd" group-title="Back channel",Jalwa TV_353
+#EXTINF:-1 tvg-id="JalwaTV.pk@SD" tvg-name="Jalwa TV_352" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/jalwa-tv.png" channel-id="JalwaTV.pk@SD" tvg-country="PK" tvg-language="urd" group-title="Back channel",Jalwa TV_352
 https://vodzong.mjunoon.tv:8087/streamtest/JalwaTV-135/live/135M/chunks.m3u8
-#EXTINF:-1 tvg-id="JamunaTV.bd" tvg-name="Jamuna TV_354" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/jamuna-tv.png" channel-id="JamunaTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Jamuna TV_354
+#EXTINF:-1 tvg-id="JamunaTV.bd" tvg-name="Jamuna TV_353" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/jamuna-tv.png" channel-id="JamunaTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Jamuna TV_353
 https://iptv-proxy.ahmed-bd-org.workers.dev/jamuna-tv/index.m3u8
-#EXTINF:-1 tvg-id="JamunaTV.bd" tvg-name="Jamuna TV_355" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/jamuna-tv.png" channel-id="JamunaTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Jamuna TV_355
+#EXTINF:-1 tvg-id="JamunaTV.bd" tvg-name="Jamuna TV_354" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/jamuna-tv.png" channel-id="JamunaTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Jamuna TV_354
 https://iptvlive.ahmed-bd-org.workers.dev/jamuna-tv-1/index.m3u8
-#EXTINF:-1 tvg-id="Jonack.in@SD" tvg-name="Jonack_356" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/jonack.png" channel-id="Jonack.in@SD" tvg-country="IN" tvg-language="asm" group-title="Back channel",Jonack_356
+#EXTINF:-1 tvg-id="Jonack.in@SD" tvg-name="Jonack_355" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/jonack.png" channel-id="Jonack.in@SD" tvg-country="IN" tvg-language="asm" group-title="Back channel",Jonack_355
 https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
-#EXTINF:-1 tvg-id="KairaliTV.in@SD" tvg-name="Kairali TV_357" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/kairali-tv.png" channel-id="KairaliTV.in@SD" tvg-country="IN" tvg-language="mal" group-title="Back channel",Kairali TV_357
+#EXTINF:-1 tvg-id="KairaliTV.in@SD" tvg-name="Kairali TV_356" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/kairali-tv.png" channel-id="KairaliTV.in@SD" tvg-country="IN" tvg-language="mal" group-title="Back channel",Kairali TV_356
 https://mumt01.tangotv.in/O5aw8Zn3KAIRALI/index.m3u8
-#EXTINF:-1 tvg-id="KairaliWe.in@SD" tvg-name="Kairali We_358" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/kairali-we.png" channel-id="KairaliWe.in@SD" tvg-country="IN" tvg-language="mal" group-title="Back channel",Kairali We_358
+#EXTINF:-1 tvg-id="KairaliWe.in@SD" tvg-name="Kairali We_357" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/kairali-we.png" channel-id="KairaliWe.in@SD" tvg-country="IN" tvg-language="mal" group-title="Back channel",Kairali We_357
 https://cdn.pishow.tv/ott/live/1530/master.m3u8
-#EXTINF:-1 tvg-id="KairaliWe.in@SD" tvg-name="Kairali We_359" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/kairali-we.png" channel-id="KairaliWe.in@SD" tvg-country="IN" tvg-language="mal" group-title="Back channel",Kairali We_359
+#EXTINF:-1 tvg-id="KairaliWe.in@SD" tvg-name="Kairali We_358" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/kairali-we.png" channel-id="KairaliWe.in@SD" tvg-country="IN" tvg-language="mal" group-title="Back channel",Kairali We_358
 https://mumt01.tangotv.in/O5aw8Zn3WETV/index.m3u8
-#EXTINF:-1 tvg-id="KalaignarMurasu.in" tvg-name="Kalaignar Murasu_360" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/kalaignar-murasu.png" channel-id="KalaignarMurasu.in" tvg-country="IN" tvg-language="tam" group-title="Back channel",Kalaignar Murasu_360
+#EXTINF:-1 tvg-id="KalaignarMurasu.in" tvg-name="Kalaignar Murasu_359" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/kalaignar-murasu.png" channel-id="KalaignarMurasu.in" tvg-country="IN" tvg-language="tam" group-title="Back channel",Kalaignar Murasu_359
 https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
-#EXTINF:-1 tvg-id="KappaTV.in@ALT1" tvg-name="Kappa TV (Music)_361" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/kappa-tv.png" channel-id="KappaTV.in@ALT1" tvg-country="IN" tvg-language="mal" group-title="Back channel",Kappa TV (Music)_361
+#EXTINF:-1 tvg-id="KappaTV.in@ALT1" tvg-name="Kappa TV (Music)_360" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/kappa-tv.png" channel-id="KappaTV.in@ALT1" tvg-country="IN" tvg-language="mal" group-title="Back channel",Kappa TV (Music)_360
 https://d1msejlow1t3l4.cloudfront.net/fta/kappatv/playlist.m3u8
-#EXTINF:-1 tvg-id="KappaTV.in@ALT1" tvg-name="Kappa TV (Music)_362" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/kappa-tv.png" channel-id="KappaTV.in@ALT1" tvg-country="IN" tvg-language="mal" group-title="Back channel",Kappa TV (Music)_362
+#EXTINF:-1 tvg-id="KappaTV.in@ALT1" tvg-name="Kappa TV (Music)_361" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/kappa-tv.png" channel-id="KappaTV.in@ALT1" tvg-country="IN" tvg-language="mal" group-title="Back channel",Kappa TV (Music)_361
 https://mumt03.tangotv.in/Dsly5z3HKAPPATV/index.m3u8
-#EXTINF:-1 tvg-id="KeralaVision.in@SD" tvg-name="Kerala Vision_363" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/kerala-vision.png" channel-id="KeralaVision.in@SD" tvg-country="IN" tvg-language="mal" group-title="Back channel",Kerala Vision_363
+#EXTINF:-1 tvg-id="KeralaVision.in@SD" tvg-name="Kerala Vision_362" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/kerala-vision.png" channel-id="KeralaVision.in@SD" tvg-country="IN" tvg-language="mal" group-title="Back channel",Kerala Vision_362
 https://mumt03.tangotv.in/Dsly5z3HKERALAVISION/index.m3u8
+#EXTINF:-1 tvg-id="KhushbooBangla.in@SD" tvg-name="Khushboo Bangla_363" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/khushboo-bangla.png" channel-id="KhushbooBangla.in@SD" tvg-country="IN" tvg-language="ben" group-title="Back channel",Khushboo Bangla_363
+https://cdn.pishow.tv/ott/live/1473/master.m3u8
 #EXTINF:-1 tvg-id="KhushbooBangla.in@SD" tvg-name="Khushboo Bangla_364" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/khushboo-bangla.png" channel-id="KhushbooBangla.in@SD" tvg-country="IN" tvg-language="ben" group-title="Back channel",Khushboo Bangla_364
 https://mumt01.tangotv.in/O5aw8Zn3KHUSHBOOTVBANGLA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="KTVBangla.in@SD" tvg-name="KTV Bangla_365" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ktv-bangla.png" channel-id="KTVBangla.in@SD" tvg-country="IN" tvg-language="ben" group-title="Back channel",KTV Bangla_365
@@ -3003,18 +3003,18 @@ https://btv.hridoytv-channel.workers.dev/news.m3u8
 https://drk6xq0vhn.gpcdn.net/live/channel_1_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="Channel1.bd" tvg-name="Channel 1_591" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-1.png" channel-id="Channel1.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel 1_591
 https://stream.ottplus.live/live/channel_1_hd_abr/index.m3u8
-#EXTINF:-1 tvg-id="Channel24.bd" tvg-name="Channel 24_592" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-24.png" channel-id="Channel24.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel 24_592
-http://103.135.253.32:8080/Channel-24/index.m3u8
-#EXTINF:-1 tvg-id="Channel24.bd" tvg-name="Channel 24_593" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-24.png" channel-id="Channel24.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel 24_593
-https://drk6xq0vhn.gpcdn.net/live/channel_24_abr/index.m3u8
-#EXTINF:-1 tvg-id="Channel24.bd" tvg-name="Channel 24_594" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-24.png" channel-id="Channel24.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel 24_594
-https://iptvlive.ahmed-bd-org.workers.dev/channel-24-hd-1/index.m3u8
-#EXTINF:-1 tvg-id="Channel24.bd" tvg-name="Channel 24_595" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-24.png" channel-id="Channel24.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel 24_595
-https://stream.ottplus.live/live/channel_24_abr/index.m3u8
-#EXTINF:-1 tvg-id="Channel9.bd" tvg-name="Channel 9_596" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-9.png" channel-id="Channel9.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel 9_596
+#EXTINF:-1 tvg-id="Channel9.bd" tvg-name="Channel 9_592" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-9.png" channel-id="Channel9.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel 9_592
 https://tvsen6.aynaott.com/kajlsd57jnzxyo/tracks-v1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Channel9.bd" tvg-name="Channel 9_597" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-9.png" channel-id="Channel9.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel 9_597
+#EXTINF:-1 tvg-id="Channel9.bd" tvg-name="Channel 9_593" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-9.png" channel-id="Channel9.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel 9_593
 https://tvsen6.aynaott.com/kajlsd57jnzxyo/index.m3u8
+#EXTINF:-1 tvg-id="Channel24.bd" tvg-name="Channel 24_594" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-24.png" channel-id="Channel24.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel 24_594
+http://103.135.253.32:8080/Channel-24/index.m3u8
+#EXTINF:-1 tvg-id="Channel24.bd" tvg-name="Channel 24_595" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-24.png" channel-id="Channel24.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel 24_595
+https://drk6xq0vhn.gpcdn.net/live/channel_24_abr/index.m3u8
+#EXTINF:-1 tvg-id="Channel24.bd" tvg-name="Channel 24_596" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-24.png" channel-id="Channel24.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel 24_596
+https://iptvlive.ahmed-bd-org.workers.dev/channel-24-hd-1/index.m3u8
+#EXTINF:-1 tvg-id="Channel24.bd" tvg-name="Channel 24_597" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-24.png" channel-id="Channel24.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel 24_597
+https://stream.ottplus.live/live/channel_24_abr/index.m3u8
 #EXTINF:-1 tvg-id="Colors.in" tvg-name="Colors_598" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/colors-3cfc323d7c.png" channel-id="Colors.in" tvg-country="IN" tvg-language="hin" group-title="Back channel",Colors_598
 http://103.135.253.32:8080/Color-HD/index.m3u8
 #EXTINF:-1 tvg-id="Colors.in@HD" tvg-name="Colors_599" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/colors-3cfc323d7c.png" channel-id="Colors.in@HD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Colors_599
