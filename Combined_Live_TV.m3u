@@ -3,8 +3,8 @@
 # Playlist name : SM IPTV MAIN PLAYLIST
 # Developed by: Monirul Islam Shakib
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 05:42:14 AM 21-11-2026 (BD Time)
-# All channel : 1611
+# Last Updated: 11:45:11 AM 21-11-2026 (BD Time)
+# All channel : 1623
 # Back Channel : 665
 #=================================
 #EXTINF:-1 tvg-id="019de785-3984-7c6c-b734-30d6bb22b3b8" tvg-name="Ananda TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ananda-tv.png" group-title="Bnagla",Ananda TV
@@ -1663,14 +1663,6 @@ https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network.m3u8
 https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="custom.xsport" tvg-name="X SPORT" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/x-sport.png" tvg-chno="705" channel-id="custom.xsport" tvg-country="UA" tvg-language="ukr" group-title="Sports",X SPORT
 http://iptv.prosto.tv:7000/ch109/video.m3u8
-#EXTINF:-1 tvg-id="BTLTV.nl@SD" tvg-name="BTL TV (Netherlands) (1080p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/btl-tv-netherlands-1080p.png" group-title="Bnagla" x-discovery-source-country="BD",BTL TV (Netherlands) (1080p)
-https://cdn.liveplustv.com/v1/live/btl-tv/master.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.pk@SD" tvg-name="Cartoon Network (Pakistan)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/cartoon-network-pakistan.png" group-title="Kids" x-discovery-source-country="BD",Cartoon Network (Pakistan)
-https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.in@HD" tvg-name="National Geographic (India) HD (1080p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/national-geographic-india-hd-1080p.png" group-title="Bnagla" x-discovery-source-country="BD",National Geographic (India) HD (1080p)
-http://116.90.120.149:8000/play/a115/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.in@HD" tvg-name="National Geographic Wild (India) HD (1080p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/national-geographic-wild-india-hd-1080p.png" group-title="documentary" x-discovery-source-country="BD",National Geographic Wild (India) HD (1080p)
-http://116.90.120.149:8000/play/a11h/index.m3u8
 #EXTINF:-1 tvg-id="AyushNextCommunicationNetwork.in@SD" tvg-name="Ayush Next Communication Network (576p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ayush-next-communication-network-f7c7f33323dd3095ae15.png" group-title="Bnagla" x-discovery-source-country="IN",Ayush Next Communication Network (576p)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/60ab07b02a2942498cdd81f045a625a1/index.m3u8
 #EXTINF:-1 tvg-id="BollywoodMasala.in@SD" tvg-name="Bollywood Masala (1080p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/bollywood-masala-a6b8705b09a523f7b504.png" group-title="Movies hindi" x-discovery-source-country="IN",Bollywood Masala (1080p)
@@ -1681,18 +1673,12 @@ https://d2dgecfolnmfcv.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a
 https://d1qkhu31k9gfli.cloudfront.net/v1/a801314f85894ba289029d23aae579a7/airt16KSW.m3u8
 #EXTINF:-1 tvg-id="GaundaPunjabTV.ca@SD" tvg-name="Gaunda Punjab TV (720p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/gaunda-punjab-tv-720p.png" group-title="Bnagla" x-discovery-source-country="IN",Gaunda Punjab TV (720p)
 http://cdn6.live247stream.com/gaundapunjab/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Kabaddi24x7.in@SD" tvg-name="Kabaddi 24x7 (720p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/kabaddi-24x7.png" group-title="News" x-discovery-source-country="IN",Kabaddi 24x7 (720p)
-https://samitaorigin.tangotv.in/KABADDI24X7/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="MNX.in@SD" tvg-name="MNX (576p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mnx.png" group-title="Bnagla" x-discovery-source-country="IN",MNX (576p)
 http://116.90.120.149:8000/play/a11e/index.m3u8
 #EXTINF:-1 tvg-id="NDTVGoodTimes.in@SD" tvg-name="NDTV Good Times (1080p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ndtv-good-times.png" group-title="Bnagla" x-discovery-source-country="IN",NDTV Good Times (1080p)
 https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="PickleballNow.in@SD" tvg-name="Pickleball Now (720p) [Geo-blocked]" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/pickleball-now-720p-geo-blocked-0b59f9270029b91e10eb.png" group-title="Bnagla" x-discovery-source-country="IN",Pickleball Now (720p) [Geo-blocked]
-https://distro-timesgroup.vgcdn.net/vglive-sk-843549/playlist.m3u8
 #EXTINF:-1 tvg-id="PunjabPlus.in@SD" tvg-name="Punjab Plus (1080p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/punjab-plus-1080p.png" group-title="Bnagla" x-discovery-source-country="IN",Punjab Plus (1080p)
 https://punjabplustv.akamaized.net/punjabplustv/master.m3u8
-#EXTINF:-1 tvg-id="QelloConcertsbyStingray.ca@SD" tvg-name="Qello Concerts by Stingray (1080p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/qello-concerts-by-stingray.png" group-title="Bnagla" x-discovery-source-country="IN",Qello Concerts by Stingray (1080p)
-https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="SonyPix.in@HD" tvg-name="Sony Pix HD (1080p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sony-pix.png" group-title="Bnagla" x-discovery-source-country="IN",Sony Pix HD (1080p)
 http://116.90.120.149:8000/play/a138/index.m3u8
 #EXTINF:-1 tvg-id="ViiMEDIA.in@SD" tvg-name="Vii MEDIA (1080p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/vii-media-f846eef4fa28daa1283a.png" group-title="Bnagla" x-discovery-source-country="IN",Vii MEDIA (1080p)
@@ -1703,8 +1689,20 @@ https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 http://116.90.120.149:8000/play/a11o/index.m3u8
 #EXTINF:-1 tvg-id="ZodiakTV.in@SD" tvg-name="Zodiak TV (1080p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/zodiak-tv.png" group-title="Bnagla" x-discovery-source-country="IN",Zodiak TV (1080p)
 https://ranacable.duckdns.org/ZodiakTv/index.m3u8
-#EXTINF:-1 tvg-id="NickJr.in@SD" tvg-name="Nick Jr. (India) (576p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/nick-jr-india.png" group-title="Kids" x-discovery-source-country="BD",Nick Jr. (India) (576p)
-http://103.135.253.32:8080/NICK-Jr/index.m3u8
+#EXTINF:-1 tvg-id="StarGold2.in@SD" tvg-name="Star Gold 2 (576p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/star-gold-2.png" tvg-country="IN" group-title="Movies hindi" x-discovery-source-country="IN",Star Gold 2 (576p)
+http://116.90.120.149:8000/play/a12b/index.m3u8
+#EXTINF:-1 tvg-id="StarGoldRomance.in@SD" tvg-name="Star Gold Romance (576p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/star-gold-romance-c5fa568b2f3a21118f2b.png" tvg-country="IN" group-title="Movies hindi" x-discovery-source-country="IN",Star Gold Romance (576p)
+http://116.90.120.149:8000/play/a12c/index.m3u8
+#EXTINF:-1 tvg-id="TLC.in@HD" tvg-name="TLC (India) HD (1080p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/tlc-india.png" tvg-country="IN" group-title="Bnagla" x-discovery-source-country="IN",TLC (India) HD (1080p)
+http://116.90.120.149:8000/play/a11g/index.m3u8
+#EXTINF:-1 tvg-id="ZeeClassic.in@SD" tvg-name="Zee Classic (576p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/zee-classic-60a1348c57a3a772d876.png" tvg-country="IN" group-title="Bnagla" x-discovery-source-country="IN",Zee Classic (576p)
+http://116.90.120.149:8000/play/a121/index.m3u8
+#EXTINF:-1 tvg-id="ZeePower.in@HD" tvg-name="Zee Power HD (1080p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/zee-power-3af99da652f1686dfcae.png" tvg-country="IN" group-title="Bnagla" x-discovery-source-country="IN",Zee Power HD (1080p)
+http://116.90.120.149:8000/play/a11p/index.m3u8
+#EXTINF:-1 tvg-id="ZeeTalkies.in@HD" tvg-name="Zee Talkies HD (1080p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/zee-talkies-hd-1080p.png" tvg-country="IN" group-title="Bnagla" x-discovery-source-country="IN",Zee Talkies HD (1080p)
+http://116.90.120.149:8000/play/a116/index.m3u8
+#EXTINF:-1 tvg-id="ZeeThirai.in@HD" tvg-name="Zee Thirai HD (1080p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/zee-thirai-7ca309bb44820a2b7a4b.png" tvg-country="IN" group-title="Bnagla" x-discovery-source-country="IN",Zee Thirai HD (1080p)
+http://116.90.120.149:8000/play/a11q/index.m3u8
 #EXTINF:-1 tvg-id="DDKashir.in@SD" tvg-name="DD Kashir (576p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-kashir.png" group-title="Bnagla" x-discovery-source-country="IN",DD Kashir (576p)
 https://cdn.pishow.tv/ott/live/16/master.m3u8
 #EXTINF:-1 tvg-id="DDNational.in@HD" tvg-name="DD National HD (1080p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-national.png" group-title="Bnagla" x-discovery-source-country="IN",DD National HD (1080p)
@@ -1721,16 +1719,12 @@ https://cc-uyh1ow5zouoio.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://d3q3jhzdhmsx48.cloudfront.net/78e9244a64104ef48987207cea0cf20b/index.m3u8
 #EXTINF:-1 tvg-id="ETVPlus.in@HD" tvg-name="ETV Plus HD (1080p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/etv-plus-hd-1080p.png" group-title="Bnagla" x-discovery-source-country="IN",ETV Plus HD (1080p)
 https://d1qqzrxc7kpb0u.cloudfront.net/v1/50e3ae620bd6496cb3ac4294c877c36a/airtTA6RA.m3u8
-#EXTINF:-1 tvg-id="Eurosport.in@HD" tvg-name="Eurosport (India) HD (1080p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/eurosport-india-993030c6b65b4961f751.png" group-title="Sports" x-discovery-source-country="IN",Eurosport (India) HD (1080p)
-http://116.90.120.149:8000/play/a118/index.m3u8
 #EXTINF:-1 tvg-id="MHOne.in@SD" tvg-name="MH One (576p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mh-one.png" group-title="Bnagla" x-discovery-source-country="IN",MH One (576p)
 https://fta.ektv.in/live/353/master.m3u8
 #EXTINF:-1 tvg-id="MHOneDilSe.in@SD" tvg-name="MH One Dil Se (576p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mh-one-dil-se.png" group-title="Bnagla" x-discovery-source-country="IN",MH One Dil Se (576p)
 https://fta.ektv.in/live/351/master.m3u8
 #EXTINF:-1 tvg-id="MHOneMovies.in@SD" tvg-name="MH One Movies (576p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mh-one-movies.png" group-title="Bnagla" x-discovery-source-country="IN",MH One Movies (576p)
 https://fta.ektv.in/live/639/master.m3u8
-#EXTINF:-1 tvg-id="MNX.in@HD" tvg-name="MNX HD (1080p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mnx.png" group-title="Bnagla" x-discovery-source-country="IN",MNX HD (1080p)
-http://116.90.120.149:8000/play/a11m/index.m3u8
 #EXTINF:-1 tvg-id="MoviesNow.in@HD" tvg-name="Movies Now HD (1080p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/movies-now.png" group-title="Bnagla" x-discovery-source-country="IN",Movies Now HD (1080p)
 http://116.90.120.149:8000/play/a11f/index.m3u8
 #EXTINF:-1 tvg-id="MoviesNowPlus.in@HD" tvg-name="Movies Now + (1080p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/movies-now-plus-0cafc6cc49572c25cbc8.png" group-title="Bnagla" x-discovery-source-country="IN",Movies Now + (1080p)
@@ -1743,14 +1737,44 @@ https://cdn.pishow.tv/ott/live/1490/master.m3u8
 http://116.90.120.149:8000/play/a132/index.m3u8
 #EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-name="Sony Max HD (1080p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sony-max.png" group-title="Movies hindi" x-discovery-source-country="IN",Sony Max HD (1080p)
 http://116.90.120.149:8000/play/a123/index.m3u8
-#EXTINF:-1 tvg-id="SonyMax.in@SD" tvg-name="Sony Max (720p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sony-max.png" group-title="Movies hindi" x-discovery-source-country="IN",Sony Max (720p)
-https://drk6xq0vhn.gpcdn.net/hls/set_max_m4fb8dz2wp6kr9s_720/index.m3u8
 #EXTINF:-1 tvg-id="Spondon.in@SD" tvg-name="Spondon (1080p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/spondon.png" group-title="Bnagla" x-discovery-source-country="IN",Spondon (1080p)
 https://indianews-yupptv.vgcdn.net/vglive-sk-926943/index.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in@4KHDR" tvg-name="Travelxp 4K HDR (2160p) [Geo-blocked]" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/travelxp-4k-hdr-2160p-geo-blocked-b3aa521bb125b0495ef7.png" group-title="documentary" x-discovery-source-country="IN",Travelxp 4K HDR (2160p) [Geo-blocked]
 https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
 #EXTINF:-1 tvg-id="AndTV.in@HD" tvg-name="&TV HD (1080p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/and-tv-af1a6839d33bb0bcceb7.png" group-title="Bnagla" x-discovery-source-country="IN",&TV HD (1080p)
 http://116.90.120.149:8000/play/a133/index.m3u8
+#EXTINF:-1 tvg-id="ApnaPunjabTV.in@SD" tvg-name="Apna Punjab TV (India) (576p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/apna-punjab-tv-india-23af30c75dadda3dde96.png" tvg-country="IN" group-title="Bnagla" x-discovery-source-country="IN",Apna Punjab TV (India) (576p)
+https://samitaorigin.tangotv.in/APNAPUNJAB/SAMITAORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="StarSports1Hindi.in@HD" tvg-name="Star Sports 1 Hindi HD (1080p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/star-sports-1-hindi.png" tvg-country="IN" group-title="Sports" x-discovery-source-country="IN",Star Sports 1 Hindi HD (1080p)
+http://116.90.120.149:8000/play/a122/index.m3u8
+#EXTINF:-1 tvg-id="StarSports2.in@HD" tvg-name="Star Sports 2 HD (1080p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/star-sports-2.png" tvg-country="IN" group-title="Sports" x-discovery-source-country="IN",Star Sports 2 HD (1080p)
+http://116.90.120.149:8000/play/a120/index.m3u8
+#EXTINF:-1 tvg-id="SonySAB.in@HD" tvg-name="Sony SAB HD (1080p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sony-sab.png" tvg-country="IN" group-title="Bnagla" x-discovery-source-country="IN",Sony SAB HD (1080p)
+http://116.90.120.149:8000/play/a128/index.m3u8
+#EXTINF:-1 tvg-id="StarGold.in@HD" tvg-name="Star Gold HD (1080p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/verified-star-gold-hd-1080p-f2178a885b.png" tvg-country="IN" group-title="Movies hindi" x-discovery-source-country="IN",Star Gold HD (1080p)
+http://116.90.120.149:8000/play/a12a/index.m3u8
+#EXTINF:-1 tvg-id="StarGoldSelect.in@HD" tvg-name="Star Gold Select HD (1080p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/star-gold-select-fa81030f74.png" tvg-country="IN" group-title="Movies hindi" x-discovery-source-country="IN",Star Gold Select HD (1080p)
+http://116.90.120.149:8000/play/a131/index.m3u8
+#EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-name="Star Movies (India) HD (1080p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/star-movies-india-hd-1080p.png" tvg-country="IN" group-title="Bnagla" x-discovery-source-country="IN",Star Movies (India) HD (1080p)
+http://116.90.120.149:8000/play/a13a/index.m3u8
+#EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" tvg-name="Star Movies Select HD (1080p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/star-movies-select-776284c9b5222ea0ecf1.png" tvg-country="IN" group-title="Bnagla" x-discovery-source-country="IN",Star Movies Select HD (1080p)
+http://116.90.120.149:8000/play/a139/index.m3u8
+#EXTINF:-1 tvg-id="Kabaddi24x7.in@SD" tvg-name="Kabaddi 24x7 (720p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/kabaddi-24x7.png" tvg-country="IN" group-title="News" x-discovery-source-country="IN",Kabaddi 24x7 (720p)
+https://samitaorigin.tangotv.in/KABADDI24X7/SAMITAORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="PickleballNow.in@SD" tvg-name="Pickleball Now (720p) [Geo-blocked]" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/pickleball-now-720p-geo-blocked-0b59f9270029b91e10eb.png" tvg-country="IN" group-title="Bnagla" x-discovery-source-country="IN",Pickleball Now (720p) [Geo-blocked]
+https://distro-timesgroup.vgcdn.net/vglive-sk-843549/playlist.m3u8
+#EXTINF:-1 tvg-id="SonySportsTen1.in@HD" tvg-name="Sony Sports Ten 1 HD (1080p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sony-sports-ten-1.png" tvg-country="IN" group-title="Sports" x-discovery-source-country="IN",Sony Sports Ten 1 HD (1080p)
+http://116.90.120.149:8000/play/a11t/index.m3u8
+#EXTINF:-1 tvg-id="SonySportsTen2.in@HD" tvg-name="Sony Sports Ten 2 HD (1080p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sony-sports-ten-2.png" tvg-country="IN" group-title="Sports" x-discovery-source-country="IN",Sony Sports Ten 2 HD (1080p)
+http://116.90.120.149:8000/play/a137/index.m3u8
+#EXTINF:-1 tvg-id="SonySportsTen5.in@SD" tvg-name="Sony Sports Ten 5 (576p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sony-sports-ten-5.png" tvg-country="IN" group-title="Sports" x-discovery-source-country="IN",Sony Sports Ten 5 (576p)
+http://116.90.120.149:8000/play/a117/index.m3u8
+#EXTINF:-1 tvg-id="StarSports1.in@HD" tvg-name="Star Sports 1 HD (1080p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/star-sports-1.png" tvg-country="IN" group-title="Sports" x-discovery-source-country="IN",Star Sports 1 HD (1080p)
+http://116.90.120.149:8000/play/a11x/index.m3u8
+#EXTINF:-1 tvg-id="Unite8Sports1.in@SD" tvg-name="Unite8 Sports 1 (576p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/unite8-sports-1-c39b236b6693e186f49c.png" tvg-country="IN" group-title="Sports" x-discovery-source-country="IN",Unite8 Sports 1 (576p)
+http://116.90.120.149:8000/play/a11l/index.m3u8
+#EXTINF:-1 tvg-id="Unite8Sports2.in@HD" tvg-name="Unite8 Sports 2 HD (1080p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/unite8-sports-2.png" tvg-country="IN" group-title="Sports" x-discovery-source-country="IN",Unite8 Sports 2 HD (1080p)
+http://116.90.120.149:8000/play/a129/index.m3u8
 #EXTINF:-1 tvg-id="AndPictures.in@SD" tvg-name="&pictures" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/pictures.png" channel-id="AndPictures.in@SD" tvg-country="IN" tvg-language="hin" group-title="Bnagla",&pictures
 http://103.135.253.32:8080/PICTURE-HD/index.m3u8
 #EXTINF:-1 tvg-id="AMNTV.in@SD" tvg-name="AMN TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/amn-tv.png" channel-id="AMNTV.in@SD" tvg-country="IN" tvg-language="tam" group-title="Bnagla",AMN TV
