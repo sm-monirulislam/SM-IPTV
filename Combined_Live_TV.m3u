@@ -3,8 +3,8 @@
 # Playlist name : SM IPTV MAIN PLAYLIST
 # Developed by: Monirul Islam Shakib
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 10:50:13 PM 25-11-2026 (BD Time)
-# All channel : 1603
+# Last Updated: 07:36:26 AM 26-11-2026 (BD Time)
+# All channel : 1605
 # Back Channel : 660
 #=================================
 #EXTINF:-1 tvg-id="019de785-3984-7c6c-b734-30d6bb22b3b8" tvg-name="Ananda TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ananda-tv.png" group-title="Bnagla",Ananda TV
@@ -1711,6 +1711,10 @@ https://live.skystream.in/live/southvsnklm/index.m3u8
 https://online.wayanadvision.in/hls/wvmovies.m3u8
 #EXTINF:-1 tvg-id="WayanadVisionPlus.in@SD" tvg-name="Wayanad Vision Plus (720p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/wayanad-vision-plus-82bd345c3914db6ab3e2.png" tvg-country="IN" group-title="Bnagla" x-discovery-source-country="IN",Wayanad Vision Plus (720p)
 https://online.wayanadvision.in/hls/streaming1.m3u8
+#EXTINF:-1 tvg-id="MalabarPlus.in@SD" tvg-name="Malabar Plus (720p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/malabar-plus-d6e579c29354453addc3.png" tvg-country="IN" group-title="Bnagla" x-discovery-source-country="IN",Malabar Plus (720p)
+http://cloud.logichost.in:1935/live/mplus/index.m3u8
+#EXTINF:-1 tvg-id="Thanima.in@SD" tvg-name="Thanima (1080p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/thanima-83afbf82b637391714f3.png" tvg-country="IN" group-title="Bnagla" x-discovery-source-country="IN",Thanima (1080p)
+https://live.skystream.in/live/thanimatvtvm/index.m3u8
 #EXTINF:-1 tvg-id="EpicBharat.in@Digital" tvg-name="Epic Bharat Digital" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/epic-bharat.png" tvg-country="IN" tvg-language="hin" group-title="Bnagla" x-discovery-source-country="IN",Epic Bharat Digital
 https://dt4psgz92awc5.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/naazara_tv/master.m3u8
 #EXTINF:-1 tvg-id="AndPictures.in@SD" tvg-name="&pictures HD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/and-pictures.png" channel-id="AndPictures.in@SD" tvg-country="IN" tvg-language="hin" group-title="Bnagla",&pictures HD
@@ -1841,7 +1845,7 @@ https://aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playl
 http://103.135.253.32:8080/STAR-BHARAT/index.m3u8
 #EXTINF:-1 tvg-id="StarGold2.in@SD" tvg-name="Star Gold 2" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/star-gold-2.png" channel-id="StarGold2.in@SD" tvg-country="IN" tvg-language="hin" group-title="Movies hindi",Star Gold 2
 http://116.90.120.149:8000/play/a12b/index.m3u8
-#EXTINF:-1 tvg-id="StarGold.in@HD" tvg-name="Star Gold HD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/verified-star-gold-hd-1080p-f2178a885b.png" channel-id="StarGold.in@HD" tvg-country="IN" tvg-language="hin" group-title="Movies hindi",Star Gold HD
+#EXTINF:-1 tvg-id="StarGold.in@HD" tvg-name="Star Gold HD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/repaired-star-gold-de06c8e974.png" channel-id="StarGold.in@HD" tvg-country="IN" tvg-language="hin" group-title="Movies hindi",Star Gold HD
 http://103.135.253.32:8080/STAR-GOLD-HD/index.m3u8
 #EXTINF:-1 tvg-id="StarGoldRomance.in@SD" tvg-name="Star Gold Romance" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/star-gold-romance-c5fa568b2f3a21118f2b.png" channel-id="StarGoldRomance.in@SD" tvg-country="IN" tvg-language="hin" group-title="Movies hindi",Star Gold Romance
 http://116.90.120.149:8000/play/a12c/index.m3u8
@@ -3157,9 +3161,9 @@ http://59.103.38.46:8000/play/a0ac/index.m3u8
 http://116.90.120.149:8000/play/a128/index.m3u8
 #EXTINF:-1 tvg-id="Spondon.in@SD" tvg-name="Spondon_632" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/spondon.png" channel-id="Spondon.in@SD" tvg-country="IN" tvg-language="asm" group-title="Back channel",Spondon_632
 https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8
-#EXTINF:-1 tvg-id="StarGold.in@HD" tvg-name="Star Gold HD_633" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/verified-star-gold-hd-1080p-f2178a885b.png" channel-id="StarGold.in@HD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Star Gold HD_633
+#EXTINF:-1 tvg-id="StarGold.in@HD" tvg-name="Star Gold HD_633" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/repaired-star-gold-de06c8e974.png" channel-id="StarGold.in@HD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Star Gold HD_633
 http://103.185.24.134:3001/Star-Gold/index.m3u8
-#EXTINF:-1 tvg-id="StarGold.in@HD" tvg-name="Star Gold HD_634" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/verified-star-gold-hd-1080p-f2178a885b.png" channel-id="StarGold.in@HD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Star Gold HD_634
+#EXTINF:-1 tvg-id="StarGold.in@HD" tvg-name="Star Gold HD_634" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/repaired-star-gold-de06c8e974.png" channel-id="StarGold.in@HD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Star Gold HD_634
 http://116.90.120.149:8000/play/a12a/index.m3u8
 #EXTINF:-1 tvg-id="StarGoldSelect.in@HD" tvg-name="Star Gold Select HD_635" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/star-gold-select-fa81030f74.png" channel-id="StarGoldSelect.in@HD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Star Gold Select HD_635
 http://116.90.120.149:8000/play/a131/index.m3u8
