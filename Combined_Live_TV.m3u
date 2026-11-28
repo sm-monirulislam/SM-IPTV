@@ -3,8 +3,8 @@
 # Playlist name : SM IPTV MAIN PLAYLIST
 # Developed by: Monirul Islam Shakib
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 10:12:16 PM 27-11-2026 (BD Time)
-# All channel : 1430
+# Last Updated: 07:08:13 AM 28-11-2026 (BD Time)
+# All channel : 1431
 # Back Channel : 528
 #=================================
 #EXTINF:-1 tvg-id="019de785-3984-7c6c-b734-30d6bb22b3b8" tvg-name="Ananda TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ananda-tv.png" group-title="Bnagla",Ananda TV
@@ -1811,6 +1811,8 @@ http://103.16.24.4:8083/12.m3u8
 http://103.16.24.4:8083/6.m3u8
 #EXTINF:-1 tvg-id="ZeeAction.in@SD" tvg-name="Zee Action (576p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/zee-action.png" tvg-country="IN" group-title="Bnagla" x-discovery-source-country="IN",Zee Action (576p)
 http://103.175.73.12:8080/live/270/270_0.m3u8
+#EXTINF:-1 tvg-id="DDAssam.in@SD" tvg-name="DD Assam (576p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-assam.png" tvg-country="IN" group-title="Bnagla" x-discovery-source-country="IN",DD Assam (576p)
+https://fta.ektv.in/live/672/master.m3u8
 #EXTINF:-1 tvg-id="019de785-3a30-7db9-88de-2fd29c69b7e8" tvg-name="Sky Cinema Animation_1" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/images_dd0ae7d1d48dff6162092845645fc1c7_playmist_sky_cinema_animation_400x400.jpg" group-title="Back channel",Sky Cinema Animation_1
 https://tvsen7.aynaott.com/skycinemanimation/index.m3u8
 #EXTINF:-1 tvg-id="AnandaTV.bd" tvg-name="Ananda TV_2" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ananda-tv.png" tvg-chno="1" channel-id="AnandaTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Ananda TV_2
