@@ -1,8 +1,8 @@
-name: SM IPTV Main Playlist
+name: Auto Generate Combined Live TV Playlist
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 permissions:
@@ -43,7 +43,7 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
 
-          git add images/ Combined_Live_TV.m3u
+          git add images/ "channel status/" Combined_Live_TV.m3u
 
           if git diff --cached --quiet; then
             echo "No changes detected."
